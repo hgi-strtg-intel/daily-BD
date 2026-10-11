@@ -1,13 +1,17 @@
 {
-  "updated": "2026-10-12 08:43",
+  "updated": "2026-10-12 08:59",
   "articles": [
     {
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "For CPG companies, agentic AI’s real payoff is growth",
-      "category": "기타",
-      "takeaway": "",
-      "bullets": [],
+      "category": "인슈어테크·AI",
+      "takeaway": "에이전틱 AI가 유통 채널 복잡성 속 매출 회복의 핵심 수단으로 부상",
+      "bullets": [
+        "소매업체와의 관계 복잡화로 CPG 기업 매출 손실 가속",
+        "에이전틱 AI는 자율 실행까지 가능해 단순 분석 AI와 차별화",
+        "리더십의 기술 수용 준비도가 실질 성과의 핵심 변수"
+      ],
       "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
       "date": "10/09",
       "collected_at": "2026-10-12"
@@ -16,9 +20,13 @@
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "Why AI’s easiest wins are misleading CEOs",
-      "category": "기타",
-      "takeaway": "",
-      "bullets": [],
+      "category": "인슈어테크·AI",
+      "takeaway": "초기 AI 성공 사례가 CEO의 전략적 판단을 오도할 수 있다는 경고",
+      "bullets": [
+        "쉬운 AI 과제의 성과가 전사 전환 가능성을 과대평가하게 만듦",
+        "난이도 높은 핵심 업무에서의 AI 적용은 별도 전략 필요",
+        "보험사도 단순 자동화 성공에 안주 말고 난제 적용 로드맵 수립 요구"
+      ],
       "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
       "date": "10/07",
       "collected_at": "2026-10-12"
@@ -27,9 +35,13 @@
       "publisher": "Bain",
       "type": "consulting",
       "title": "Realization Rate: The Metric Reshaping Enterprise AI",
-      "category": "기타",
-      "takeaway": "",
-      "bullets": [],
+      "category": "인슈어테크·AI",
+      "takeaway": "AI 투자 실현율(Realization Rate)이 기업 AI 경쟁력의 새 핵심 지표로 등장",
+      "bullets": [
+        "실현율 = AI 잠재 가치 대비 실제 달성 가치 비율로 정의",
+        "소프트웨어 공급사의 고객 가치 실현 지원이 차세대 경쟁우위 원천",
+        "보험사는 AI 도입 비용뿐 아니라 실현율 관리 체계 구축 필요"
+      ],
       "url": "https://www.bain.com/insights/realization-rate-the-metric-reshaping-enterprise-ai/",
       "date": "10/08",
       "collected_at": "2026-10-12"
@@ -38,9 +50,13 @@
       "publisher": "Bain",
       "type": "consulting",
       "title": "Reduce, Reuse, Recycle: Inside Faerch’s Closed-Loop Business Model",
-      "category": "기타",
-      "takeaway": "",
-      "bullets": [],
+      "category": "글로벌 동향",
+      "takeaway": "산업용 순환경제 모델이 ESG 전략의 실질적 사례로 주목받음",
+      "bullets": [
+        "Faerch는 포장재 폐기물을 재원료화하는 폐쇄형 루프 모델 운영",
+        "Climate Week NYC 2026에서 산업 규모 재활용 실행 사례로 소개",
+        "보험사 ESG 투자 심사 시 순환경제 비즈니스 모델 평가 기준 참고 가능"
+      ],
       "url": "https://www.bain.com/insights/reduce-reuse-recycle-inside-faerchs-closed-loop-business-model-video/",
       "date": "10/08",
       "collected_at": "2026-10-12"
@@ -49,9 +65,13 @@
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "투자자산과 노후자산의 조화를 위한 연금세제 개편",
-      "category": "기타",
-      "takeaway": "",
-      "bullets": [],
+      "category": "고령화·헬스케어",
+      "takeaway": "투자자산과 노후자산 간 세제 불균형 해소가 연금 활성화의 선결 과제",
+      "bullets": [
+        "현행 연금세제는 투자·노후 자산 간 과세 형평성 미흡",
+        "세제 개편 방향에 따라 보험사 연금상품 경쟁력 직접 영향",
+        "장기 노후소득 보장 강화를 위한 구조적 제도 개선 논의 필요"
+      ],
       "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881539",
       "date": "",
       "collected_at": "2026-10-12"
@@ -60,9 +80,13 @@
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "생명보험회사의 장기물 중심 환헤지 전략 검토",
-      "category": "기타",
-      "takeaway": "",
-      "bullets": [],
+      "category": "자본·재무",
+      "takeaway": "생명보험사의 장기물 중심 환헤지 전략이 ALM(자산부채관리) 안정성의 핵심 변수",
+      "bullets": [
+        "장기 외화자산 확대로 환헤지 비용·만기 불일치 리스크 증가",
+        "단기 헤지 롤오버(만기 연장) 전략의 비용 부담과 한계 분석",
+        "장기 헤지 수단 확대 및 통화스왑 활용 전략 검토 필요성 제기"
+      ],
       "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881089",
       "date": "",
       "collected_at": "2026-10-12"
