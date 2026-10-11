@@ -1,95 +1,109 @@
 {
-  "updated": "2026-10-09 23:19",
+  "updated": "2026-10-12 08:53",
   "items": [
     {
       "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
       "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
       "source": "TechCrunch",
       "date": "10/08",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "insight": "AI로 모기지 대출 자동화, 에이전트 기반 핀테크 부상",
+      "takeaway": "AI로 모기지 대출 자동화, 에이전트 기반 핀테크 부상",
+      "bullets": [
+        "Vesta, 3천만 달러 시리즈 투자 유치",
+        "Conversion Capital이 라운드 주도",
+        "AI 에이전트로 모기지 대출 처리 지원"
+      ]
     },
     {
       "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
       "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
       "source": "TechCrunch",
       "date": "10/07",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "insight": "실리콘밸리 외 글로벌 창업자 지원에 3.2억 달러 베팅",
+      "takeaway": "실리콘밸리 외 글로벌 창업자 지원에 3.2억 달러 베팅",
+      "bullets": [
+        "Endeavor Catalyst, 3억 2천만 달러 펀드 조성",
+        "실리콘밸리 외 지역 창업자 집중 지원",
+        "수익 절반은 비영리 단체에 환원"
+      ]
     },
     {
-      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-      "source": "TechCrunch",
-      "date": "10/05",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "title": "Oxide Computer raises $445M to step up data center rack production",
+      "url": "https://siliconangle.com/2026/10/09/oxide-computer-raises-445m-to-step-up-data-center-rack-production/",
+      "source": "SiliconANGLE",
+      "date": "10/10",
+      "insight": "데이터센터 하드웨어 스타트업에 4.45억 달러 대규모 투자",
+      "takeaway": "데이터센터 하드웨어 스타트업에 4.45억 달러 대규모 투자",
+      "bullets": [
+        "Oxide Computer, 시리즈D로 4억 4,500만 달러 유치",
+        "Eclipse Capital이 라운드 주도",
+        "AMD Ventures 등도 참여"
+      ]
     },
     {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "source": "TechCrunch",
-      "date": "10/05",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "title": "Warehouse robot maker Ultra Robotics bags $62M",
+      "url": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/",
+      "source": "SiliconANGLE",
+      "date": "10/09",
+      "insight": "창고 자동화 로봇 스타트업, 두 라운드 합산 6,200만 달러 확보",
+      "takeaway": "창고 자동화 로봇 스타트업, 두 라운드 합산 6,200만 달러 확보",
+      "bullets": [
+        "Ultra Robotics, 총 6,200만 달러 투자 유치",
+        "시리즈A에서 5,000만 달러 조달",
+        "창고 물류 자동화 로봇 전문 기업"
+      ]
+    },
+    {
+      "title": "Jev creator TypeSafe closes $870M round at $7.5B valuation",
+      "url": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/",
+      "source": "SiliconANGLE",
+      "date": "10/09",
+      "insight": "Jev AI 모델 개발사, 75억 달러 밸류에이션으로 8.7억 달러 유치",
+      "takeaway": "Jev AI 모델 개발사, 75억 달러 밸류에이션으로 8.7억 달러 유치",
+      "bullets": [
+        "TypeSafe, 8억 7,000만 달러 대형 라운드 마감",
+        "a16z가 라운드 주도",
+        "기업 가치 75억 달러로 평가"
+      ]
     },
     {
       "title": "Gallatin AI raises $50M in funding for its military logistics platform",
       "url": "https://siliconangle.com/2026/10/08/gallatin-ai-raises-50m-in-funding-for-its-military-logistics-platform/",
       "source": "SiliconANGLE",
       "date": "10/09",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "insight": "군 물류 AI 플랫폼, 방산 특화 시리즈A 5천만 달러 확보",
+      "takeaway": "군 물류 AI 플랫폼, 방산 특화 시리즈A 5천만 달러 확보",
+      "bullets": [
+        "Gallatin AI, 5,000만 달러 시리즈A 완료",
+        "8VC, Silent Ventures 등 참여",
+        "군사 물류 소프트웨어 전문 개발사"
+      ]
     },
     {
       "title": "Alphabet spinoff Isomorphic Labs reportedly raising funding at up to $50B valuation",
       "url": "https://siliconangle.com/2026/10/08/alphabet-spinoff-isomorphic-labs-reportedly-raising-funding-at-up-to-50b-valuation/",
       "source": "SiliconANGLE",
       "date": "10/08",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "insight": "구글 스핀오프 신약 발굴 AI, 최대 500억 달러 밸류 추진",
+      "takeaway": "구글 스핀오프 신약 발굴 AI, 최대 500억 달러 밸류 추진",
+      "bullets": [
+        "Isomorphic Labs, 신규 펀딩 라운드 협의 중",
+        "기업 가치 최대 500억 달러 거론",
+        "Alphabet 스핀오프로 AI 신약 개발 특화"
+      ]
     },
     {
       "title": "AI agent developer Manus raises $500M+ at reported $4B valuation",
       "url": "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/",
       "source": "SiliconANGLE",
       "date": "10/08",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Automation Anywhere acquires Boost.ai to expand customer-facing voice AI",
-      "url": "https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/",
-      "source": "SiliconANGLE",
-      "date": "10/08",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
-      "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m/",
-      "source": "SiliconANGLE",
-      "date": "10/08",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Harness acquires Augment Code to bridge software engineering from idea to deployment",
-      "url": "https://siliconangle.com/2026/10/08/harness-acquires-augment-code-to-bridge-software-engineering-from-idea-to-deployment/",
-      "source": "SiliconANGLE",
-      "date": "10/08",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
+      "insight": "중국 AI 에이전트 Manus, 40억 달러 밸류에 5억 달러 이상 유치",
+      "takeaway": "중국 AI 에이전트 Manus, 40억 달러 밸류에 5억 달러 이상 유치",
+      "bullets": [
+        "Manus, 5억 달러 이상 대규모 투자 유치",
+        "PE 기업 Boyu Capital이 참여",
+        "중국 AI 에이전트 스타트업으로 주목"
+      ]
     }
   ]
 }
