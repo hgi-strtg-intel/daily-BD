@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-12 08:59",
+  "updated": "2026-10-12 11:13",
   "articles": [
     {
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "For CPG companies, agentic AI’s real payoff is growth",
       "category": "인슈어테크·AI",
-      "takeaway": "에이전틱 AI가 유통 채널 복잡성 속 매출 회복의 핵심 수단으로 부상",
+      "takeaway": "에이전틱 AI가 CPG 유통 복잡성을 해소하며 성장 동력으로 부상 중.",
       "bullets": [
-        "소매업체와의 관계 복잡화로 CPG 기업 매출 손실 가속",
-        "에이전틱 AI는 자율 실행까지 가능해 단순 분석 AI와 차별화",
-        "리더십의 기술 수용 준비도가 실질 성과의 핵심 변수"
+        "AI 에이전트가 소매 채널 데이터 분석·실행까지 자동화해 이탈 매출 회수",
+        "리더십의 기술 수용 준비도가 실질 성과의 핵심 변수로 지목",
+        "보험사 영업채널 최적화에도 유사 적용 가능성 시사"
       ],
       "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
       "date": "10/09",
@@ -21,11 +21,11 @@
       "type": "consulting",
       "title": "Why AI’s easiest wins are misleading CEOs",
       "category": "인슈어테크·AI",
-      "takeaway": "초기 AI 성공 사례가 CEO의 전략적 판단을 오도할 수 있다는 경고",
+      "takeaway": "AI 초기 성과에 안주하면 CEO가 변혁적 잠재력을 놓칠 수 있다.",
       "bullets": [
-        "쉬운 AI 과제의 성과가 전사 전환 가능성을 과대평가하게 만듦",
-        "난이도 높은 핵심 업무에서의 AI 적용은 별도 전략 필요",
-        "보험사도 단순 자동화 성공에 안주 말고 난제 적용 로드맵 수립 요구"
+        "단기·쉬운 자동화 성공이 오히려 대규모 혁신 투자 의지를 약화",
+        "진정한 AI 가치는 핵심 비즈니스 모델 재편에서 발생",
+        "보험사도 단순 언더라이팅 자동화 너머의 전략적 AI 로드맵 필요"
       ],
       "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
       "date": "10/07",
@@ -36,11 +36,11 @@
       "type": "consulting",
       "title": "Realization Rate: The Metric Reshaping Enterprise AI",
       "category": "인슈어테크·AI",
-      "takeaway": "AI 투자 실현율(Realization Rate)이 기업 AI 경쟁력의 새 핵심 지표로 등장",
+      "takeaway": "AI 투자 실현율(Realization Rate)이 기업 경쟁우위의 새 척도로 부상.",
       "bullets": [
-        "실현율 = AI 잠재 가치 대비 실제 달성 가치 비율로 정의",
-        "소프트웨어 공급사의 고객 가치 실현 지원이 차세대 경쟁우위 원천",
-        "보험사는 AI 도입 비용뿐 아니라 실현율 관리 체계 구축 필요"
+        "소프트웨어 공급자의 차별화 포인트가 기능→고객 가치 실현 지원으로 이동",
+        "AI 도입률보다 실질 성과 달성률이 핵심 KPI로 재정의",
+        "보험사의 AI 벤더 선정 기준으로 실현율 지표 도입 검토 필요"
       ],
       "url": "https://www.bain.com/insights/realization-rate-the-metric-reshaping-enterprise-ai/",
       "date": "10/08",
@@ -51,11 +51,11 @@
       "type": "consulting",
       "title": "Reduce, Reuse, Recycle: Inside Faerch’s Closed-Loop Business Model",
       "category": "글로벌 동향",
-      "takeaway": "산업용 순환경제 모델이 ESG 전략의 실질적 사례로 주목받음",
+      "takeaway": "포장재 기업 Faerch의 순환경제 모델은 ESG 경영의 산업적 확장 사례.",
       "bullets": [
-        "Faerch는 포장재 폐기물을 재원료화하는 폐쇄형 루프 모델 운영",
-        "Climate Week NYC 2026에서 산업 규모 재활용 실행 사례로 소개",
-        "보험사 ESG 투자 심사 시 순환경제 비즈니스 모델 평가 기준 참고 가능"
+        "폐쇄형 재활용(Closed-Loop) 모델을 산업 규모로 구현한 실증 사례",
+        "Climate Week NYC 2026에서 소개된 지속가능 비즈니스 혁신 논의",
+        "보험사 ESG 투자·언더라이팅 기준 수립 시 참고 가능한 모범 사례"
       ],
       "url": "https://www.bain.com/insights/reduce-reuse-recycle-inside-faerchs-closed-loop-business-model-video/",
       "date": "10/08",
@@ -66,11 +66,11 @@
       "type": "research_institute",
       "title": "투자자산과 노후자산의 조화를 위한 연금세제 개편",
       "category": "고령화·헬스케어",
-      "takeaway": "투자자산과 노후자산 간 세제 불균형 해소가 연금 활성화의 선결 과제",
+      "takeaway": "투자·노후자산 세제 정합성 확보가 연금시장 활성화의 선결 과제.",
       "bullets": [
-        "현행 연금세제는 투자·노후 자산 간 과세 형평성 미흡",
-        "세제 개편 방향에 따라 보험사 연금상품 경쟁력 직접 영향",
-        "장기 노후소득 보장 강화를 위한 구조적 제도 개선 논의 필요"
+        "투자자산과 연금자산 간 세제 불균형이 노후 대비 자산 배분 왜곡 유발",
+        "연금세제 개편으로 생보사 연금상품 경쟁력 제고 가능성",
+        "장기 연금 수요 확대 시 생명보험사 ALM(자산부채관리) 전략에 직접 영향"
       ],
       "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881539",
       "date": "",
@@ -81,11 +81,11 @@
       "type": "research_institute",
       "title": "생명보험회사의 장기물 중심 환헤지 전략 검토",
       "category": "자본·재무",
-      "takeaway": "생명보험사의 장기물 중심 환헤지 전략이 ALM(자산부채관리) 안정성의 핵심 변수",
+      "takeaway": "생보사 장기물 중심 환헤지 전략은 금리·환율 복합 리스크 관리의 핵심.",
       "bullets": [
-        "장기 외화자산 확대로 환헤지 비용·만기 불일치 리스크 증가",
-        "단기 헤지 롤오버(만기 연장) 전략의 비용 부담과 한계 분석",
-        "장기 헤지 수단 확대 및 통화스왑 활용 전략 검토 필요성 제기"
+        "초장기 부채 특성상 단기 헤지보다 장기물 환헤지가 ALM 정합성 높임",
+        "환헤지 비용 급등 환경에서 만기 구조 최적화 전략 재검토 필요",
+        "IFRS17·K-ICS 하에서 헤지 회계 처리와의 연계성도 주요 고려 사항"
       ],
       "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881089",
       "date": "",
