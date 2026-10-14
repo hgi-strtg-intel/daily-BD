@@ -1,69 +1,82 @@
 {
-  "updated": "2026-10-13 23:58",
+  "updated": "2026-10-14 21:50",
   "items": [
     {
-      "title": "Business video automation startup Clueso raises $10M to kill off manual production processes",
-      "url": "https://siliconangle.com/2026/10/13/business-video-automation-startup-clueso-raises-10m-to-kill-off-manual-production-processes/",
+      "title": "Harmonic Security raises $50M to govern how employees use AI tools",
+      "url": "https://siliconangle.com/2026/10/14/harmonic-security-raises-50m-to-govern-how-employees-use-ai-tools/",
       "source": "SiliconANGLE",
-      "date": "10/13",
-      "insight": "비즈니스 영상 자동화 스타트업 Clueso, 1000만 달러 조달",
-      "takeaway": "비즈니스 영상 자동화 스타트업 Clueso, 1000만 달러 조달",
+      "date": "10/14",
+      "insight": "직원의 AI 툴 사용을 통제하는 보안 플랫폼, 5천만 달러 유치",
+      "takeaway": "직원의 AI 툴 사용을 통제하는 보안 플랫폼, 5천만 달러 유치",
       "bullets": [
-        "Dharana Capital 주도로 초기 라운드 1000만 달러 유치",
-        "비즈니스 팀 특화 에이전틱 영상 제작 플랫폼",
-        "수동 영상 제작 프로세스 대체 목표"
+        "Harmonic Security, 시리즈 펀딩 5천만 달러 조달",
+        "직원의 AI 도구 사용 거버넌스 플랫폼 운영",
+        "워크플레이스 AI 보안 스타트업으로 성장 추진"
       ]
     },
     {
-      "title": "What to expect from theCUBE’s Smarsh EDGE analysis: Tune in Oct. 15",
-      "url": "https://siliconangle.com/2026/10/12/ai-powered-compliance-smarshedge/",
+      "title": "Uvi raises $7.5M to help AI agents learn business context and run at eight times lower cost",
+      "url": "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/",
       "source": "SiliconANGLE",
-      "date": "10/12",
-      "insight": "금융권 AI 도입 속도에 컴플라이언스 통제 체계가 뒤처지는 상황",
-      "takeaway": "금융권 AI 도입 속도에 컴플라이언스 통제 체계가 뒤처지는 상황",
+      "date": "10/14",
+      "insight": "비즈니스 컨텍스트 학습으로 AI 비용 8배 절감, 750만 달러 시드 확보",
+      "takeaway": "비즈니스 컨텍스트 학습으로 AI 비용 8배 절감, 750만 달러 시드 확보",
       "bullets": [
-        "금융기관의 AI 도입 속도가 컴플라이언스 통제보다 빠름",
-        "AI 기반 컴플라이언스 관련 새로운 의문 제기",
-        "Smarsh EDGE 분석 행사 10월 15일 예정"
+        "Uvi, 시드 라운드 750만 달러 조달 발표",
+        "AI 에이전트의 비즈니스 컨텍스트 비용 문제 해결",
+        "기존 대비 8배 낮은 비용으로 에이전트 운영 가능"
       ]
     },
     {
-      "title": "Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding",
-      "url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
+      "title": "Evos bags $9M to build autonomous workers that learn from companies’ most experienced humans",
+      "url": "https://siliconangle.com/2026/10/14/evos-bags-9m-to-build-autonomous-workers-that-learn-from-companies-most-experienced-humans/",
       "source": "SiliconANGLE",
-      "date": "10/12",
-      "insight": "Mistlabs, 2600만 달러 투자로 Apple 기기용 AI 베타 종료·정식 출시",
-      "takeaway": "Mistlabs, 2600만 달러 투자로 Apple 기기용 AI 베타 종료·정식 출시",
+      "date": "10/14",
+      "insight": "중소기업 숙련 인력 노하우를 AI로 학습하는 자율 워커, 900만 달러 유치",
+      "takeaway": "중소기업 숙련 인력 노하우를 AI로 학습하는 자율 워커, 900만 달러 유치",
       "bullets": [
-        "앰비언트 AI 시스템 Ambi, Apple 기기 정식 출시",
-        "2600만 달러 신규 펀딩 확보",
-        "주변 환경을 인식해 작동하는 AI 시스템 표방"
+        "Evos, 프리시드 라운드 900만 달러 조달",
+        "중소기업 숙련자로부터 학습하는 AI 자동화 구현",
+        "소규모 기업 내 AI 기반 자동화 도입 촉진 목표"
       ]
     },
     {
-      "title": "E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences",
-      "url": "https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/",
+      "title": "Offensive security startup CodeWall launches with $4M for AI agents that attack enterprises",
+      "url": "https://siliconangle.com/2026/10/14/offensive-security-startup-codewall-launches-with-4m-for-ai-agents-that-attack-enterprises/",
       "source": "SiliconANGLE",
-      "date": "10/12",
-      "insight": "이커머스 AI 스타트업 Loops, 350만 달러로 온라인 쇼핑 경험 개선 도전",
-      "takeaway": "이커머스 AI 스타트업 Loops, 350만 달러로 온라인 쇼핑 경험 개선 도전",
+      "date": "10/14",
+      "insight": "기업을 직접 공격하는 AI 에이전트로 취약점 탐지, 400만 달러로 출범",
+      "takeaway": "기업을 직접 공격하는 AI 에이전트로 취약점 탐지, 400만 달러로 출범",
       "bullets": [
-        "시드 펀딩 350만 달러 유치",
-        "온라인 소매업체의 구매 여정 간소화 목표",
-        "에이전틱 AI 기반 쇼핑 경험 최적화 지향"
+        "런던 기반 CodeWall, 400만 달러 펀딩으로 공식 론칭",
+        "은행 등 기업 대상 공격형 AI 에이전트 제공",
+        "오펜시브 보안 방식으로 기업 취약점 사전 점검"
       ]
     },
     {
-      "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition",
-      "url": "https://siliconangle.com/2026/10/11/report-amazon-in-talks-with-ai-startup-decart-over-possible-7b-acquisition/",
+      "title": "Forgepoint raises $9.8M to automate custom price quotes for manufacturing firms",
+      "url": "https://siliconangle.com/2026/10/14/forgepoint-raises-9-8m-to-automate-custom-price-quotes-for-manufacturing-firms/",
       "source": "SiliconANGLE",
-      "date": "10/12",
-      "insight": "Amazon, AI 스타트업 Decart를 70억 달러에 인수 협상 중 보도",
-      "takeaway": "Amazon, AI 스타트업 Decart를 70억 달러에 인수 협상 중 보도",
+      "date": "10/14",
+      "insight": "제조업 맞춤 견적 자동화로 미국 제조 부흥 수혜 기대, 980만 달러 유치",
+      "takeaway": "제조업 맞춤 견적 자동화로 미국 제조 부흥 수혜 기대, 980만 달러 유치",
       "bullets": [
-        "인수 규모 최대 70억 달러 수준으로 알려짐",
-        "Decart는 AI 개발 스타트업",
-        "아직 협상 단계로 확정되지 않은 상황"
+        "Forgepoint, 980만 달러 펀딩 조달",
+        "제조 기업의 커스텀 가격 견적 자동화 솔루션",
+        "트럼프 제조업 부흥 정책과 맞물려 시장 주목"
+      ]
+    },
+    {
+      "title": "Pluto Security nabs $42M to help enterprises secure their AI agents",
+      "url": "https://siliconangle.com/2026/10/13/pluto-security-nabs-42m-to-help-enterprises-secure-their-ai-agents/",
+      "source": "SiliconANGLE",
+      "date": "10/14",
+      "insight": "AI 에이전트 보안 전문 스타트업, 시드·후속 합산 4,200만 달러 조달",
+      "takeaway": "AI 에이전트 보안 전문 스타트업, 시드·후속 합산 4,200만 달러 조달",
+      "bullets": [
+        "Pluto Security, 총 4,200만 달러 펀딩 완료",
+        "전체 금액 약 5분의 1은 시드 라운드로 조달",
+        "기업용 AI 에이전트 보안 소프트웨어 전문 제공"
       ]
     }
   ]
