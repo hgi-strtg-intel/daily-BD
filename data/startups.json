@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-15 23:43",
+  "updated": "2026-10-16 00:13",
   "items": [
     {
       "title": "120ft raises angel funding to build autonomous microfactories run by humanoid robots",
       "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "휴머노이드 로봇 자율 마이크로공장, 스웨덴 스타트업 등장",
-      "takeaway": "휴머노이드 로봇 자율 마이크로공장, 스웨덴 스타트업 등장",
+      "insight": "휴머노이드 로봇 자율 마이크로공장, 소규모 앤젤 투자로 스웨덴서 출범",
+      "takeaway": "휴머노이드 로봇 자율 마이크로공장, 소규모 앤젤 투자로 스웨덴서 출범",
       "bullets": [
-        "120ft Factory AB, 64만4천달러 엔젤 투자 유치",
-        "22명의 엔젤 투자자 참여",
-        "휴머노이드 로봇 기반 자율 마이크로공장 구축"
+        "스웨덴 스타트업 120ft, 64만4천달러 앤젤 펀딩 유치",
+        "22명의 앤젤 투자자 참여",
+        "휴머노이드 로봇 기반 자율 마이크로공장 구축 목표"
       ]
     },
     {
@@ -19,10 +19,10 @@
       "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Anthropic, 분기 매출 45% 성장·조정 기준 흑자로 IPO 임박",
-      "takeaway": "Anthropic, 분기 매출 45% 성장·조정 기준 흑자로 IPO 임박",
+      "insight": "Anthropic, Q3 매출 168억달러·흑자전환으로 IPO 앞두고 급성장 입증",
+      "takeaway": "Anthropic, Q3 매출 168억달러·흑자전환으로 IPO 앞두고 급성장 입증",
       "bullets": [
-        "3분기 매출 168억 달러, 전분기 대비 45% 성장",
+        "Q3 매출 168억달러, 전분기 대비 45% 성장",
         "조정 기준 흑자 전환 달성",
         "IPO를 앞두고 재무 성과 공개"
       ]
@@ -32,12 +32,12 @@
       "url": "https://siliconangle.com/2026/10/14/multiple-states-sue-openai-accusing-it-of-harming-children-and-deceiving-parents/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "8개 주, ChatGPT 아동 유해·부모 기만 혐의로 OpenAI 제소",
-      "takeaway": "8개 주, ChatGPT 아동 유해·부모 기만 혐의로 OpenAI 제소",
+      "insight": "미국 8개 주, OpenAI를 아동 안전·소비자 기만 혐의로 집단 제소",
+      "takeaway": "미국 8개 주, OpenAI를 아동 안전·소비자 기만 혐의로 집단 제소",
       "bullets": [
-        "아이오와·캔자스·네브래스카 등 8개 주 공동 소송",
-        "ChatGPT가 아동에게 위험하다고 주장",
-        "부모를 기만하는 마케팅 혐의 포함"
+        "아이오와·캔자스·네브래스카 등 8개 주 소송 제기",
+        "ChatGPT가 아동에게 해롭다는 혐의",
+        "부모를 기만하는 마케팅 관행도 문제 삼음"
       ]
     },
     {
@@ -45,12 +45,12 @@
       "url": "https://siliconangle.com/2026/10/14/chemical-sourcing-startup-scimplify-closes-25m-investment/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "화학 소싱 플랫폼 Scimplify, 히타치 주도 2500만달러 유치",
-      "takeaway": "화학 소싱 플랫폼 Scimplify, 히타치 주도 2500만달러 유치",
+      "insight": "화학 소싱 스타트업 Scimplify, 히타치 주도 시리즈C 2500만달러 조달",
+      "takeaway": "화학 소싱 스타트업 Scimplify, 히타치 주도 시리즈C 2500만달러 조달",
       "bullets": [
-        "시리즈 C 라운드 2500만 달러 조달",
-        "히타치가 라운드 리드",
-        "기업 화학 원료 소싱 지원 플랫폼"
+        "기업의 제품 제조용 화학물질 소싱 지원 플랫폼",
+        "히타치 주도 시리즈C 2500만달러 유치",
+        "TechCrunch가 오늘 보도"
       ]
     },
     {
@@ -58,12 +58,12 @@
       "url": "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/",
       "source": "SiliconANGLE",
       "date": "10/14",
-      "insight": "AI 인프라 스타트업 Modal, 7억5천만달러 유치 기업가치 157억달러",
-      "takeaway": "AI 인프라 스타트업 Modal, 7억5천만달러 유치 기업가치 157억달러",
+      "insight": "AI 인프라 Modal, 시리즈D 7.5억달러·기업가치 157.5억달러 달성",
+      "takeaway": "AI 인프라 Modal, 시리즈D 7.5억달러·기업가치 157.5억달러 달성",
       "bullets": [
-        "Accel 주도 시리즈 D 7억5천만 달러 조달",
-        "기업가치 157억5천만 달러 평가",
-        "Kleiner Perkins 등 추가 참여"
+        "Accel 주도, Kleiner Perkins 등 참여한 시리즈D",
+        "기업가치 157억5천만달러 평가",
+        "AI 인프라 제공 기업으로 대규모 후기 투자 유치"
       ]
     },
     {
@@ -71,12 +71,12 @@
       "url": "https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/",
       "source": "SiliconANGLE",
       "date": "10/14",
-      "insight": "광회로 스위칭 기술로 AI 가속, Salience Labs 1억2500만달러 확보",
-      "takeaway": "광회로 스위칭 기술로 AI 가속, Salience Labs 1억2500만달러 확보",
+      "insight": "완전 광학 회로 스위칭 기술로 AI 가속화 노리는 Salience Labs, 1.25억달러 조달",
+      "takeaway": "완전 광학 회로 스위칭 기술로 AI 가속화 노리는 Salience Labs, 1.25억달러 조달",
       "bullets": [
-        "시리즈 B 1억2500만 달러 유치",
-        "Bullhound Capital 주도",
-        "세계 최고 수준 완전 광학 회로 스위칭 기술 보유 주장"
+        "세계 최고 수준 완전 광학 회로 스위칭 기술 보유 주장",
+        "Bullhound Capital 주도 시리즈B 1.25억달러 유치",
+        "AI 워크로드 속도 향상을 목표로 사업 확장"
       ]
     }
   ]
