@@ -1,13 +1,13 @@
 {
   "asOf": "2026-10-16",
-  "updated": "2026-10-16 00:13",
+  "updated": "2026-10-16 00:19",
   "fx": "환율 2026-10-15 · 시장환율   1 USD = ₩1,343.24   |   1 USD = 17,943.00 IDR   |   1 IDR = ₩0.07486",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "차원태 대표의 AI 융합기업 전환 선언이 실제 사업 체질 변화로 이어지고 있다는 평가 기사 게재",
-      "impact": "AI 융합 방향성이 사업 체질 변화로 이어질 경우 CGT/CDMO 사업가치에 중장기 영향 가능하나 현 단계는 기사 수준",
-      "level": "low",
+      "company": "차AI헬스케어",
+      "text": "신년사 중간점검 기사에서 'AI 융합기업 도약' 선언의 이행 현황을 보도, 사업 체질 변화 진행 중으로 평가",
+      "impact": "사업모델 전환 진행이 확인되는 수준이나 실적 반영 여부는 미확정, 지분가치 재평가 트리거 여부 지속 모니터링 필요",
+      "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5"
     }
   ],
@@ -17,7 +17,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "C",
-      "event": "AI 융합·체질 전환 시도",
+      "event": "주요 변동 없음",
       "tags": [
         "+0.13%",
         "당사 투자"
@@ -82,13 +82,13 @@
         }
       ],
       "events": [
-        "AI 융합 전략 방향은 제시됐으나 CGT/CDMO 핵심 사업 진척을 뒷받침할 구체 공시 없음",
-        "자금조달·지분구조 변동 관련 신규 공시 부재로 지분가치 단기 변동 요인 없음"
+        "금주 공시·기사 중 CGT/CDMO 기술 진척·자금조달에 영향을 주는 실질적 변화 없음",
+        "임원 컨퍼런스 발언·주가 등락 기사 외 사업가치 변동 요인 미확인"
       ],
       "watch": [
-        "CDMO 신규 수주 계약 공시 여부",
+        "미국 CDMO 신규 수주 공시 여부",
         "CB·유상증자 등 자금조달 공시",
-        "CGT 임상 단계 진척 공시"
+        "CGT 핵심 파이프라인 임상 진행 업데이트"
       ],
       "spark": [
         {
@@ -507,8 +507,8 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "AI 융합 전환 진행 중",
       "tags": [
         "-2.03%",
         "당사 투자"
@@ -573,12 +573,13 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "신년사 중간점검 기사가 'AI 융합기업 도약' 선언의 이행 여부를 다루고 있어 사업모델 전환 가시성이 일부 확인되는 국면",
+        "전환 성과가 실적(매출·영업손익)으로 반영되기까지의 시차 및 지속성이 지분가치 판단의 핵심 변수"
       ],
       "watch": [
-        "분기 매출·영업손익 발표 시점",
-        "헬스케어 신규 고객사·파트너십 공시",
-        "사업모델 전환 관련 추가 공시"
+        "헬스케어 전환 매출 비중 추이",
+        "영업손익 개선 분기별 추적",
+        "신규 고객사·파트너십 계약 공시"
       ],
       "spark": [
         {
@@ -860,6 +861,13 @@
           "level": "low",
           "date": "10/08",
           "collected_at": "2026-10-09"
+        },
+        {
+          "summary": "신년사 중간점검 기사에서 'AI 융합기업 도약' 선언의 이행 현황을 보도, 사업 체질 변화 진행 중으로 평가",
+          "impact": "사업모델 전환 진행이 확인되는 수준이나 실적 반영 여부는 미확정, 지분가치 재평가 트리거 여부 지속 모니터링 필요",
+          "level": "mid",
+          "date": "10/14",
+          "collected_at": "2026-10-16"
         }
       ]
     },
@@ -868,7 +876,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "핵심이익 성장 주목",
+      "event": "주요 변동 없음",
       "tags": [
         "-1.90%",
         "벤치마크"
@@ -913,8 +921,8 @@
         ],
         [
           "시가총액",
-          "$3.43B",
-          "4.60조"
+          "$3.42B",
+          "4.59조"
         ],
         [
           "52주 고점대비",
@@ -933,13 +941,12 @@
         }
       ],
       "events": [
-        "월가에서 core profit 성장 여부를 주요 변수로 주시 중이나 구체 실적 수치는 미확인",
-        "옵션 시장 데이터 외 투자 판단에 유의미한 재무 지표 변화는 확인 안 됨"
+        "금주 노출 기사는 옵션 시세·SNS 커뮤니티·법률 리뷰 수준으로 IFP·Loss Ratio 등 핵심 지표에 영향을 주는 정보 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 발표 확인",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 가이던스"
+        "IFP 성장률 분기 실적 발표",
+        "Loss Ratio·EBITDA 흑자전환 시점",
+        "밸류에이션 멀티플 변동 요인"
       ],
       "spark": [
         {
@@ -1198,8 +1205,14 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 10/14 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zVVRuMEhLY2VjYm5Hb3hLRHFzSDY4VzVMRHowd216M1F5eVh5QVlkWnZBYUM4eXF1X3Y4bUhMNV9MbmNQVkJUVW5IRUp5d3ZiYlVMWUtrT0lWTkJxZEs4QWtsRHVmdw?oc=5",
       "sources": [
+        {
+          "title": "루멘 Oct 2026 41.500 put (루멘261023P00041500) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zVVRuMEhLY2VjYm5Hb3hLRHFzSDY4VzVMRHowd216M1F5eVh5QVlkWnZBYUM4eXF1X3Y4bUhMNV9MbmNQVkJUVW5IRUp5d3ZiYlVMWUtrT0lWTkJxZEs4QWtsRHVmdw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/15"
+        },
         {
           "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
@@ -1207,21 +1220,15 @@
           "date": "10/15"
         },
         {
+          "title": "루멘 Oct 2026 38.000 put (루멘261030P00038000) interactive stock chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83LXoxN3NMU2ZQazVTem9QakJEOEVOQ2RkaFVYcVhxZHkyYmotWjF0M3pSNDN2cjdDNU9xNW9nU3Q4SVBxVlBTTUpHZS1WZ0NWMHdOVW1IZnhfMjlLT0h0dU8xdFpuNTdBNDQ5Y3d3?oc=5",
+          "source": "Yahoo Finance UK",
+          "date": "10/15"
+        },
+        {
           "title": "When Life Gives You 루멘, Check the Receipts",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbndvblNEZ0NYbGl5YTBLR09zRGpucHZvQ0RvX01FSWQ5RVZEdTZ5ZEFuNEhCZ3ZiVGJRVWFqWlRrT3owbmJablhJdThJdzRjaU4tQkdYR2tweTcydHVVSE9OeHF2eUkwbnFLNHdJbUJ5YWhLNk84LXZEMTAyb2dtMkNTZU1vbDDSAYwBQVVfeXFMT2NRTVRrcVBOVHN1WWJQZ1RWR3VvVl94WXF5UjA0ZGc3X2ZlQzR4QTEtNk92aXdrYS1TU1B4TFoxTXVSdm5fVEllNUlIaXloZ2MyNzZJdGcwaUNjMXlvSW5LS2UwWENYdmt2bGM0QXB0M1pqRlJneWxsamlCQ3dPTTR4WjRqR1NkNmFRcEI?oc=5",
           "source": "The National Law Review",
-          "date": "10/14"
-        },
-        {
-          "title": "루멘261030C00047000 Interactive Stock Chart | 루멘 Oct 2026 47.000 call Stock - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PWENIRndCNDZnRURqYURMQ1R3Q282SkJsOGZfSWxnYTdXS1dkZDRoSjRjNkV0bHltRkFXc2J0cVUzMHFVc3NvTm5ydm9lTkpfNkV4WldOQzdlLV9MSXBTZ0VXaVY?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/14"
-        },
-        {
-          "title": "루멘 Oct 2026 50.000 call (루멘261030C00050000) Stock Historical Prices & Data - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZmRsdExmUW45NXplR3NhR2tHR0p5OFUxQnJxaFljeW5GYWlEUEl1NHdZb2ZPYVFPempVX2h0d2U0eUhHNEhHX0FQS2EtZnZxb0V3Ukc2UVoxcU1ESHpnS09yN0lacERYSjJNVHdKT0Q?oc=5",
-          "source": "Yahoo! Finance Canada",
           "date": "10/14"
         }
       ],
@@ -1434,8 +1441,8 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 모니터링",
-        "RBC 비율 분기 공시 확인",
+        "OJK 규제 변경 공시 여부",
+        "RBC 비율 분기 업데이트",
         "PIKK 개정 관련 업계 동향"
       ],
       "spark": [
@@ -3443,6 +3450,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-16 00:18"
+    "updated": "2026-10-16 00:23"
   }
 }
