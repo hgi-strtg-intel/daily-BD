@@ -1,14 +1,21 @@
 {
-  "asOf": "2026-10-14",
-  "updated": "2026-10-14 21:50",
-  "fx": "환율 2026-10-14 · 시장환율   1 USD = ₩1,339.35   |   1 USD = 17,893.00 IDR   |   1 IDR = ₩0.07485",
+  "asOf": "2026-10-15",
+  "updated": "2026-10-15 21:37",
+  "fx": "환율 2026-10-15 · 시장환율   1 USD = ₩1,345.48   |   1 USD = 17,932.00 IDR   |   1 IDR = ₩0.07503",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "차바이오그룹 판교 2만평 바이오 클러스터 가동이 초읽기 단계에 진입했다고 보도됨.",
-      "impact": "CGT/CDMO 생산 인프라 확장으로 당사 보유 지분의 사업가치 상승 가능성 존재.",
-      "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tVlU5ZXJla3lGSEdrRVBkdGZHYlFOZU5UMGwxcmw3UnIxV0VMSHZtN1AzMEJOd08xVGlJUlR0NkhPaF9UdkdsWFRzSVN5Q0V0RnRTZ01BVWFsS2sxN2hGeQ?oc=5"
+      "text": "신년사 중간점검 기사에서 차원태 대표의 AI 융합기업 전환 전략이 실제 추진 중이라고 보도",
+      "impact": "AI 융합 방향성은 중장기 사업가치에 영향 가능하나, CGT/CDMO 핵심 지표 변화 없어 지분가치 즉각 영향은 제한적",
+      "level": "low",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5"
+    },
+    {
+      "company": "루멘",
+      "text": "월가 분석가들이 루멘의 핵심 이익 성장 가시성에 신중한 시각을 유지한다고 보도",
+      "impact": "EBITDA 흑자전환 시점 불확실성이 지속되어 신규 투자 검토를 위한 밸류에이션 판단 근거 확보가 지연됨",
+      "level": "low",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5"
     }
   ],
   "companies": [
@@ -16,23 +23,23 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "바이오 클러스터 가동 임박",
+      "g": "C",
+      "event": "AI 융합 전략 추진 중",
       "tags": [
-        "+0.13%",
+        "-4.41%",
         "당사 투자"
       ],
-      "priceText": "₩7,710",
-      "openText": "₩7,700",
-      "highText": "₩7,850",
-      "lowText": "₩7,630",
-      "prevCloseText": "₩7,700",
-      "changeText": "+₩10",
+      "priceText": "₩7,370",
+      "openText": "₩7,510",
+      "highText": "₩7,620",
+      "lowText": "₩7,210",
+      "prevCloseText": "₩7,710",
+      "changeText": "-₩340",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,710",
+          "₩7,370",
           null
         ],
         [
@@ -42,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-39.79%",
+          "-42.44%",
           null
         ],
         [
           "전일대비",
-          "+0.13%",
+          "-4.41%",
           null
         ],
         [
           "전주대비",
-          "-5.98%",
+          "-10.12%",
           null
         ],
         [
           "거래량(20일比)",
-          "20.60만 · 1.04x",
+          "34.38만 · 1.76x",
           null
         ],
         [
           "시가총액",
-          "7,168억",
+          "6,852억",
           null
         ],
         [
           "52주 고점대비",
-          "-67.81%",
+          "-69.23%",
           null
         ]
       ],
@@ -82,19 +89,15 @@
         }
       ],
       "events": [
-        "판교 클러스터 가동은 CGT/CDMO 생산 인프라 확충 신호로, 중장기 사업가치 상승 여지",
-        "AI 융합·체질 개선 방향성은 확인되나 구체적 재무 효과는 미확인 단계"
+        "신년사 중간점검 기사 외 핵심 공시(CGT/CDMO 진척, 자금조달) 부재로 지분가치 재평가 계기 미확인",
+        "AI 융합 체질 개선 방향성 언급 수준이며 구체적 재무 영향은 미확정"
       ],
       "watch": [
-        "판교 클러스터 실제 가동 시점 및 CGT 생산 개시 여부",
-        "신규 CDMO 수주 계약 공시 발생 여부",
-        "추가 자금조달(CB·유상증자) 계획 공시 여부"
+        "CGT/CDMO 임상·계약 공시 여부",
+        "유상증자·CB 등 자금조달 공시",
+        "그룹 AI 전략과 CDMO 연계 구체화 여부"
       ],
       "spark": [
-        {
-          "date": "7/10",
-          "close": 10200.0
-        },
         {
           "date": "7/13",
           "close": 9700.0
@@ -342,13 +345,23 @@
         {
           "date": "10/14",
           "close": 7710.0
+        },
+        {
+          "date": "10/15",
+          "close": 7370.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/14 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtYmpSZEJZeEdwQXZoMjg5dHhOdWxMbkFjZW1EaDJ2SDhOY3hnNkltX3VGU0JrTklFcTU2ckdDdkNJTmFCUGFlWTR4S0o3bjNPM2sxSTZrenVaWTIxbzVKVXBkQXBXWDY0MmFET3NrdG00Zlk1?oc=5",
+      "exchangeLine": "KRX · 10/15 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0s3Vkp2Y3V1OUpQVXBNVnN4NW9GN09lM00tdWtma2hDeHRHdEVBZzQ1TWtTdFVRVnBEN2k4RXp2X1V6c1A4cEZ4Z3ZiM2VvVmROOUpWTFNsanZFSVRVLVdkdGxubGl4c3FfYjVGd29ESldvZlc5LTJSRHktWDdPZTcxN3BPTWF6Nm1BUi1EQQ?oc=5",
       "sources": [
+        {
+          "title": "[2026 KIC] 강재선 차바이오텍 상무 “글로벌 임상, CRO 명성보다 협력체계 우선” : 네이버 블로그",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0s3Vkp2Y3V1OUpQVXBNVnN4NW9GN09lM00tdWtma2hDeHRHdEVBZzQ1TWtTdFVRVnBEN2k4RXp2X1V6c1A4cEZ4Z3ZiM2VvVmROOUpWTFNsanZFSVRVLVdkdGxubGl4c3FfYjVGd29ESldvZlc5LTJSRHktWDdPZTcxN3BPTWF6Nm1BUi1EQQ?oc=5",
+          "source": "Naver Blog",
+          "date": "10/15"
+        },
         {
           "title": "차바이오텍 주가 10원 상승 후 마감",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtYmpSZEJZeEdwQXZoMjg5dHhOdWxMbkFjZW1EaDJ2SDhOY3hnNkltX3VGU0JrTklFcTU2ckdDdkNJTmFCUGFlWTR4S0o3bjNPM2sxSTZrenVaWTIxbzVKVXBkQXBXWDY0MmFET3NrdG00Zlk1?oc=5",
@@ -366,22 +379,9 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYlpSNWNsNGtSOWVCWE5BRHNFMlpTN19UWHQtOUFoWEhKTS1SSHRmMTFfLUFRdGFVTjNLblRjckMySGpwRktQd1lYNUpMWDZ2LU5vZWkxS0FLVl82?oc=5",
           "source": "아시아뉴스통신",
           "date": "10/14"
-        },
-        {
-          "title": "차바이오텍 주가 130원 하락 후 마감",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SzdRWkVTTTlRTll5cGFaZjJrTEZRV2wtajRvd0ZKWGRNY2t1TUNfRGdlQ3hEanUtTHJaUFFrSnhjQUMwVnQzeDhRaUxmcE9yQVpQTXV0TUV1QkRLeFVBcjFOSGJTbG5McE45WTVzUDZPWU5o?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "10/13"
         }
       ],
       "archive30d": [
-        {
-          "summary": "차광렬, 지분 25.12% 유지하며 담보계약 상대방 변경 공시",
-          "impact": "최대주주 지분율 변동 없어 지분구조 안정. 단, 담보 조건 변경은 재무 상태 모니터링 필요.",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-14"
-        },
         {
           "summary": "차광렬 대주주, 지분 25.12% 유지하되 담보계약 상대방 변경 공시",
           "impact": "지분율 자체는 유지되나 담보구조 변경으로 반대매매 트리거 주체가 바뀜. 당사 지분가치의 간접 리스크 요인",
@@ -465,6 +465,13 @@
           "level": "mid",
           "date": "10/13",
           "collected_at": "2026-10-14"
+        },
+        {
+          "summary": "신년사 중간점검 기사에서 차원태 대표의 AI 융합기업 전환 전략이 실제 추진 중이라고 보도",
+          "impact": "AI 융합 방향성은 중장기 사업가치에 영향 가능하나, CGT/CDMO 핵심 지표 변화 없어 지분가치 즉각 영향은 제한적",
+          "level": "low",
+          "date": "10/14",
+          "collected_at": "2026-10-15"
         }
       ]
     },
@@ -475,20 +482,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-2.03%",
+        "-0.94%",
         "당사 투자"
       ],
-      "priceText": "₩5,310",
-      "openText": "₩5,660",
-      "highText": "₩5,660",
-      "lowText": "₩5,230",
-      "prevCloseText": "₩5,420",
-      "changeText": "-₩110",
+      "priceText": "₩5,260",
+      "openText": "₩5,300",
+      "highText": "₩5,300",
+      "lowText": "₩4,950",
+      "prevCloseText": "₩5,310",
+      "changeText": "-₩50",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,310",
+          "₩5,260",
           null
         ],
         [
@@ -503,27 +510,27 @@
         ],
         [
           "전일대비",
-          "-2.03%",
+          "-0.94%",
           null
         ],
         [
           "전주대비",
-          "-4.32%",
+          "-5.23%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.40천 · 0.23x",
+          "1.11만 · 1.05x",
           null
         ],
         [
           "시가총액",
-          "966억",
+          "957억",
           null
         ],
         [
           "52주 고점대비",
-          "-73.15%",
+          "-73.41%",
           null
         ]
       ],
@@ -541,15 +548,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 발표 시점 확인",
-        "신규 고객사·파트너십 공시 여부",
-        "헬스케어 사업 전환 관련 구체적 계약 발생 여부"
+        "분기 매출·영업손익 발표 여부",
+        "헬스케어 신규 고객사·파트너십 공시",
+        "사업모델 전환 관련 구체적 수익화 지표"
       ],
       "spark": [
-        {
-          "date": "7/10",
-          "close": 7060.0
-        },
         {
           "date": "7/13",
           "close": 6170.0
@@ -797,11 +800,15 @@
         {
           "date": "10/14",
           "close": 5310.0
+        },
+        {
+          "date": "10/15",
+          "close": 5260.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/14 종가",
+      "exchangeLine": "KRX · 10/15 종가",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5",
       "sources": [
         {
@@ -833,23 +840,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "자율주행 보험 모멘텀 주목",
+      "event": "핵심 이익 성장 주목",
       "tags": [
-        "-0.97%",
+        "-1.90%",
         "벤치마크"
       ],
-      "priceText": "$44.71",
-      "openText": "$45.12",
-      "highText": "$45.63",
-      "lowText": "$44.40",
-      "prevCloseText": "$45.15",
-      "changeText": "-$0.44",
+      "priceText": "$43.86",
+      "openText": "$43.74",
+      "highText": "$44.98",
+      "lowText": "$42.70",
+      "prevCloseText": "$44.71",
+      "changeText": "-$0.85",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$44.71",
-          "₩59,882"
+          "$43.86",
+          "₩59,013"
         ],
         [
           "취득가",
@@ -863,27 +870,27 @@
         ],
         [
           "전일대비",
-          "-0.97%",
+          "-1.90%",
           null
         ],
         [
           "전주대비",
-          "-3.77%",
+          "-5.60%",
           null
         ],
         [
           "거래량(20일比)",
-          "101.12만 · 0.88x",
+          "187.65만 · 1.62x",
           null
         ],
         [
           "시가총액",
-          "$3.46B",
-          "4.63조"
+          "$3.39B",
+          "4.57조"
         ],
         [
           "52주 고점대비",
-          "-55.25%",
+          "-56.10%",
           null
         ]
       ],
@@ -898,19 +905,15 @@
         }
       ],
       "events": [
-        "Morgan Stanley의 자율주행 보험 시장 긍정 평가는 디지털 손보 모델 성장성 재확인 신호",
-        "IFP·Loss Ratio 등 핵심 지표 확인 없이는 투자 판단 근거로 삼기 어려운 단계"
+        "월가 분석가들이 핵심 이익 성장 가시성에 신중한 시각을 유지, 투자 검토 관점에서 EBITDA 흑자전환 시점 불확실성 지속",
+        "옵션 체인 데이터(콜옵션 거래)는 시장 기대 범위를 간접 시사하나, IFP·Loss Ratio 등 핵심 지표 업데이트 없이 밸류에이션 판단 근거 부족"
       ],
       "watch": [
-        "최신 분기 IFP 성장률 및 Loss Ratio 공시 확인",
-        "EBITDA 흑자전환 시점 가이던스 업데이트 여부",
-        "자율주행 보험 관련 신규 파트너십·계약 공시 여부"
+        "EBITDA 흑자전환 시점 공식 가이던스",
+        "IFP 성장률 및 Loss Ratio 분기 발표",
+        "월가 컨센서스 변화 추이"
       ],
       "spark": [
-        {
-          "date": "7/16",
-          "close": 64.57
-        },
         {
           "date": "7/17",
           "close": 67.18
@@ -1158,28 +1161,43 @@
         {
           "date": "10/13",
           "close": 44.71
+        },
+        {
+          "date": "10/14",
+          "close": 43.86
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/13 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlhYREFoVU5jdEFyRzFaa3B3NzBKSUlFNFctbzlJejRxSjdDMkNLMzRMM2pXZXdnczQ4UlFoSDNiaGRCOVU3WUdSQ2MtcTlwTXZaVXNScEloRnpHZ211VkpuSXVTcE9GZlJuQ2VaWVYyS0dRMUVTRTdGdmktMDl4ZjgxSndXTTZhVDcweW9MV0dVVldtSTBzb05kVzBQQjA4UlRFMFFkYXZMeDZPblJfLXVYUUxNVk91TVEwNWRaYzlUREJaSWxHZjltMk92YVFwR1E1akJyQ2g0MFdfMVBzanNCRTczZjFHY1pFYXcySQ?oc=5",
+      "exchangeLine": "NYSE · 10/14 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
       "sources": [
         {
-          "title": "루멘 Stock Rises Pre-Market: Morgan Stanley Backs Its Early Bet On Autonomous Vehicle Insurance",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlhYREFoVU5jdEFyRzFaa3B3NzBKSUlFNFctbzlJejRxSjdDMkNLMzRMM2pXZXdnczQ4UlFoSDNiaGRCOVU3WUdSQ2MtcTlwTXZaVXNScEloRnpHZ211VkpuSXVTcE9GZlJuQ2VaWVYyS0dRMUVTRTdGdmktMDl4ZjgxSndXTTZhVDcweW9MV0dVVldtSTBzb05kVzBQQjA4UlRFMFFkYXZMeDZPblJfLXVYUUxNVk91TVEwNWRaYzlUREJaSWxHZjltMk92YVFwR1E1akJyQ2g0MFdfMVBzanNCRTczZjFHY1pFYXcySQ?oc=5",
+          "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
           "source": "Stocktwits",
-          "date": "10/13"
+          "date": "10/15"
+        },
+        {
+          "title": "When Life Gives You 루멘, Check the Receipts",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbndvblNEZ0NYbGl5YTBLR09zRGpucHZvQ0RvX01FSWQ5RVZEdTZ5ZEFuNEhCZ3ZiVGJRVWFqWlRrT3owbmJablhJdThJdzRjaU4tQkdYR2tweTcydHVVSE9OeHF2eUkwbnFLNHdJbUJ5YWhLNk84LXZEMTAyb2dtMkNTZU1vbDDSAYwBQVVfeXFMT2NRTVRrcVBOVHN1WWJQZ1RWR3VvVl94WXF5UjA0ZGc3X2ZlQzR4QTEtNk92aXdrYS1TU1B4TFoxTXVSdm5fVEllNUlIaXloZ2MyNzZJdGcwaUNjMXlvSW5LS2UwWENYdmt2bGM0QXB0M1pqRlJneWxsamlCQ3dPTTR4WjRqR1NkNmFRcEI?oc=5",
+          "source": "The National Law Review",
+          "date": "10/14"
+        },
+        {
+          "title": "루멘261030C00047000 Interactive Stock Chart | 루멘 Oct 2026 47.000 call Stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PWENIRndCNDZnRURqYURMQ1R3Q282SkJsOGZfSWxnYTdXS1dkZDRoSjRjNkV0bHltRkFXc2J0cVUzMHFVc3NvTm5ydm9lTkpfNkV4WldOQzdlLV9MSXBTZ0VXaVY?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/14"
+        },
+        {
+          "title": "루멘 Oct 2026 50.000 call (루멘261030C00050000) Stock Historical Prices & Data - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZmRsdExmUW45NXplR3NhR2tHR0p5OFUxQnJxaFljeW5GYWlEUEl1NHdZb2ZPYVFPempVX2h0d2U0eUhHNEhHX0FQS2EtZnZxb0V3Ukc2UVoxcU1ESHpnS09yN0lacERYSjJNVHdKT0Q?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/14"
         }
       ],
       "archive30d": [
-        {
-          "summary": "Loss Ratio 60% 개선, Gross Profit 전년 대비 76% 증가 보고",
-          "impact": "벤치마크 핵심 지표 개선 확인. 당사 디지털 손보 모델 수익성 비교 기준으로 활용 가능.",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-14"
-        },
         {
           "summary": "Loss Ratio 60%로 개선, 분기 Gross Profit 전년 대비 76% 증가 보도",
           "impact": "핵심 손익 지표 개선으로 벤치마크 모델 투자 매력도 상승. 당사 디지털 손보 검토 기준선 업데이트 필요",
@@ -1284,6 +1302,13 @@
           "level": "mid",
           "date": "10/11",
           "collected_at": "2026-10-13"
+        },
+        {
+          "summary": "월가 분석가들이 루멘의 핵심 이익 성장 가시성에 신중한 시각을 유지한다고 보도",
+          "impact": "EBITDA 흑자전환 시점 불확실성이 지속되어 신규 투자 검토를 위한 밸류에이션 판단 근거 확보가 지연됨",
+          "level": "low",
+          "date": "10/15",
+          "collected_at": "2026-10-15"
         }
       ]
     },
@@ -1294,21 +1319,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-5.38%",
+        "+0.00%",
         "자회사"
       ],
       "priceText": "Rp615",
-      "openText": "Rp640",
-      "highText": "Rp645",
-      "lowText": "Rp575",
-      "prevCloseText": "Rp650",
-      "changeText": "-Rp35",
+      "openText": "Rp630",
+      "highText": "Rp650",
+      "lowText": "Rp615",
+      "prevCloseText": "Rp615",
+      "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
           "Rp615",
-          "₩46.0"
+          "₩46.1"
         ],
         [
           "취득가",
@@ -1322,7 +1347,7 @@
         ],
         [
           "전일대비",
-          "-5.38%",
+          "+0.00%",
           null
         ],
         [
@@ -1332,13 +1357,13 @@
         ],
         [
           "거래량(20일比)",
-          "1.30만 · 1.28x",
+          "1.03만 · 0.99x",
           null
         ],
         [
           "시가총액",
           "Rp1.8조",
-          "1,381억"
+          "1,384억"
         ],
         [
           "52주 고점대비",
@@ -1360,15 +1385,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향 모니터링",
-        "분기 RBC 비율 변동 여부 확인",
-        "GWP 성장률 및 손해율 추이 공시 확인"
+        "OJK 규제 변경 공고 여부",
+        "분기 RBC 비율 공시",
+        "PIKK 개정 관련 당국 발표"
       ],
       "spark": [
-        {
-          "date": "7/16",
-          "close": 670.0
-        },
         {
           "date": "7/17",
           "close": 680.0
@@ -1616,11 +1637,15 @@
         {
           "date": "10/14",
           "close": 615.0
+        },
+        {
+          "date": "10/15",
+          "close": 615.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/14 종가 (WIB)",
+      "exchangeLine": "IDX · 10/15 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -3369,6 +3394,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-14 21:54"
+    "updated": "2026-10-15 21:42"
   }
 }
