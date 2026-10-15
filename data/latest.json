@@ -1,21 +1,21 @@
 {
   "asOf": "2026-10-15",
-  "updated": "2026-10-15 21:37",
-  "fx": "환율 2026-10-15 · 시장환율   1 USD = ₩1,345.48   |   1 USD = 17,932.00 IDR   |   1 IDR = ₩0.07503",
+  "updated": "2026-10-15 23:04",
+  "fx": "환율 2026-10-15 · 시장환율   1 USD = ₩1,346.10   |   1 USD = 17,943.00 IDR   |   1 IDR = ₩0.07502",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "신년사 중간점검 기사에서 차원태 대표의 AI 융합기업 전환 전략이 실제 추진 중이라고 보도",
-      "impact": "AI 융합 방향성은 중장기 사업가치에 영향 가능하나, CGT/CDMO 핵심 지표 변화 없어 지분가치 즉각 영향은 제한적",
-      "level": "low",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5"
+      "company": "루멘",
+      "text": "월스트리트 애널리스트들이 Core Profit 성장 가시성을 핵심 변수로 주목하며 투자의견에 신중한 입장",
+      "impact": "EBITDA 흑자전환 시점이 신규 투자 검토의 핵심 판단 기준인 당사 입장에서 수익성 불확실성 지속은 투자 결정 보류 근거",
+      "level": "mid",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5"
     },
     {
-      "company": "루멘",
-      "text": "월가 분석가들이 루멘의 핵심 이익 성장 가시성에 신중한 시각을 유지한다고 보도",
-      "impact": "EBITDA 흑자전환 시점 불확실성이 지속되어 신규 투자 검토를 위한 밸류에이션 판단 근거 확보가 지연됨",
+      "company": "차바이오텍",
+      "text": "기사에서 차원태 대표의 AI 융합기업 도약 방향성과 차바이오 체질 변화를 중간 점검",
+      "impact": "사업 방향성 언급 수준으로, CGT/CDMO 구체 진척이나 자금조달 확정 내용 없어 지분가치 직접 영향은 제한적",
       "level": "low",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5"
     }
   ],
   "companies": [
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "C",
-      "event": "AI 융합 전략 추진 중",
+      "event": "사업 방향성 점검 기사, 구조적 변화 미확인",
       "tags": [
         "-4.41%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "신년사 중간점검 기사 외 핵심 공시(CGT/CDMO 진척, 자금조달) 부재로 지분가치 재평가 계기 미확인",
-        "AI 융합 체질 개선 방향성 언급 수준이며 구체적 재무 영향은 미확정"
+        "AI 융합·체질 변화 방향성 언급은 있으나 CGT/CDMO 핵심 진척이나 자금조달 공시는 부재",
+        "현 시점 지분가치에 영향을 주는 확정 이벤트 없음"
       ],
       "watch": [
-        "CGT/CDMO 임상·계약 공시 여부",
-        "유상증자·CB 등 자금조달 공시",
-        "그룹 AI 전략과 CDMO 연계 구체화 여부"
+        "CDMO 신규 수주·계약 공시 여부",
+        "유상증자·CB 등 자금조달 공시 여부",
+        "CGT 임상 단계 진척 공시 여부"
       ],
       "spark": [
         {
@@ -472,6 +472,13 @@
           "level": "low",
           "date": "10/14",
           "collected_at": "2026-10-15"
+        },
+        {
+          "summary": "기사에서 차원태 대표의 AI 융합기업 도약 방향성과 차바이오 체질 변화를 중간 점검",
+          "impact": "사업 방향성 언급 수준으로, CGT/CDMO 구체 진척이나 자금조달 확정 내용 없어 지분가치 직접 영향은 제한적",
+          "level": "low",
+          "date": "10/14",
+          "collected_at": "2026-10-15"
         }
       ]
     },
@@ -520,7 +527,7 @@
         ],
         [
           "거래량(20일比)",
-          "1.11만 · 1.05x",
+          "1.10만 · 1.04x",
           null
         ],
         [
@@ -548,9 +555,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 발표 여부",
-        "헬스케어 신규 고객사·파트너십 공시",
-        "사업모델 전환 관련 구체적 수익화 지표"
+        "분기 매출·영업손익 실적 발표 여부",
+        "헬스케어 신규 고객사·파트너십 공시 여부",
+        "사업모델 전환 관련 구체적 공시 여부"
       ],
       "spark": [
         {
@@ -809,8 +816,14 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 10/15 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS08tdVRRV0RnQ0RmTmtXM3hjR0hqUXR6VkN6ckVQeFNZTWdsOE8tQjNEQnlRbWNVMWJ4R3I1X2JXVkNXSkF5aGRNR083dHhHRjNEdEJqVml1MHBycnFUSDd6TnZmZVdZaEdTcFZNMklGeVozOGJGY2FFZzQ5ZlJIWE05b29YbjRKZjFFS0JXNU5LQXNaWDlNMjNPZ2dMT1BwZWwxazQ1c2wwc01UcTZV?oc=5",
       "sources": [
+        {
+          "title": "CNC News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS08tdVRRV0RnQ0RmTmtXM3hjR0hqUXR6VkN6ckVQeFNZTWdsOE8tQjNEQnlRbWNVMWJ4R3I1X2JXVkNXSkF5aGRNR083dHhHRjNEdEJqVml1MHBycnFUSDd6TnZmZVdZaEdTcFZNMklGeVozOGJGY2FFZzQ5ZlJIWE05b29YbjRKZjFFS0JXNU5LQXNaWDlNMjNPZ2dMT1BwZWwxazQ1c2wwc01UcTZV?oc=5",
+          "source": "cncnews.co.kr",
+          "date": "10/14"
+        },
         {
           "title": "[신년사 중간점검] \"AI 융합기업 도약\" 차원태 선언이 현실로…차바이오 체질 바뀐다",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU29lWnMtaWF5X0N0b3hlMEptOVFxYXJ2ZVZybkV5ZC15S0FXcHFDdWRHLWp6d3FQNnpFTmlSd2pWclZqOHR1N2FXaGRJZzhpS2xmYXNNRThIUjRNMkg4QktpUEZoYXpD?oc=5",
@@ -839,8 +852,8 @@
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "C",
-      "event": "핵심 이익 성장 주목",
+      "g": "B",
+      "event": "핵심 수익성 지표 시장 주목",
       "tags": [
         "-1.90%",
         "벤치마크"
@@ -856,7 +869,7 @@
         [
           "종가",
           "$43.86",
-          "₩59,013"
+          "₩59,040"
         ],
         [
           "취득가",
@@ -886,7 +899,7 @@
         [
           "시가총액",
           "$3.39B",
-          "4.57조"
+          "4.56조"
         ],
         [
           "52주 고점대비",
@@ -905,13 +918,13 @@
         }
       ],
       "events": [
-        "월가 분석가들이 핵심 이익 성장 가시성에 신중한 시각을 유지, 투자 검토 관점에서 EBITDA 흑자전환 시점 불확실성 지속",
-        "옵션 체인 데이터(콜옵션 거래)는 시장 기대 범위를 간접 시사하나, IFP·Loss Ratio 등 핵심 지표 업데이트 없이 밸류에이션 판단 근거 부족"
+        "월스트리트가 Core Profit 성장에 집중하는 국면으로, 당사 벤치마크 관점에서 EBITDA 흑자전환 시점 가시성이 핵심 판단 변수",
+        "투자 매력도 판단을 위한 정량 지표(IFP 성장률·Loss Ratio) 확인이 선행되어야 하며, 현 단계는 관망 유지가 적절"
       ],
       "watch": [
-        "EBITDA 흑자전환 시점 공식 가이던스",
-        "IFP 성장률 및 Loss Ratio 분기 발표",
-        "월가 컨센서스 변화 추이"
+        "Core Profit(EBITDA) 흑자전환 시점 확인",
+        "IFP 성장률 및 Loss Ratio 최신치 확인",
+        "밸류에이션 배수 변화 추이 확인"
       ],
       "spark": [
         {
@@ -1309,6 +1322,13 @@
           "level": "low",
           "date": "10/15",
           "collected_at": "2026-10-15"
+        },
+        {
+          "summary": "월스트리트 애널리스트들이 Core Profit 성장 가시성을 핵심 변수로 주목하며 투자의견에 신중한 입장",
+          "impact": "EBITDA 흑자전환 시점이 신규 투자 검토의 핵심 판단 기준인 당사 입장에서 수익성 불확실성 지속은 투자 결정 보류 근거",
+          "level": "mid",
+          "date": "10/15",
+          "collected_at": "2026-10-15"
         }
       ]
     },
@@ -1385,9 +1405,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변경 공고 여부",
-        "분기 RBC 비율 공시",
-        "PIKK 개정 관련 당국 발표"
+        "OJK 규제 변경 사항 발생 여부",
+        "RBC 비율 변동 공시 여부",
+        "PIKK 개정 관련 진행 상황 여부"
       ],
       "spark": [
         {
@@ -3394,6 +3414,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-15 21:42"
+    "updated": "2026-10-15 23:05"
   }
 }
