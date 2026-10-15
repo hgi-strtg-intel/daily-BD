@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 23:14",
+  "updated": "2026-10-15 23:32",
   "items": [
     {
       "title": "120ft raises angel funding to build autonomous microfactories run by humanoid robots",
@@ -9,9 +9,9 @@
       "insight": "휴머노이드 로봇 기반 자율 마이크로팩토리 스타트업 등장",
       "takeaway": "휴머노이드 로봇 기반 자율 마이크로팩토리 스타트업 등장",
       "bullets": [
-        "스웨덴 120ft, 천사투자 57만6천 유로 조달",
-        "22명 엔젤 투자자 참여",
-        "휴머노이드 로봇으로 자율 마이크로팩토리 구축 목표"
+        "스웨덴 120ft, 64만4천 달러 엔젤 투자 유치",
+        "22명의 엔젤 투자자 참여",
+        "휴머노이드 로봇으로 자율 운영 소형 공장 구축"
       ]
     },
     {
@@ -19,12 +19,12 @@
       "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Anthropic, Q3 매출 168억 달러로 분기 45% 성장 및 흑자 전환",
-      "takeaway": "Anthropic, Q3 매출 168억 달러로 분기 45% 성장 및 흑자 전환",
+      "insight": "Anthropic, IPO 앞두고 분기 매출 45% 성장·흑자 전환 달성",
+      "takeaway": "Anthropic, IPO 앞두고 분기 매출 45% 성장·흑자 전환 달성",
       "bullets": [
-        "Q3 매출 168억 달러, 전분기 대비 45% 성장",
+        "3분기 매출 168억 달러, 전분기比 45% 성장",
         "조정 기준 흑자 달성",
-        "IPO를 앞두고 실적 공개"
+        "Financial Times 보도 기반 IPO 전 공개"
       ]
     },
     {
@@ -32,11 +32,11 @@
       "url": "https://siliconangle.com/2026/10/14/multiple-states-sue-openai-accusing-it-of-harming-children-and-deceiving-parents/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "미국 8개 주, OpenAI 상대 아동 안전 위협 소송 제기",
-      "takeaway": "미국 8개 주, OpenAI 상대 아동 안전 위협 소송 제기",
+      "insight": "미국 8개 주, ChatGPT 아동 안전 위협 이유로 OpenAI 집단 소송",
+      "takeaway": "미국 8개 주, ChatGPT 아동 안전 위협 이유로 OpenAI 집단 소송",
       "bullets": [
-        "아이오와·캔자스 등 8개 주가 소송 제기",
-        "ChatGPT가 아동에게 유해하다고 주장",
+        "아이오와·캔자스·네브래스카 등 8개 주 제소",
+        "ChatGPT가 안전하지 않다며 아동 피해 주장",
         "부모를 기만했다는 혐의도 포함"
       ]
     },
@@ -45,12 +45,12 @@
       "url": "https://siliconangle.com/2026/10/14/chemical-sourcing-startup-scimplify-closes-25m-investment/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "화학 원료 소싱 스타트업 Scimplify, 2500만 달러 Series C 조달",
-      "takeaway": "화학 원료 소싱 스타트업 Scimplify, 2500만 달러 Series C 조달",
+      "insight": "화학 소싱 자동화 스타트업, 히타치 주도 2500만 달러 조달",
+      "takeaway": "화학 소싱 자동화 스타트업, 히타치 주도 2500만 달러 조달",
       "bullets": [
-        "히타치 주도로 2500만 달러 Series C 완료",
-        "기업의 화학 원료 소싱 지원 플랫폼",
-        "TechCrunch가 라운드 보도"
+        "Scimplify, 시리즈C 2500만 달러 유치",
+        "히타치가 라운드 주도",
+        "기업의 원자재 화학품 조달 지원 플랫폼"
       ]
     },
     {
@@ -58,12 +58,12 @@
       "url": "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/",
       "source": "SiliconANGLE",
       "date": "10/14",
-      "insight": "AI 인프라 스타트업 Modal, 157억 달러 밸류로 7억5천만 달러 조달",
-      "takeaway": "AI 인프라 스타트업 Modal, 157억 달러 밸류로 7억5천만 달러 조달",
+      "insight": "AI 인프라 스타트업 Modal, 157억 달러 밸류에 7.5억 달러 조달",
+      "takeaway": "AI 인프라 스타트업 Modal, 157억 달러 밸류에 7.5억 달러 조달",
       "bullets": [
-        "Accel 주도 Series D 7억5천만 달러 유치",
-        "기업 가치 157억5천만 달러 평가",
-        "Kleiner Perkins 등 참여"
+        "Accel 주도 시리즈D, Kleiner Perkins 등 참여",
+        "기업가치 157억5천만 달러 평가",
+        "AI 클라우드 인프라 제공 스타트업"
       ]
     },
     {
@@ -71,12 +71,12 @@
       "url": "https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/",
       "source": "SiliconANGLE",
       "date": "10/14",
-      "insight": "광학 회로 스위칭 기술로 AI 가속 노리는 Salience Labs, 1억2500만 달러 조달",
-      "takeaway": "광학 회로 스위칭 기술로 AI 가속 노리는 Salience Labs, 1억2500만 달러 조달",
+      "insight": "풀 광학 회로 스위칭 기술로 AI 연산 가속, 1.25억 달러 유치",
+      "takeaway": "풀 광학 회로 스위칭 기술로 AI 연산 가속, 1.25억 달러 유치",
       "bullets": [
-        "Series B 1억2500만 달러, Bullhound Capital 주도",
-        "세계 최고 수준 완전 광학 회로 스위칭 기술 보유",
-        "AI 워크로드 가속화 목표"
+        "Salience Labs, 시리즈B 1억2500만 달러 조달",
+        "Bullhound Capital이 라운드 주도",
+        "세계 최고 수준 완전 광학 회로 스위칭 기술 보유"
       ]
     }
   ]
