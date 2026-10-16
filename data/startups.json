@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-16 17:21",
+  "updated": "2026-10-16 17:30",
   "items": [
     {
       "title": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
       "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "AI·클라우드 비용 급증에 대응하는 핀옵스 스타트업 부상",
-      "takeaway": "AI·클라우드 비용 급증에 대응하는 핀옵스 스타트업 부상",
+      "insight": "AI·클라우드 비용 급증 대응 스타트업에 $60M 투자 유치",
+      "takeaway": "AI·클라우드 비용 급증 대응 스타트업에 $60M 투자 유치",
       "bullets": [
-        "North Cloud Holdings, 6000만 달러 펀딩 확보",
+        "North Cloud Holdings, 6천만 달러 펀딩 확보",
         "클라우드·AI 인프라 비용 통제 솔루션 제공",
         "기업의 클라우드 지출 급증 문제 해결 목표"
       ]
@@ -19,12 +19,12 @@
       "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "데이터센터용 3D 컴퓨팅 모듈로 차세대 반도체 시장 공략",
-      "takeaway": "데이터센터용 3D 컴퓨팅 모듈로 차세대 반도체 시장 공략",
+      "insight": "데이터센터용 3D 컴퓨팅 모듈 스타트업, $65M 시리즈A 유치",
+      "takeaway": "데이터센터용 3D 컴퓨팅 모듈 스타트업, $65M 시리즈A 유치",
       "bullets": [
-        "Mueon, 시리즈A로 6500만 달러 조달",
-        "Maverick Silicon이 라운드 리드",
-        "Intel 벤처캐피털도 투자에 참여"
+        "Mueon, 6500만 달러 시리즈A 라운드 완료",
+        "Maverick Silicon이 리드, 인텔 벤처캐피털 참여",
+        "반도체 특화 펀드 주도로 데이터센터 하드웨어 개발"
       ]
     },
     {
@@ -32,12 +32,12 @@
       "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Ramp, 18.5억 달러 조달로 재무 소프트웨어 넘어 사업 확장",
-      "takeaway": "Ramp, 18.5억 달러 조달로 재무 소프트웨어 넘어 사업 확장",
+      "insight": "기업 카드·소프트웨어 Ramp, $1.85B 대규모 후기 투자 유치",
+      "takeaway": "기업 카드·소프트웨어 Ramp, $1.85B 대규모 후기 투자 유치",
       "bullets": [
-        "시리즈G 라운드, Dragoneer·Thrive Capital 참여",
-        "법인카드·비즈니스 소프트웨어 전문 기업",
-        "후기 단계 대형 투자로 IPO 가능성 주목"
+        "Dragoneer 주도 시리즈G로 18.5억 달러 조달",
+        "Thrive Capital 등 참여, 핀테크 대형 딜",
+        "금융 소프트웨어 넘어 사업 영역 확장 추진"
       ]
     },
     {
@@ -45,12 +45,12 @@
       "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "에이전틱 AI 시대, 추론 속도가 플랫폼 경쟁력 핵심으로 부상",
-      "takeaway": "에이전틱 AI 시대, 추론 속도가 플랫폼 경쟁력 핵심으로 부상",
+      "insight": "Cerebras, 추론 속도를 에이전틱 AI 경쟁 핵심 무기로 내세워",
+      "takeaway": "Cerebras, 추론 속도를 에이전틱 AI 경쟁 핵심 무기로 내세워",
       "bullets": [
-        "Cerebras, 추론 속도를 핵심 경쟁 우위로 포지셔닝",
-        "에이전틱 워크플로우에서 속도가 서비스 존재 조건",
-        "빠른 토큰 처리가 차세대 AI 플랫폼 승패 결정"
+        "에이전틱 워크플로에서 속도가 플랫폼 승패 결정",
+        "Cerebras, 빠른 토큰 생성으로 차별화 전략 추구",
+        "AI 추론 속도가 새로운 애플리케이션 존재 조건"
       ]
     },
     {
@@ -58,12 +58,12 @@
       "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "휴머노이드 로봇 기반 자율 마이크로팩토리 스타트업 스웨덴서 등장",
-      "takeaway": "휴머노이드 로봇 기반 자율 마이크로팩토리 스타트업 스웨덴서 등장",
+      "insight": "휴머노이드 로봇 자율 마이크로팩토리 스웨덴 스타트업 출범",
+      "takeaway": "휴머노이드 로봇 자율 마이크로팩토리 스웨덴 스타트업 출범",
       "bullets": [
-        "120ft, 22명 엔젤로부터 64.4만 달러 조달",
-        "스웨덴 로보틱스 스타트업으로 오늘 출범 발표",
-        "휴머노이드 로봇이 운영하는 자율 공장 구축 목표"
+        "120ft, 22인 엔젤로부터 57.6만 유로 조달",
+        "휴머노이드 로봇으로 자율 마이크로팩토리 구축",
+        "스웨덴 기반 로보틱스 스타트업 신규 런칭"
       ]
     },
     {
@@ -71,12 +71,12 @@
       "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Anthropic, Q3 매출 45% 성장·흑자 전환으로 IPO 기대감 고조",
-      "takeaway": "Anthropic, Q3 매출 45% 성장·흑자 전환으로 IPO 기대감 고조",
+      "insight": "Anthropic, Q3 매출 45% 순차 성장·조정 기준 흑자로 IPO 청신호",
+      "takeaway": "Anthropic, Q3 매출 45% 순차 성장·조정 기준 흑자로 IPO 청신호",
       "bullets": [
         "3분기 매출 168억 달러, 전분기 대비 45% 성장",
-        "조정 기준 흑자 달성으로 수익성 입증",
-        "IPO를 앞두고 Financial Times가 실적 보도"
+        "조정 기준 수익성 달성, 흑자 전환 확인",
+        "IPO 앞두고 파이낸셜타임스가 실적 보도"
       ]
     }
   ]
