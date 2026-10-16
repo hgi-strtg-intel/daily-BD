@@ -11,7 +11,10 @@
 <body>
 <!-- 앱 열 때 보여주는 인트로(스플래시). 2초 뒤 자동으로 사라지고, 탭하면 바로 건너뛴다. -->
 <div id="introSplash" class="intro-splash" aria-hidden="true">
-  <img id="introImg" src="assets/intro_v2.gif" alt="" decoding="async">
+  <picture>
+    <source media="(orientation: portrait)" srcset="assets/intro_p.gif">
+    <img id="introImg" src="assets/intro_l.gif" alt="" decoding="async">
+  </picture>
 </div>
 <script>
 (function () {
