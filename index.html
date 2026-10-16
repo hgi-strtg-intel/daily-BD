@@ -12,6 +12,8 @@
 <!-- 앱 열 때 보여주는 인트로(스플래시). 2초 뒤 자동으로 사라지고, 탭하면 바로 건너뛴다. -->
 <div id="introSplash" class="intro-splash" aria-hidden="true">
   <picture>
+    <source type="image/webp" media="(orientation: portrait)" srcset="assets/intro_p.webp">
+    <source type="image/webp" srcset="assets/intro_l.webp">
     <source media="(orientation: portrait)" srcset="assets/intro_p.gif">
     <img id="introImg" src="assets/intro_l.gif" alt="" decoding="async">
   </picture>
@@ -26,11 +28,11 @@
     el.classList.add('hide');
     setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el); }, 600);
   }
-  function ready() { img.classList.add('ready'); setTimeout(hide, 3500); }
+  function ready() { img.classList.add('ready'); setTimeout(hide, 4500); }
   if (img.complete && img.naturalWidth) ready(); else img.addEventListener('load', ready);
   img.addEventListener('error', hide);   // GIF를 못 불러오면 인트로 없이 바로 진행
   el.addEventListener('click', hide);    // 탭하면 건너뛰기
-  setTimeout(hide, 7000);                // 안전장치: 어떤 경우에도 7초 뒤 사라짐
+  setTimeout(hide, 9000);                // 안전장치: 어떤 경우에도 9초 뒤 사라짐
 })();
 </script>
 <div id="pwGate" class="pw-gate">

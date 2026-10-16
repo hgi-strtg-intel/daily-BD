@@ -386,7 +386,7 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
               align-items:center;justify-content:center;cursor:pointer;
               transition:opacity .5s ease}
 .intro-splash.hide{opacity:0;pointer-events:none}
-.intro-splash img{width:100%;max-width:640px;height:auto;display:block;opacity:0;
+.intro-splash img{width:min(100vw,177.78vh);max-width:none;height:auto;display:block;opacity:0;
                   transition:opacity .3s ease;
                   -webkit-mask-image:radial-gradient(ellipse 62% 78% at 50% 50%,#000 72%,transparent 100%);
                   mask-image:radial-gradient(ellipse 62% 78% at 50% 50%,#000 72%,transparent 100%)}
