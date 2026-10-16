@@ -1,17 +1,69 @@
 {
-  "updated": "2026-10-16 00:19",
+  "updated": "2026-10-16 15:33",
   "items": [
+    {
+      "title": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
+      "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
+      "source": "SiliconANGLE",
+      "date": "10/16",
+      "insight": "클라우드·AI 비용 통제 스타트업이 6천만 달러 조달",
+      "takeaway": "클라우드·AI 비용 통제 스타트업이 6천만 달러 조달",
+      "bullets": [
+        "North Cloud Holdings, 6,000만 달러 펀딩 확보",
+        "클라우드·AI 인프라 비용 급증 문제 해결 목표",
+        "기업의 클라우드 지출 관리 솔루션 제공"
+      ]
+    },
+    {
+      "title": "Mueon nabs $65M in funding to develop 3D computing modules",
+      "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
+      "source": "SiliconANGLE",
+      "date": "10/16",
+      "insight": "3D 컴퓨팅 모듈 스타트업 Mueon, 인텔 참여로 6500만 달러 조달",
+      "takeaway": "3D 컴퓨팅 모듈 스타트업 Mueon, 인텔 참여로 6500만 달러 조달",
+      "bullets": [
+        "Mueon, 시리즈A로 6,500만 달러 유치",
+        "반도체 전문 펀드 Maverick Silicon이 리드",
+        "인텔 벤처캐피털도 라운드에 참여"
+      ]
+    },
+    {
+      "title": "Ramp raises $1.85B as it expands beyond finance software",
+      "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
+      "source": "SiliconANGLE",
+      "date": "10/15",
+      "insight": "Ramp, 18.5억 달러 조달로 핀테크 넘어 사업 확장 가속",
+      "takeaway": "Ramp, 18.5억 달러 조달로 핀테크 넘어 사업 확장 가속",
+      "bullets": [
+        "Ramp, 시리즈G로 18억 5천만 달러 대규모 조달",
+        "Dragoneer·Thrive Capital 등이 라운드 참여",
+        "법인카드 넘어 비즈니스 소프트웨어로 확장 중"
+      ]
+    },
+    {
+      "title": "Cerebras positions inference speed as a competitive edge in agentic AI",
+      "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
+      "source": "SiliconANGLE",
+      "date": "10/15",
+      "insight": "Cerebras, 에이전틱 AI 시대 추론 속도를 핵심 경쟁력으로 내세워",
+      "takeaway": "Cerebras, 에이전틱 AI 시대 추론 속도를 핵심 경쟁력으로 내세워",
+      "bullets": [
+        "에이전틱 워크플로우에서 속도가 핵심 요소로 부상",
+        "Cerebras, 빠른 토큰 생성으로 차별화 전략 추구",
+        "추론 속도가 AI 플랫폼 승패를 좌우할 변수"
+      ]
+    },
     {
       "title": "120ft raises angel funding to build autonomous microfactories run by humanoid robots",
       "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "휴머노이드 로봇 자율 마이크로공장, 스웨덴 스타트업 등장",
-      "takeaway": "휴머노이드 로봇 자율 마이크로공장, 스웨덴 스타트업 등장",
+      "insight": "휴머노이드 로봇 자율 마이크로팩토리 스타트업, 유럽서 등장",
+      "takeaway": "휴머노이드 로봇 자율 마이크로팩토리 스타트업, 유럽서 등장",
       "bullets": [
-        "스웨덴 120ft Factory AB 오늘 출범",
-        "22명 엔젤투자자로부터 64.4만 달러 조달",
-        "휴머노이드 로봇 기반 자율 소형공장 구축 목표"
+        "스웨덴 스타트업 120ft, 엔젤 투자 57.6만 유로 유치",
+        "22명의 엔젤 투자자가 참여한 초기 라운드",
+        "휴머노이드 로봇이 운영하는 자율 마이크로팩토리 구축"
       ]
     },
     {
@@ -19,64 +71,12 @@
       "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Anthropic, IPO 앞두고 분기 매출 45% 성장·흑자 전환 임박",
-      "takeaway": "Anthropic, IPO 앞두고 분기 매출 45% 성장·흑자 전환 임박",
+      "insight": "Anthropic, 3분기 매출 168억 달러·조정 흑자로 IPO 청신호",
+      "takeaway": "Anthropic, 3분기 매출 168억 달러·조정 흑자로 IPO 청신호",
       "bullets": [
-        "Q3 매출 168억 달러, 전분기 대비 45% 성장",
-        "조정 기준 흑자 달성 첫 사례",
-        "IPO를 앞두고 재무 성과 공개"
-      ]
-    },
-    {
-      "title": "Multiple states sue OpenAI, accusing it of harming children and deceiving parents",
-      "url": "https://siliconangle.com/2026/10/14/multiple-states-sue-openai-accusing-it-of-harming-children-and-deceiving-parents/",
-      "source": "SiliconANGLE",
-      "date": "10/15",
-      "insight": "미국 8개 주, OpenAI·ChatGPT 아동 피해 혐의로 집단 소송",
-      "takeaway": "미국 8개 주, OpenAI·ChatGPT 아동 피해 혐의로 집단 소송",
-      "bullets": [
-        "아이오와·캔자스 등 8개 주가 소송 제기",
-        "ChatGPT가 아동에게 유해하다는 주장",
-        "부모에게 허위 정보 제공 혐의도 포함"
-      ]
-    },
-    {
-      "title": "Chemical sourcing startup Scimplify closes $25M investment",
-      "url": "https://siliconangle.com/2026/10/14/chemical-sourcing-startup-scimplify-closes-25m-investment/",
-      "source": "SiliconANGLE",
-      "date": "10/15",
-      "insight": "화학 소싱 스타트업 Scimplify, 히타치 주도 2500만 달러 조달",
-      "takeaway": "화학 소싱 스타트업 Scimplify, 히타치 주도 2500만 달러 조달",
-      "bullets": [
-        "기업 원료 화학물질 소싱 지원 플랫폼",
-        "Series C 라운드 2500만 달러 유치",
-        "히타치가 해당 라운드 리드"
-      ]
-    },
-    {
-      "title": "AI cloud startup Modal raises $750M at $15.75B valuation",
-      "url": "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/",
-      "source": "SiliconANGLE",
-      "date": "10/14",
-      "insight": "AI 인프라 스타트업 Modal, 157.5억 달러 가치로 7.5억 달러 조달",
-      "takeaway": "AI 인프라 스타트업 Modal, 157.5억 달러 가치로 7.5억 달러 조달",
-      "bullets": [
-        "Accel 주도 Series D 7.5억 달러 유치",
-        "기업가치 157.5억 달러로 평가",
-        "Kleiner Perkins 등도 참여"
-      ]
-    },
-    {
-      "title": "Salience Labs raises $125M after showcasing world’s most advanced, fully optical circuit-switching tech",
-      "url": "https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/",
-      "source": "SiliconANGLE",
-      "date": "10/14",
-      "insight": "광학 회로 스위칭 기술로 AI 가속, 1.25억 달러 Series B 유치",
-      "takeaway": "광학 회로 스위칭 기술로 AI 가속, 1.25억 달러 Series B 유치",
-      "bullets": [
-        "세계 최고 수준 완전 광학 회로 스위칭 기술 보유 주장",
-        "Bullhound Capital 주도 1.25억 달러 조달",
-        "AI 워크로드 속도 향상이 핵심 목표"
+        "3분기 매출 168억 달러, 전 분기 대비 45% 성장",
+        "조정 기준 흑자 달성으로 수익성 입증",
+        "IPO를 앞두고 재무 성과 공개로 시장 신뢰 확보"
       ]
     }
   ]
