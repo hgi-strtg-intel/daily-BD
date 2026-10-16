@@ -1,20 +1,20 @@
 {
   "asOf": "2026-10-16",
-  "updated": "2026-10-16 17:30",
-  "fx": "환율 2026-10-16 · 시장환율   1 USD = ₩1,331.57   |   1 USD = 18,000.00 IDR   |   1 IDR = ₩0.07398",
+  "updated": "2026-10-16 18:42",
+  "fx": "환율 2026-10-16 · 시장환율   1 USD = ₩1,331.43   |   1 USD = 18,000.00 IDR   |   1 IDR = ₩0.07397",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타인에 대한 담보 제공 결정 공시 기재 정정",
-      "impact": "공시 내용 정정은 담보 제공 조건 변경 가능성을 시사하며, 당사 보유 지분가치에 영향을 줄 수 있는 지배구조 리스크 재확인",
-      "level": "high",
+      "text": "타인에 대한 담보제공 결정 공시 기재 정정 발생",
+      "impact": "담보 조건 변동 가능성 상존—당사 보유 지분의 지배구조 안정성 모니터링 필요",
+      "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016900828"
     },
     {
       "company": "차바이오텍",
-      "text": "승계 핵심 법인 KH그린이 보유한 차바이오텍 지분 전량이 담보로 설정됨",
-      "impact": "오너 승계 구조의 재무 부담이 지분 담보로 현실화, 담보권 실행 시 지배구조 급변으로 당사 지분가치에 직접 위협",
-      "level": "high",
+      "text": "지배주주 승계 핵심 법인 KH그린의 차바이오텍 지분 전량이 담보로 설정됨",
+      "impact": "최대주주 측 지분 전량 담보는 강제처분 시 지분구조 급변 리스크로 당사 지분가치에 직접 영향 가능",
+      "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FZHc2TVM2MlJMSzhNaFdhb2xFUy1LOWx6UjNwRmhISDFpcnd1U1gxVGpxRmVHMEhUT05LeEhCXzhKUEVxdHRPbVJVXzJnZGoxMm9UWHI4ME0zd3JyOGJnRGIxNVVBMlUyN2VnRWpR?oc=5"
     }
   ],
@@ -23,8 +23,8 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "A",
-      "event": "지배구조 리스크 부각",
+      "g": "B",
+      "event": "지분 담보 구조 리스크 부각",
       "tags": [
         "+4.48%",
         "당사 투자"
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "19.28만 · 0.96x",
+          "19.22만 · 0.95x",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "승계 핵심 축인 KH그린의 차바이오텍 지분 전량 담보 제공은 오너 지배구조 불안을 직접 시사함",
-        "담보 제공 기재 정정 공시까지 이어져 구조적 리스크가 공식화된 국면"
+        "지배주주 승계 핵심 법인의 차바이오텍 지분 전량 담보 설정은 지분구조 안정성에 잠재 리스크",
+        "담보제공 기재정정 공시까지 발생해 담보 조건 변동 가능성 상존—지분 이동 여부 추적 필요"
       ],
       "watch": [
-        "KH그린 담보 설정 담보권 실행 가능성",
-        "추가 CB·유상증자 자금조달 여부",
-        "CGT/CDMO 핵심 파이프라인 임상 진척"
+        "KH그린 담보 지분 해소·이전 여부",
+        "추가 CB·유상증자 자금조달 공시",
+        "CGT/CDMO 임상·계약 진척 공시"
       ],
       "spark": [
         {
@@ -591,6 +591,20 @@
           "level": "high",
           "date": "10/15",
           "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "타인에 대한 담보제공 결정 공시 기재 정정 발생",
+          "impact": "담보 조건 변동 가능성 상존—당사 보유 지분의 지배구조 안정성 모니터링 필요",
+          "level": "mid",
+          "date": "10/16",
+          "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "지배주주 승계 핵심 법인 KH그린의 차바이오텍 지분 전량이 담보로 설정됨",
+          "impact": "최대주주 측 지분 전량 담보는 강제처분 시 지분구조 급변 리스크로 당사 지분가치에 직접 영향 가능",
+          "level": "mid",
+          "date": "10/15",
+          "collected_at": "2026-10-16"
         }
       ]
     },
@@ -639,7 +653,7 @@
         ],
         [
           "거래량(20일比)",
-          "6.09천 · 0.56x",
+          "6.19천 · 0.57x",
           null
         ],
         [
@@ -667,9 +681,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 추이 확인",
-        "헬스케어 신규 고객사·파트너십 체결 여부",
-        "자금조달 또는 증자 공시 발생 여부"
+        "분기 매출·영업손익 추이",
+        "신규 고객사·파트너십 공시",
+        "헬스케어 전환 실적 가시화 시점"
       ],
       "spark": [
         {
@@ -972,7 +986,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "핵심 수익성 지표 주목",
+      "event": "월가 핵심이익 성장 주시",
       "tags": [
         "+4.56%",
         "벤치마크"
@@ -988,7 +1002,7 @@
         [
           "종가",
           "$45.86",
-          "₩61,066"
+          "₩61,059"
         ],
         [
           "취득가",
@@ -1037,13 +1051,13 @@
         }
       ],
       "events": [
-        "Morgan Stanley의 자율주행 보험 지지 입장과 동시에 핵심 이익 성장에 대한 월가 신중론이 병존, 투자 판단 불확실성 유지",
-        "Core Profit(EBITDA) 성장 가시화 여부가 투자 매력도의 실질 분기점으로 부각"
+        "Morgan Stanley의 자율주행 보험 지지 발언은 IFP 성장 가능성 시그널이나 미확정 단계",
+        "월가가 핵심이익(Core Profit) 성장을 주시하고 있어 EBITDA 흑자전환 시점 판단이 투자 검토의 핵심 변수로 부상"
       ],
       "watch": [
-        "EBITDA 흑자전환 시점 및 가이던스",
-        "IFP 성장률 최신 분기 수치 확인",
-        "자율주행 보험 Loss Ratio 실적 공개 여부"
+        "분기 IFP 성장률 및 Loss Ratio 발표",
+        "EBITDA 흑자전환 시점 가이던스",
+        "자율주행 보험 신규 계약·파트너십 공시"
       ],
       "spark": [
         {
@@ -1302,11 +1316,11 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 10/15 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94WnRVOUhxVVd3emJUVWxMVEtjTGJxRFlvWFI5ZWFLbU1iX3ZxWWNrV0tIb1czd1I3bjVwWXowU0FpRXFvQzlsUllJYlBFX2NoR2llRjRsT1hCUHVmWEdydm9WZHZIUQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kTExMSFhGY3lWZ2p6SGJFMk5aRV9BVUs5ZXdTeDk5WnRfTkZBRDVYdk5aZ3BfcTVHancwODg5clNrR3ExWVJ1c0xNWEwzejVBcVU3eGw2b1pHclNXM1V6SDA3aTBFUQ?oc=5",
       "sources": [
         {
-          "title": "루멘 Oct 2026 75.000 put (루멘261016P00075000) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94WnRVOUhxVVd3emJUVWxMVEtjTGJxRFlvWFI5ZWFLbU1iX3ZxWWNrV0tIb1czd1I3bjVwWXowU0FpRXFvQzlsUllJYlBFX2NoR2llRjRsT1hCUHVmWEdydm9WZHZIUQ?oc=5",
+          "title": "루멘 Oct 2026 42.000 put (루멘261016P00042000) stock price, news, quote and history",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kTExMSFhGY3lWZ2p6SGJFMk5aRV9BVUs5ZXdTeDk5WnRfTkZBRDVYdk5aZ3BfcTVHancwODg5clNrR3ExWVJ1c0xNWEwzejVBcVU3eGw2b1pHclNXM1V6SDA3aTBFUQ?oc=5",
           "source": "Yahoo Finance UK",
           "date": "10/16"
         },
@@ -1317,15 +1331,15 @@
           "date": "10/15"
         },
         {
-          "title": "루멘 Oct 2026 41.500 put (루멘261030P00041500) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yOGVSVWhUWFluc1dHS2NSdlhadWd5a2FtdzNib2wxaHUwVldwSnhTN2pqZWFDaHM3MWRkYXMycWRMcGFhZ2hPOFNGWm54MS1ibE5YVXE2MHRlSXUyaUxId3hWejJIdw?oc=5",
+          "title": "루멘 Oct 2026 41.500 put (루멘261023P00041500) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zVVRuMEhLY2VjYm5Hb3hLRHFzSDY4VzVMRHowd216M1F5eVh5QVlkWnZBYUM4eXF1X3Y4bUhMNV9MbmNQVkJUVW5IRUp5d3ZiYlVMWUtrT0lWTkJxZEs4QWtsRHVmdw?oc=5",
           "source": "Yahoo! Finance Canada",
           "date": "10/15"
         },
         {
-          "title": "루멘261016C00053000 Interactive Stock Chart | 루멘 Oct 2026 53.000 call Stock",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hTHlmS1RkQkx3dGVlV0hYaGJqdFBYckNDejhsak9XdU8wVGVucENLY1oyTm9FWGEyT0F0MFJlamdqTzE4YmJNRGdmUDg0dzBmX3NrM2hFRUVsZ3pFdWhxaWV4bEw?oc=5",
-          "source": "Yahoo! Finance Canada",
+          "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
+          "source": "Stocktwits",
           "date": "10/15"
         }
       ],
@@ -1588,6 +1602,13 @@
           "level": "mid",
           "date": "10/15",
           "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "월가가 루멘의 핵심이익 성장 가시화 여부를 주요 관전 포인트로 제시",
+          "impact": "EBITDA 흑자전환 시점이 불확실한 상황—투자 검토 판단 보류 근거 유지",
+          "level": "mid",
+          "date": "10/15",
+          "collected_at": "2026-10-16"
         }
       ]
     },
@@ -1598,21 +1619,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "+2.44%",
         "자회사"
       ],
-      "priceText": "Rp615",
-      "openText": "Rp630",
-      "highText": "Rp650",
-      "lowText": "Rp615",
+      "priceText": "Rp630",
+      "openText": "Rp640",
+      "highText": "Rp750",
+      "lowText": "Rp555",
       "prevCloseText": "Rp615",
-      "changeText": "+Rp0",
+      "changeText": "+Rp15",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp615",
-          "₩45.5"
+          "Rp630",
+          "₩46.6"
         ],
         [
           "취득가",
@@ -1621,32 +1642,32 @@
         ],
         [
           "취득가대비",
-          "-5.93%",
+          "-3.64%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "+2.44%",
           null
         ],
         [
           "전주대비",
-          "-3.91%",
+          "-1.56%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.03만 · 0.99x",
+          "24.51만 · 22.56x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,387억"
+          "1,398억"
         ],
         [
           "52주 고점대비",
-          "-35.00%",
+          "-33.41%",
           null
         ]
       ],
@@ -1664,15 +1685,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변경 공지 여부",
-        "분기 RBC 비율 공시 확인",
-        "PIKK 개정 관련 현지 동향"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "분기 RBC 비율 변동",
+        "GWP 성장 및 손해율 추이"
       ],
       "spark": [
-        {
-          "date": "7/17",
-          "close": 680.0
-        },
         {
           "date": "7/20",
           "close": 675.0
@@ -1920,11 +1937,15 @@
         {
           "date": "10/15",
           "close": 615.0
+        },
+        {
+          "date": "10/16",
+          "close": 630.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/15 종가 (WIB)",
+      "exchangeLine": "IDX · 10/16 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -3673,6 +3694,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-16 17:31"
+    "updated": "2026-10-16 18:46"
   }
 }
