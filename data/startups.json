@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-16 16:58",
+  "updated": "2026-10-16 17:08",
   "items": [
     {
       "title": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
       "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "클라우드·AI 비용 급증 대응 스타트업, 6천만 달러 조달",
-      "takeaway": "클라우드·AI 비용 급증 대응 스타트업, 6천만 달러 조달",
+      "insight": "클라우드·AI 비용 급증 문제 해결 스타트업, 6000만 달러 조달",
+      "takeaway": "클라우드·AI 비용 급증 문제 해결 스타트업, 6000만 달러 조달",
       "bullets": [
-        "North Cloud Holdings, 6천만 달러 펀딩 확보",
+        "North Cloud Holdings, 6000만 달러 펀딩 확보",
         "클라우드·AI 인프라 비용 통제 솔루션 제공",
-        "기업의 클라우드 지출 급증 문제 해결 타깃"
+        "기업의 클라우드 비용 급증 억제가 핵심 목표"
       ]
     },
     {
@@ -19,12 +19,12 @@
       "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "데이터센터용 3D 컴퓨팅 모듈 스타트업, 시리즈A 6500만 달러",
-      "takeaway": "데이터센터용 3D 컴퓨팅 모듈 스타트업, 시리즈A 6500만 달러",
+      "insight": "데이터센터용 3D 컴퓨팅 모듈 스타트업, Intel 참여 속 6500만 달러 조달",
+      "takeaway": "데이터센터용 3D 컴퓨팅 모듈 스타트업, Intel 참여 속 6500만 달러 조달",
       "bullets": [
-        "Mueon, 6500만 달러 시리즈A 라운드 완료",
-        "Maverick Silicon이 리드, Intel 벤처도 참여",
-        "데이터센터 대상 3D 컴퓨팅 모듈 개발 중점"
+        "Mueon, 시리즈A로 6500만 달러 유치",
+        "Maverick Silicon이 라운드 리드",
+        "Intel 벤처캐피털도 투자에 참여"
       ]
     },
     {
@@ -32,12 +32,12 @@
       "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Ramp, 18.5억 달러 조달로 금융 소프트웨어 이상으로 확장",
-      "takeaway": "Ramp, 18.5억 달러 조달로 금융 소프트웨어 이상으로 확장",
+      "insight": "기업 카드·재무 소프트웨어 Ramp, 18억 달러 대형 후기 라운드 성사",
+      "takeaway": "기업 카드·재무 소프트웨어 Ramp, 18억 달러 대형 후기 라운드 성사",
       "bullets": [
-        "시리즈G에서 18억 5천만 달러 대규모 조달",
-        "Dragoneer·Thrive Capital 등 주요 투자자 참여",
-        "법인카드에서 비즈니스 소프트웨어 전반으로 확장"
+        "Ramp, 시리즈G로 18.5억 달러 조달",
+        "Dragoneer·Thrive Capital 등이 참여",
+        "재무 소프트웨어를 넘어 사업 영역 확장 추진"
       ]
     },
     {
@@ -45,12 +45,12 @@
       "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Cerebras, 추론 속도로 에이전틱 AI 시장 경쟁우위 주장",
-      "takeaway": "Cerebras, 추론 속도로 에이전틱 AI 시장 경쟁우위 주장",
+      "insight": "에이전틱 AI 시대, 추론 속도가 플랫폼 경쟁의 핵심 변수로 부상",
+      "takeaway": "에이전틱 AI 시대, 추론 속도가 플랫폼 경쟁의 핵심 변수로 부상",
       "bullets": [
-        "에이전틱 AI에서 추론 속도가 핵심 경쟁력으로 부상",
-        "Cerebras, 빠른 토큰 생성 속도를 차별점으로 포지셔닝",
-        "속도가 AI 플랫폼 승패를 가를 변수로 지목"
+        "Cerebras, 추론 속도를 차별화 전략으로 내세움",
+        "에이전틱 워크플로우에서 속도가 서비스 존재 조건",
+        "가장 빠른 토큰 처리가 AI 플랫폼 승패 가름"
       ]
     },
     {
@@ -58,12 +58,12 @@
       "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "휴머노이드 로봇 자율 마이크로팩토리 스타트업 스웨덴서 출범",
-      "takeaway": "휴머노이드 로봇 자율 마이크로팩토리 스타트업 스웨덴서 출범",
+      "insight": "스웨덴 스타트업, 휴머노이드 로봇 자율 마이크로공장 구축 본격 시동",
+      "takeaway": "스웨덴 스타트업, 휴머노이드 로봇 자율 마이크로공장 구축 본격 시동",
       "bullets": [
-        "120ft, 22명 엔젤로부터 약 64만 달러 시드 조달",
-        "스웨덴 스타트업, 오늘 공식 런칭 발표",
-        "휴머노이드 로봇이 운영하는 자율 소규모 공장 구축"
+        "120ft, 22명 엔젤 투자자로부터 약 64만 달러 조달",
+        "휴머노이드 로봇 기반 자율 마이크로공장 개발",
+        "스웨덴 로보틱스 스타트업으로 오늘 공식 론칭"
       ]
     },
     {
@@ -71,12 +71,12 @@
       "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Anthropic, Q3 매출 168억 달러·분기 45% 성장으로 IPO 준비",
-      "takeaway": "Anthropic, Q3 매출 168억 달러·분기 45% 성장으로 IPO 준비",
+      "insight": "Anthropic, Q3 매출 168억 달러·분기 45% 성장…IPO 전 수익성 달성",
+      "takeaway": "Anthropic, Q3 매출 168억 달러·분기 45% 성장…IPO 전 수익성 달성",
       "bullets": [
-        "3분기 매출 168억 달러, 전분기 대비 45% 성장",
-        "조정 기준 흑자 전환 달성 보고",
-        "IPO를 앞두고 Financial Times가 실적 공개"
+        "Q3 매출 168억 달러, 전분기 대비 45% 성장",
+        "조정 기준 흑자 전환 달성",
+        "IPO를 앞두고 Financial Times가 실적 보도"
       ]
     }
   ]
