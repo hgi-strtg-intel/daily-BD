@@ -1,19 +1,19 @@
 {
   "asOf": "2026-10-16",
-  "updated": "2026-10-16 15:33",
-  "fx": "환율 2026-10-16 · 시장환율   1 USD = ₩1,331.98   |   1 USD = 18,028.00 IDR   |   1 IDR = ₩0.07388",
+  "updated": "2026-10-16 15:45",
+  "fx": "환율 2026-10-16 · 시장환율   1 USD = ₩1,331.78   |   1 USD = 18,028.00 IDR   |   1 IDR = ₩0.07387",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "차원태 승계 핵심 법인 KH그린이 차바이오텍 보유 지분 전량을 담보로 제공한 배경 보도",
-      "impact": "지배주주 법인의 지분 전량 담보는 강제처분 시 지배구조 급변 가능—당사 보유 지분가치에 직접 위협",
+      "text": "오너 승계 핵심축 KH그린이 보유한 차바이오텍 지분 전량이 담보로 설정된 배경을 심층 보도",
+      "impact": "대주주 지분 전량 담보는 담보권 실행 시 지분구조 급변 위험으로, 당사 보유 지분가치 및 경영 안정성에 간접 위협",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FZHc2TVM2MlJMSzhNaFdhb2xFUy1LOWx6UjNwRmhISDFpcnd1U1gxVGpxRmVHMEhUT05LeEhCXzhKUEVxdHRPbVJVXzJnZGoxMm9UWHI4ME0zd3JyOGJnRGIxNVVBMlUyN2VnRWpR?oc=5"
     },
     {
       "company": "루멘",
-      "text": "Morgan Stanley가 루멘의 자율주행차 보험 사업에 대한 초기 베팅을 지지한다고 보도",
-      "impact": "자율주행 보험 신사업에 대한 기관 신뢰 형성—디지털 손보 벤치마크로서 사업모델 시사점 추가 확인 필요",
+      "text": "Morgan Stanley가 루멘의 자율주행차 보험 분야 조기 진입 전략을 지지한다고 보도",
+      "impact": "신사업 외부 검증으로 투자 매력도 판단 시 신사업 성장성 가중치 재검토 필요",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlhYREFoVU5jdEFyRzFaa3B3NzBKSUlFNFctbzlJejRxSjdDMkNLMzRMM2pXZXdnczQ4UlFoSDNiaGRCOVU3WUdSQ2MtcTlwTXZaVXNScEloRnpHZ211VkpuSXVTcE9GZlJuQ2VaWVYyS0dRMUVTRTdGdmktMDl4ZjgxSndXTTZhVDcweW9MV0dVVldtSTBzb05kVzBQQjA4UlRFMFFkYXZMeDZPblJfLXVYUUxNVk91TVEwNWRaYzlUREJaSWxHZjltMk92YVFwR1E1akJyQ2g0MFdfMVBzanNCRTczZjFHY1pFYXcySQ?oc=5"
     }
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "지분구조 담보 리스크 부각",
+      "event": "지분 담보 구조 리스크 부상",
       "tags": [
-        "+4.07%",
+        "+3.66%",
         "당사 투자"
       ],
-      "priceText": "₩7,670",
+      "priceText": "₩7,640",
       "openText": "₩7,380",
       "highText": "₩7,860",
       "lowText": "₩7,370",
       "prevCloseText": "₩7,370",
-      "changeText": "+₩300",
+      "changeText": "+₩270",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,670",
+          "₩7,640",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-40.10%",
+          "-40.34%",
           null
         ],
         [
           "전일대비",
-          "+4.07%",
+          "+3.66%",
           null
         ],
         [
           "전주대비",
-          "-6.46%",
+          "-6.83%",
           null
         ],
         [
           "거래량(20일比)",
-          "18.27만 · 0.91x",
+          "18.75만 · 0.93x",
           null
         ],
         [
           "시가총액",
-          "7,131억",
+          "7,103억",
           null
         ],
         [
           "52주 고점대비",
-          "-67.97%",
+          "-68.10%",
           null
         ]
       ],
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "지배주주 승계 핵심 법인이 보유 지분 전량을 담보로 제공—지배구조 불안정성이 잠재 리스크로 부상",
-        "자금조달·지배구조 이슈가 해소되지 않으면 당사 보유 지분가치에 부정적 영향 가능"
+        "오너 승계 구조상 핵심 지주사 KH그린의 차바이오텍 지분 전량 담보 설정은 대주주 지분 안정성에 잠재 위험",
+        "담보권 실행 시 지분구조 급변 가능성 → 당사 보유 지분가치 및 경영 연속성에 간접 영향"
       ],
       "watch": [
-        "KH그린 담보 지분 처분·반환 여부",
-        "추가 유상증자·CB 발행 가능성",
-        "CGT/CDMO 임상·계약 공시 여부"
+        "KH그린 담보 해소 또는 추가 설정 여부",
+        "차원태 승계 구도 관련 지분 변동 공시",
+        "CGT/CDMO 임상·계약 진척 공시"
       ],
       "spark": [
         {
@@ -348,14 +348,20 @@
         },
         {
           "date": "10/16",
-          "close": 7670.0
+          "close": 7640.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
       "exchangeLine": "KRX · 10/16 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0s3Vkp2Y3V1OUpQVXBNVnN4NW9GN09lM00tdWtma2hDeHRHdEVBZzQ1TWtTdFVRVnBEN2k4RXp2X1V6c1A4cEZ4Z3ZiM2VvVmROOUpWTFNsanZFSVRVLVdkdGxubGl4c3FfYjVGd29ESldvZlc5LTJSRHktWDdPZTcxN3BPTWF6Nm1BUi1EQQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRHJDdHZfTXJRNS12NG5idEFxMEk2T2l4UWxJZHlud0tpV19qNnNHbC13Z1oyN3RJSXJNSXZSS0hWNWpRYkNkMVZGbGlLS0dqVUVTODVsZUlIY3h1?oc=5",
       "sources": [
+        {
+          "title": "차바이오텍 주가 330원 상승 후 마감",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRHJDdHZfTXJRNS12NG5idEFxMEk2T2l4UWxJZHlud0tpV19qNnNHbC13Z1oyN3RJSXJNSXZSS0hWNWpRYkNkMVZGbGlLS0dqVUVTODVsZUlIY3h1?oc=5",
+          "source": "아시아뉴스통신",
+          "date": "10/16"
+        },
         {
           "title": "[2026 KIC] 강재선 차바이오텍 상무 “글로벌 임상, CRO 명성보다 협력체계 우선”",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0s3Vkp2Y3V1OUpQVXBNVnN4NW9GN09lM00tdWtma2hDeHRHdEVBZzQ1TWtTdFVRVnBEN2k4RXp2X1V6c1A4cEZ4Z3ZiM2VvVmROOUpWTFNsanZFSVRVLVdkdGxubGl4c3FfYjVGd29ESldvZlc5LTJSRHktWDdPZTcxN3BPTWF6Nm1BUi1EQQ?oc=5",
@@ -508,6 +514,13 @@
           "level": "mid",
           "date": "10/15",
           "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "오너 승계 핵심축 KH그린이 보유한 차바이오텍 지분 전량이 담보로 설정된 배경을 심층 보도",
+          "impact": "대주주 지분 전량 담보는 담보권 실행 시 지분구조 급변 위험으로, 당사 보유 지분가치 및 경영 안정성에 간접 위협",
+          "level": "mid",
+          "date": "10/15",
+          "collected_at": "2026-10-16"
         }
       ]
     },
@@ -518,20 +531,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-1.33%",
+        "+1.33%",
         "당사 투자"
       ],
-      "priceText": "₩5,190",
+      "priceText": "₩5,330",
       "openText": "₩5,260",
       "highText": "₩5,470",
       "lowText": "₩5,160",
       "prevCloseText": "₩5,260",
-      "changeText": "-₩70",
+      "changeText": "+₩70",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,190",
+          "₩5,330",
           null
         ],
         [
@@ -546,27 +559,27 @@
         ],
         [
           "전일대비",
-          "-1.33%",
+          "+1.33%",
           null
         ],
         [
           "전주대비",
-          "-6.49%",
+          "-3.96%",
           null
         ],
         [
           "거래량(20일比)",
-          "6.10천 · 0.56x",
+          "6.05천 · 0.56x",
           null
         ],
         [
           "시가총액",
-          "944억",
+          "970억",
           null
         ],
         [
           "52주 고점대비",
-          "-73.76%",
+          "-73.05%",
           null
         ]
       ],
@@ -584,9 +597,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 공시 확인",
-        "신규 고객사·파트너십 계약 여부",
-        "헬스케어 전환 관련 사업 공시"
+        "분기 매출·영업손익 실적 공시",
+        "헬스케어 신규 고객사·파트너십 발표",
+        "추가 자금조달 공시 여부"
       ],
       "spark": [
         {
@@ -839,7 +852,7 @@
         },
         {
           "date": "10/16",
-          "close": 5190.0
+          "close": 5330.0
         }
       ],
       "avgCost": null,
@@ -889,7 +902,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "자율주행 보험 모멘텀 확인",
+      "event": "자율주행 보험 포지셔닝 주목",
       "tags": [
         "+4.56%",
         "벤치마크"
@@ -905,7 +918,7 @@
         [
           "종가",
           "$45.86",
-          "₩61,085"
+          "₩61,075"
         ],
         [
           "취득가",
@@ -954,13 +967,13 @@
         }
       ],
       "events": [
-        "Morgan Stanley의 자율주행 보험 사업 지지 보도—신성장 동력으로서의 시장 신뢰도 형성 중",
-        "핵심 수익성 지표(EBITDA 성장) 에 대한 Wall Street 경계감도 병존—IFP 성장이 수익성으로 전환되는지가 투자 판단의 핵심"
+        "Morgan Stanley의 자율주행차 보험 분야 조기 베팅 지지는 루멘의 신사업 시장 포지션에 외부 검증이 붙은 신호",
+        "핵심 이익 성장에 대한 월가 경계론이 병존 → IFP 성장세와 EBITDA 흑자전환 시점 확인 전까지 투자 판단 유보 유지"
       ],
       "watch": [
         "IFP 성장률 및 Loss Ratio 분기 추이",
         "EBITDA 흑자전환 시점 가이던스",
-        "자율주행 보험 IFP 비중 확대 여부"
+        "자율주행 보험 라인 실제 계약 규모"
       ],
       "spark": [
         {
@@ -1393,6 +1406,20 @@
           "level": "mid",
           "date": "10/15",
           "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "Morgan Stanley가 루멘의 자율주행차 보험 분야 조기 진입 전략을 지지한다고 보도",
+          "impact": "신사업 외부 검증으로 투자 매력도 판단 시 신사업 성장성 가중치 재검토 필요",
+          "level": "mid",
+          "date": "10/15",
+          "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "월가 일부에서 루멘의 핵심 이익(Core Profit) 성장 가시성에 신중론 제기",
+          "impact": "EBITDA 흑자전환 시점 불확실성 지속으로 신규 투자 결정 전 추가 실적 확인 필요",
+          "level": "mid",
+          "date": "10/15",
+          "collected_at": "2026-10-16"
         }
       ]
     },
@@ -1469,9 +1496,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 개정 동향",
-        "RBC 비율 분기 공시",
-        "PIKK 개정 관련 당국 발표"
+        "OJK 규제 신규 지침 발표 여부",
+        "RBC 비율 분기 보고",
+        "PIKK 개정안 적용 일정 확인"
       ],
       "spark": [
         {
@@ -3478,6 +3505,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-16 15:33"
+    "updated": "2026-10-16 15:46"
   }
 }
