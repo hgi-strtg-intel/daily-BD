@@ -1,35 +1,95 @@
 {
-  "updated": "2026-10-15 23:03",
+  "updated": "2026-10-19 10:01",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "투자자산과 노후자산의 조화를 위한 연금세제 개편",
       "category": "고령화·헬스케어",
-      "takeaway": "투자자산과 노후자산의 균형을 위한 연금세제 개편 방향이 보험사 연금상품 전략에 직결된다.",
+      "takeaway": "연금세제 개편으로 투자·노후자산 간 균형 잡힌 설계가 필요해진다.",
       "bullets": [
-        "연금세제 구조 개편은 보험사 연금저축·퇴직연금 상품 경쟁력에 직접 영향",
-        "투자자산과 노후자산 간 세제 혜택 배분 방식의 재설계 논의",
-        "고령화 심화에 따른 국내 노후소득 보장 체계 강화 필요성 반영"
+        "투자자산과 노후자산의 과세 체계 조화가 핵심 논의 주제",
+        "세제 개편 방향에 따라 연금 상품 설계 및 수요 구조 변화 가능",
+        "생보·손보의 연금 포트폴리오 전략 재검토 필요성 시사"
       ],
       "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881539",
       "date": "",
-      "collected_at": "2026-10-15"
+      "collected_at": "2026-10-19"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "생명보험회사의 장기물 중심 환헤지 전략 검토",
       "category": "자본·재무",
-      "takeaway": "생명보험사의 장기물 중심 환헤지 전략은 금리·환율 리스크 관리의 핵심 과제다.",
+      "takeaway": "생명보험사의 장기물 환헤지 전략이 금리·환율 리스크 관리의 핵심으로 부각.",
       "bullets": [
-        "장기 외화자산 보유 생보사에 대한 환헤지(FX Hedge) 비용 부담 증가 추세",
-        "장기물 헤지 수단(장기선물환·통화스와프 등) 활용 전략의 효과성 검토",
-        "IFRS17·K-ICS 도입 이후 ALM(자산부채관리) 관점에서 환헤지 중요성 부각"
+        "장기 외화자산 증가에 따른 환헤지 비용 및 만기 구조 최적화 검토",
+        "단기 롤오버 위주 헤지의 한계를 장기물 중심으로 보완하는 전략 논의",
+        "손보사 해외투자 확대 시 유사한 환헤지 전략 적용 가능성 존재"
       ],
       "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881089",
       "date": "",
-      "collected_at": "2026-10-15"
+      "collected_at": "2026-10-19"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "2026 European Holiday Shopping Outlook",
+      "category": "글로벌 동향",
+      "takeaway": "2026년 유럽 연휴 소비는 완만한 회복세로 영국·프랑스·독일 모두 소폭 성장 전망.",
+      "bullets": [
+        "UK 3.5%, 프랑스 2.5%, 독일 2.0% 전년 대비 성장 예측",
+        "소비 심리 회복이 제한적이어서 고성장 기대는 어려운 상황",
+        "유럽 소비 동향은 글로벌 재보험·여행보험 수요 예측에 참고 가능"
+      ],
+      "url": "https://www.bain.com/insights/2026-european-holiday-shopping-outlook-infographic/",
+      "date": "10/15",
+      "collected_at": "2026-10-19"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI 에이전트가 소프트웨어 개발 경제학 자체를 재편하고 있다.",
+      "bullets": [
+        "코드 작성 속도 향상을 넘어 자율 에이전트의 상용화 단계 진입",
+        "Cognition 공동창업자가 에이전트 기반 개발의 수익 구조 변화 설명",
+        "보험사 IT조직의 AI 도입 방향 설정에 직접적 참고 가능"
+      ],
+      "url": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
+      "date": "10/16",
+      "collected_at": "2026-10-19"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "What is a forward-deployed engineer?",
+      "category": "인슈어테크·AI",
+      "takeaway": "FDE(현장 배치 엔지니어)가 기업의 AI 실질 성과 창출 핵심 역할로 부상.",
+      "bullets": [
+        "FDE는 고객사 내부 시스템에 직접 임베드되어 AI 구현을 지원",
+        "McKinsey 리더 3인이 FDE 모델의 실무 적용 방식 구체적으로 설명",
+        "보험사의 AI 내재화 시 외부 전문인력 활용 모델로 참고 가능"
+      ],
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
+      "date": "10/16",
+      "collected_at": "2026-10-19"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Inside Bain's 2026 Technology Report",
+      "category": "글로벌 동향",
+      "takeaway": "Bain 2026 기술 보고서는 기업 전략을 바꾸는 핵심 기술 트렌드를 총망라한다.",
+      "bullets": [
+        "AI·클라우드·자동화 등 기술 섹터를 형성하는 거시적 힘 분석",
+        "경영진이 즉시 활용 가능한 전략적 시사점 중심으로 구성",
+        "보험사 디지털 전환 로드맵 수립 시 벤치마크 자료로 활용 가능"
+      ],
+      "url": "https://www.bain.com/insights/inside-bains-2026-technology-report-webinar/",
+      "date": "10/14",
+      "collected_at": "2026-10-19"
     },
     {
       "publisher": "McKinsey",
@@ -59,21 +119,6 @@
       ],
       "url": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain",
       "date": "10/14",
-      "collected_at": "2026-10-15"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "2026 European Holiday Shopping Outlook",
-      "category": "글로벌 동향",
-      "takeaway": "유럽 주요 3국 연휴 소매 판매가 완만한 성장세로 소비 경기를 가늠할 수 있다.",
-      "bullets": [
-        "영국 +3.5%, 프랑스 +2.5%, 독일 +2.0% 전년 대비 성장 전망",
-        "보험 수요와 연계된 유럽 소비 심리·경기 흐름의 선행 지표로 활용 가능",
-        "국가별 성장 격차는 거시경제 환경 차이를 반영"
-      ],
-      "url": "https://www.bain.com/insights/2026-european-holiday-shopping-outlook-infographic/",
-      "date": "10/15",
       "collected_at": "2026-10-15"
     },
     {
@@ -150,146 +195,6 @@
       "url": "https://www.bain.com/insights/reduce-reuse-recycle-inside-faerchs-closed-loop-business-model-video/",
       "date": "10/08",
       "collected_at": "2026-10-12"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "The strategic new arenas reshaping insurance",
-      "takeaway": "AI 외 18개 고성장 산업이 보험업의 신규 시장과 수익구조를 재편 중.",
-      "bullets": [
-        "모빌리티·기후테크 등 18개 신산업에서 신규 인수(underwriting) 기회 발생",
-        "신산업 성장이 기존 보험 상품의 경제성 자체를 변화시킴",
-        "단순 디지털화 넘어 산업 생태계 재편에 전략적 포지셔닝 필요"
-      ],
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
-      "date": "09/15",
-      "collected_at": "2026-09-17"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Building the New Economy with Ares' Kipp deVeer",
-      "takeaway": "데이터센터 금융에서 '뉴이코노미' 인프라 전반으로 사모신용 투자가 확장 중.",
-      "bullets": [
-        "Ares는 데이터센터 파이낸싱에서 에너지·디지털 인프라로 영역 확대",
-        "사모신용(private credit) 시장의 대형화가 보험사 ALM 운용 기회 확대",
-        "뉴이코노미 인프라는 장기 고정수익 자산으로 보험사 자산배분 적합"
-      ],
-      "url": "https://www.bain.com/insights/building-the-new-economy-with-ares-kipp-deveer-podcast/",
-      "date": "09/16",
-      "collected_at": "2026-09-17"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "에이지테크(AgeTech) 산업의 성장과 보험산업",
-      "takeaway": "AgeTech 산업 성장이 고령자 대상 보험상품·서비스 모델 혁신을 촉진.",
-      "bullets": [
-        "AgeTech(고령친화 기술)는 헬스케어·생활보조 기기·플랫폼을 포함",
-        "고령 인구 증가와 기술 결합으로 보험 연계 신서비스 설계 가능",
-        "보험사의 AgeTech 파트너십이 장기간병·실버케어 시장 선점 수단"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=868939",
-      "date": "",
-      "collected_at": "2026-09-17"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "디지털 유산 관리와 보험산업의 접점",
-      "takeaway": "디지털 유산(사망 후 온라인 자산) 관리가 보험업의 새로운 접점으로 부상.",
-      "bullets": [
-        "사망자의 SNS·암호화폐 등 디지털 자산 처리 수요 급증",
-        "생명보험 청구·수익자 지정 프로세스와 디지털 유산 연계 가능",
-        "디지털 유산 서비스를 부가특약으로 설계 시 차별화 상품 개발 기회"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=29&docId=868489",
-      "date": "",
-      "collected_at": "2026-09-17"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
-      "takeaway": "매년 교체되는 고객 지갑점유율을 선제적으로 방어하는 전략이 핵심.",
-      "bullets": [
-        "연간 12~25%의 wallet share(고객 금융거래 점유율)가 이동",
-        "충성도 유지보다 이탈 예측·선점이 경쟁 우위 결정",
-        "보험사도 교차판매·번들링으로 고객 고착화 필요"
-      ],
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
-      "date": "09/16",
-      "collected_at": "2026-09-17"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Getting Past the AI Value Paradox in Private Equity",
-      "takeaway": "PE 포트폴리오사의 AI 투자가 확산되지만 실질 가치 창출로 이어지지 않는 역설 주목.",
-      "bullets": [
-        "AI 도입 범위와 실제 EBITDA 개선 간 괴리가 심화",
-        "가치 창출 실패 원인은 기술보다 실행·조직 역량 부재",
-        "보험 계열 투자 포트폴리오의 AI ROI 검증 기준 정립 시사"
-      ],
-      "url": "https://www.bain.com/insights/getting-past-the-ai-value-paradox-in-private-equity/",
-      "date": "09/16",
-      "collected_at": "2026-09-17"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "The New Investment Playbook for Sustainability",
-      "takeaway": "지속가능성을 단순 규제 대응이 아닌 장기 경쟁우위 원천으로 전환 가능",
-      "bullets": [
-        "ESG 투자를 비용이 아닌 수익 창출 레버로 재정의하는 프레임 제시",
-        "보험사 자산운용 포트폴리오 재편 및 그린 상품 개발 근거로 활용",
-        "지속가능 투자 선도 여부가 기관 투자자 유치·신뢰도에 영향"
-      ],
-      "url": "https://www.bain.com/insights/new-investment-playbook-for-sustainability-ceo-sustainability-guide-2026/",
-      "date": "09/11",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Make Better. Sell Better. Protect Better: How Sustainable AI Creates Value",
-      "takeaway": "AI의 환경 비용을 과대평가하지 말고, 실질 가치 창출 영역에 집중해야 한다.",
-      "bullets": [
-        "경영진 다수가 AI 에너지 소비량을 실제보다 과대 인식",
-        "제조·판매·보호 각 단계별 AI 가치 창출 포인트 차별화",
-        "보험사는 언더라이팅·클레임 등 고가치 영역에 AI 집중 필요"
-      ],
-      "url": "https://www.bain.com/insights/make-better-sell-better-protect-better-how-sustainable-ai-creates-value-ceo-sustainability-guide-2026/",
-      "date": "09/11",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
-      "takeaway": "바이오파마 생산혁신은 보험사 임상·공급망 리스크 재평가 계기",
-      "bullets": [
-        "포트폴리오 복잡화로 단순 생산능력 확대만으론 한계",
-        "디지털·자동화 기반 '미래형 공장' 구조 전환 가속",
-        "공급망 중단 리스크→제약사 대상 보험수요 변화 가능"
-      ],
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
-      "date": "09/15",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "From Tailwinds to Trade-Offs: Southeast Asia Outlook 2026–2035",
-      "takeaway": "동남아 6개국 5.1% 성장은 보험사 신흥시장 전략의 근거",
-      "bullets": [
-        "SEA-6 평균 성장률 5.1%로 예측치와 일치, 안정성 확인",
-        "성장 이면의 트레이드오프(무역·인구·기후) 리스크 부각",
-        "2026~2035년 중장기 전략 수립 시 지역별 차별화 필수"
-      ],
-      "url": "https://www.bain.com/insights/from-tailwinds-to-trade-offs-southeast-asia-outlook-2026-2035/",
-      "date": "09/16",
-      "collected_at": "2026-09-16"
     }
   ]
 }
