@@ -1,17 +1,43 @@
 {
-  "updated": "2026-10-16 18:42",
+  "updated": "2026-10-19 19:42",
   "items": [
+    {
+      "title": "Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels UK data center project",
+      "url": "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
+      "source": "SiliconANGLE",
+      "date": "10/19",
+      "insight": "MS 영국 데이터센터 철수로 Nscale IPO 계획에 심각한 차질",
+      "takeaway": "MS 영국 데이터센터 철수로 Nscale IPO 계획에 심각한 차질",
+      "bullets": [
+        "Nscale, 미국 IPO 추진 중 최대 고객 MS 이탈",
+        "MS의 영국 데이터센터 프로젝트 취소가 직접 원인",
+        "영국 네오클라우드 스타트업의 상장 전망 불투명"
+      ]
+    },
+    {
+      "title": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
+      "url": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
+      "source": "SiliconANGLE",
+      "date": "10/16",
+      "insight": "엔터프라이즈 맞춤형 AI 앱 개발사 RapidCanvas, 2900만 달러 조달",
+      "takeaway": "엔터프라이즈 맞춤형 AI 앱 개발사 RapidCanvas, 2900만 달러 조달",
+      "bullets": [
+        "Vertex Ventures SEA & India 주도 시리즈 B 완료",
+        "Hitachi Ventures 등 참여",
+        "기업용 커스텀 AI 애플리케이션 개발에 특화"
+      ]
+    },
     {
       "title": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
       "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "AI 시대 클라우드 비용 폭증 막을 스타트업, 6천만 달러 조달",
-      "takeaway": "AI 시대 클라우드 비용 폭증 막을 스타트업, 6천만 달러 조달",
+      "insight": "클라우드·AI 비용 폭증 막는 North.cloud, 6000만 달러 유치",
+      "takeaway": "클라우드·AI 비용 폭증 막는 North.cloud, 6000만 달러 유치",
       "bullets": [
-        "North Cloud Holdings, 6천만 달러 펀딩 유치",
-        "클라우드·AI 인프라 비용 통제 솔루션 제공",
-        "기업의 클라우드 비용 급증 문제 타깃"
+        "기업의 클라우드·AI 인프라 비용 통제 솔루션 제공",
+        "6000만 달러 펀딩 확보로 사업 확장 기반 마련",
+        "클라우드 비용 최적화 시장 수요 증가 반영"
       ]
     },
     {
@@ -19,12 +45,12 @@
       "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "데이터센터용 3D 컴퓨팅 모듈 스타트업, 인텔 참여로 6,500만 달러 조달",
-      "takeaway": "데이터센터용 3D 컴퓨팅 모듈 스타트업, 인텔 참여로 6,500만 달러 조달",
+      "insight": "3D 컴퓨팅 모듈 개발 Mueon, 인텔 참여로 6500만 달러 시리즈 A 완료",
+      "takeaway": "3D 컴퓨팅 모듈 개발 Mueon, 인텔 참여로 6500만 달러 시리즈 A 완료",
       "bullets": [
-        "Mueon Corp, 시리즈A 6,500만 달러 유치",
-        "Maverick Silicon이 라운드 주도",
-        "Intel도 투자자로 참여한 반도체 특화 펀딩"
+        "반도체 전문 펀드 Maverick Silicon 주도",
+        "Intel 벤처 캐피털도 라운드 참여",
+        "데이터센터용 3D 컴퓨팅 모듈 하드웨어 개발 집중"
       ]
     },
     {
@@ -32,12 +58,12 @@
       "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "Ramp, 18.5억 달러 조달로 핀테크 초대형 투자 사례 기록",
-      "takeaway": "Ramp, 18.5억 달러 조달로 핀테크 초대형 투자 사례 기록",
+      "insight": "Ramp, 18.5억 달러 조달로 금융 SW 넘어 사업 영역 확장",
+      "takeaway": "Ramp, 18.5억 달러 조달로 금융 SW 넘어 사업 영역 확장",
       "bullets": [
-        "시리즈G 18.5억 달러, Dragoneer·Thrive Capital 참여",
-        "법인카드 넘어 비즈니스 소프트웨어로 영역 확장",
-        "후기 스타트업 대규모 자금 유치로 성장세 입증"
+        "Dragoneer 주도 시리즈 G 라운드 완료",
+        "Thrive Capital 등 투자 참여",
+        "법인카드·비즈니스 소프트웨어 제공사로 시작해 영역 확장"
       ]
     },
     {
@@ -45,38 +71,12 @@
       "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
       "source": "SiliconANGLE",
       "date": "10/15",
-      "insight": "에이전틱 AI 시대, 추론 속도가 플랫폼 경쟁력 핵심으로 부상",
-      "takeaway": "에이전틱 AI 시대, 추론 속도가 플랫폼 경쟁력 핵심으로 부상",
+      "insight": "Cerebras, 추론 속도를 에이전틱 AI 경쟁력의 핵심으로 내세워",
+      "takeaway": "Cerebras, 추론 속도를 에이전틱 AI 경쟁력의 핵심으로 내세워",
       "bullets": [
-        "Cerebras, 추론 속도를 핵심 경쟁 우위로 포지셔닝",
-        "에이전틱 워크플로우에서 속도가 서비스 존재 조건",
-        "가장 빠른 토큰 처리가 AI 플랫폼 승패 가름"
-      ]
-    },
-    {
-      "title": "120ft raises angel funding to build autonomous microfactories run by humanoid robots",
-      "url": "https://siliconangle.com/2026/10/15/120ft-raises-angel-funding-to-build-autonomous-microfactories-run-by-humanoid-robots/",
-      "source": "SiliconANGLE",
-      "date": "10/15",
-      "insight": "휴머노이드 로봇 자율 마이크로팩토리, 스웨덴 스타트업으로 주목",
-      "takeaway": "휴머노이드 로봇 자율 마이크로팩토리, 스웨덴 스타트업으로 주목",
-      "bullets": [
-        "120ft Factory, 엔젤 22인으로부터 57.6만 유로 조달",
-        "휴머노이드 로봇이 운영하는 자율 마이크로팩토리 구축",
-        "스웨덴 로보틱스 스타트업으로 오늘 공식 런칭"
-      ]
-    },
-    {
-      "title": "Ahead of IPO, Anthropic reveals its revenue grew 45% sequentially to $16.8B in Q3",
-      "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
-      "source": "SiliconANGLE",
-      "date": "10/15",
-      "insight": "Anthropic, 분기 매출 45% 성장·조정 흑자로 IPO 기대감 고조",
-      "takeaway": "Anthropic, 분기 매출 45% 성장·조정 흑자로 IPO 기대감 고조",
-      "bullets": [
-        "3분기 매출 168억 달러, 전분기 대비 45% 성장",
-        "조정 기준 흑자 달성으로 수익성 확인",
-        "IPO 앞두고 파이낸셜타임스가 실적 보도"
+        "에이전틱 워크플로우에서 속도가 핵심 경쟁 요소로 부상",
+        "Cerebras는 빠른 토큰 처리를 차별화 포인트로 강조",
+        "차세대 AI 플랫폼 주도권은 추론 속도에 달렸다는 시각"
       ]
     }
   ]
