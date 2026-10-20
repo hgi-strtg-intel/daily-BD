@@ -1,17 +1,95 @@
 {
-  "updated": "2026-10-19 19:42",
+  "updated": "2026-10-20 18:59",
   "items": [
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch",
+      "date": "10/19",
+      "insight": "Nvidia 대항마 Tenstorrent, 독립 유지하며 62억 달러 가치 인정",
+      "takeaway": "Nvidia 대항마 Tenstorrent, 독립 유지하며 62억 달러 가치 인정",
+      "bullets": [
+        "15억 달러 투자 유치로 62억 달러 밸류에이션 달성",
+        "올해 초 인수 관심 받았으나 독립 노선 선택",
+        "오픈웨이트 AI 칩 확장 목표"
+      ]
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "TechCrunch",
+      "date": "10/19",
+      "insight": "출시 4개월 만에 유니콘 등극, AI 어시스턴트 시장 과열 신호",
+      "takeaway": "출시 4개월 만에 유니콘 등극, AI 어시스턴트 시장 과열 신호",
+      "bullets": [
+        "Series B 1억 800만 달러 유치로 유니콘 지위 획득",
+        "Forerunner·Menlo Ventures 공동 주도",
+        "출시 4개월 만에 10억 달러 이상 평가"
+      ]
+    },
+    {
+      "title": "Dream Labs raises $90M to help build more intelligent robots with simple video feeds",
+      "url": "https://siliconangle.com/2026/10/19/dream-labs-raises-90m-to-help-build-more-intelligent-robots-with-simple-video-feeds/",
+      "source": "SiliconANGLE",
+      "date": "10/20",
+      "insight": "영상 피드만으로 로봇 지능화, Dream Labs 9000만 달러 시드 유치",
+      "takeaway": "영상 피드만으로 로봇 지능화, Dream Labs 9000만 달러 시드 유치",
+      "bullets": [
+        "시드 라운드에서 9000만 달러 조달",
+        "단순 비디오 피드로 로봇 지능 향상 기술",
+        "자금 조달과 함께 퍼블릭 앱 론칭 병행"
+      ]
+    },
+    {
+      "title": "AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching",
+      "url": "https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/",
+      "source": "SiliconANGLE",
+      "date": "10/20",
+      "insight": "AI 에이전트 협업 플랫폼 Town, 1억 달러 조달로 유니콘 등극",
+      "takeaway": "AI 에이전트 협업 플랫폼 Town, 1억 달러 조달로 유니콘 등극",
+      "bullets": [
+        "AI 에이전트 간 협업으로 업무 수행에 특화",
+        "1억 800만 달러 신규 펀딩으로 유니콘 지위",
+        "출시 수 주 만에 유니콘 달성"
+      ]
+    },
+    {
+      "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
+      "url": "https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/",
+      "source": "SiliconANGLE",
+      "date": "10/19",
+      "insight": "Nvidia·Dell 참여한 2억 달러 투자, doubleAI의 전략적 가치 부각",
+      "takeaway": "Nvidia·Dell 참여한 2억 달러 투자, doubleAI의 전략적 가치 부각",
+      "bullets": [
+        "Lightspeed·Bessemer 공동 주도 Series A 2억 달러",
+        "Nvidia·Dell이 전략적 투자자로 참여",
+        "AI 모델 개발사로서의 입지 확대"
+      ]
+    },
+    {
+      "title": "Chip legend Jim Keller’s Tenstorrent raises $1.5B to expand its open compute ecosystem",
+      "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/",
+      "source": "SiliconANGLE",
+      "date": "10/19",
+      "insight": "Jim Keller의 Tenstorrent, 15억 달러로 Nvidia 대체 생태계 구축 가속",
+      "takeaway": "Jim Keller의 Tenstorrent, 15억 달러로 Nvidia 대체 생태계 구축 가속",
+      "bullets": [
+        "15억 달러 조달로 오픈 컴퓨트 생태계 확장",
+        "Nvidia GPU 대안으로 자사 포지셔닝 강화",
+        "반도체 전설 짐 켈러가 이끄는 스타트업"
+      ]
+    },
     {
       "title": "Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels UK data center project",
       "url": "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
       "source": "SiliconANGLE",
       "date": "10/19",
-      "insight": "MS 영국 데이터센터 철수로 Nscale IPO 계획에 심각한 차질",
-      "takeaway": "MS 영국 데이터센터 철수로 Nscale IPO 계획에 심각한 차질",
+      "insight": "MS의 UK 데이터센터 철수로 Nscale IPO 계획에 중대 차질",
+      "takeaway": "MS의 UK 데이터센터 철수로 Nscale IPO 계획에 중대 차질",
       "bullets": [
-        "Nscale, 미국 IPO 추진 중 최대 고객 MS 이탈",
-        "MS의 영국 데이터센터 프로젝트 취소가 직접 원인",
-        "영국 네오클라우드 스타트업의 상장 전망 불투명"
+        "최대 고객 Microsoft가 영국 데이터센터 계약 철회",
+        "미국 IPO 추진 중인 네오클라우드 스타트업에 타격",
+        "단일 고객 의존 리스크가 현실화된 사례"
       ]
     },
     {
@@ -19,64 +97,12 @@
       "url": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
       "source": "SiliconANGLE",
       "date": "10/16",
-      "insight": "엔터프라이즈 맞춤형 AI 앱 개발사 RapidCanvas, 2900만 달러 조달",
-      "takeaway": "엔터프라이즈 맞춤형 AI 앱 개발사 RapidCanvas, 2900만 달러 조달",
+      "insight": "RapidCanvas, 기업용 맞춤 AI 앱 개발로 2900만 달러 Series B 유치",
+      "takeaway": "RapidCanvas, 기업용 맞춤 AI 앱 개발로 2900만 달러 Series B 유치",
       "bullets": [
-        "Vertex Ventures SEA & India 주도 시리즈 B 완료",
+        "Vertex Ventures SEA·India 주도 Series B 2900만 달러",
         "Hitachi Ventures 등 참여",
-        "기업용 커스텀 AI 애플리케이션 개발에 특화"
-      ]
-    },
-    {
-      "title": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
-      "url": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
-      "source": "SiliconANGLE",
-      "date": "10/16",
-      "insight": "클라우드·AI 비용 폭증 막는 North.cloud, 6000만 달러 유치",
-      "takeaway": "클라우드·AI 비용 폭증 막는 North.cloud, 6000만 달러 유치",
-      "bullets": [
-        "기업의 클라우드·AI 인프라 비용 통제 솔루션 제공",
-        "6000만 달러 펀딩 확보로 사업 확장 기반 마련",
-        "클라우드 비용 최적화 시장 수요 증가 반영"
-      ]
-    },
-    {
-      "title": "Mueon nabs $65M in funding to develop 3D computing modules",
-      "url": "https://siliconangle.com/2026/10/15/mueon-nabs-65m-in-funding-to-develop-3d-computing-modules/",
-      "source": "SiliconANGLE",
-      "date": "10/16",
-      "insight": "3D 컴퓨팅 모듈 개발 Mueon, 인텔 참여로 6500만 달러 시리즈 A 완료",
-      "takeaway": "3D 컴퓨팅 모듈 개발 Mueon, 인텔 참여로 6500만 달러 시리즈 A 완료",
-      "bullets": [
-        "반도체 전문 펀드 Maverick Silicon 주도",
-        "Intel 벤처 캐피털도 라운드 참여",
-        "데이터센터용 3D 컴퓨팅 모듈 하드웨어 개발 집중"
-      ]
-    },
-    {
-      "title": "Ramp raises $1.85B as it expands beyond finance software",
-      "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
-      "source": "SiliconANGLE",
-      "date": "10/15",
-      "insight": "Ramp, 18.5억 달러 조달로 금융 SW 넘어 사업 영역 확장",
-      "takeaway": "Ramp, 18.5억 달러 조달로 금융 SW 넘어 사업 영역 확장",
-      "bullets": [
-        "Dragoneer 주도 시리즈 G 라운드 완료",
-        "Thrive Capital 등 투자 참여",
-        "법인카드·비즈니스 소프트웨어 제공사로 시작해 영역 확장"
-      ]
-    },
-    {
-      "title": "Cerebras positions inference speed as a competitive edge in agentic AI",
-      "url": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
-      "source": "SiliconANGLE",
-      "date": "10/15",
-      "insight": "Cerebras, 추론 속도를 에이전틱 AI 경쟁력의 핵심으로 내세워",
-      "takeaway": "Cerebras, 추론 속도를 에이전틱 AI 경쟁력의 핵심으로 내세워",
-      "bullets": [
-        "에이전틱 워크플로우에서 속도가 핵심 경쟁 요소로 부상",
-        "Cerebras는 빠른 토큰 처리를 차별화 포인트로 강조",
-        "차세대 AI 플랫폼 주도권은 추론 속도에 달렸다는 시각"
+        "엔터프라이즈 맞춤형 AI 애플리케이션 개발에 특화"
       ]
     }
   ]
