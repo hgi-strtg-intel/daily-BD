@@ -1,17 +1,30 @@
 {
-  "updated": "2026-10-20 18:59",
+  "updated": "2026-10-21 19:03",
   "items": [
+    {
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+      "source": "TechCrunch",
+      "date": "10/20",
+      "insight": "뉴욕 VC가 4억5천만 달러 펀드로 실리콘밸리에 도전장",
+      "takeaway": "뉴욕 VC가 4억5천만 달러 펀드로 실리콘밸리에 도전장",
+      "bullets": [
+        "Inspired Capital, 4호 펀드 4억5천만 달러 클로징",
+        "뉴욕이 서부 벤처 자금 집중에 맞불",
+        "웨스트코스트로 VC 쏠림 심화 속 차별화 시도"
+      ]
+    },
     {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "source": "TechCrunch",
       "date": "10/19",
-      "insight": "Nvidia 대항마 Tenstorrent, 독립 유지하며 62억 달러 가치 인정",
-      "takeaway": "Nvidia 대항마 Tenstorrent, 독립 유지하며 62억 달러 가치 인정",
+      "insight": "Nvidia 대항마 Tenstorrent, 62억 달러 가치로 독립 노선 확정",
+      "takeaway": "Nvidia 대항마 Tenstorrent, 62억 달러 가치로 독립 노선 확정",
       "bullets": [
-        "15억 달러 투자 유치로 62억 달러 밸류에이션 달성",
-        "올해 초 인수 관심 받았으나 독립 노선 선택",
-        "오픈웨이트 AI 칩 확장 목표"
+        "오픈웨이트 AI 칩 스타트업, 15억 달러 투자 유치",
+        "올해 초 인수 제안 받았으나 독립 유지 선택",
+        "기업가치 62억 달러로 급상승"
       ]
     },
     {
@@ -19,90 +32,90 @@
       "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
       "source": "TechCrunch",
       "date": "10/19",
-      "insight": "출시 4개월 만에 유니콘 등극, AI 어시스턴트 시장 과열 신호",
-      "takeaway": "출시 4개월 만에 유니콘 등극, AI 어시스턴트 시장 과열 신호",
+      "insight": "출시 4개월 만에 유니콘 달성, AI 어시스턴트 투자 열기 반영",
+      "takeaway": "출시 4개월 만에 유니콘 달성, AI 어시스턴트 투자 열기 반영",
       "bullets": [
-        "Series B 1억 800만 달러 유치로 유니콘 지위 획득",
-        "Forerunner·Menlo Ventures 공동 주도",
-        "출시 4개월 만에 10억 달러 이상 평가"
+        "Town, 시리즈B 1억800만 달러 유치",
+        "Forerunner·Menlo Ventures 공동 리드",
+        "창업 4개월 만에 유니콘 가치 인정"
       ]
     },
     {
-      "title": "Dream Labs raises $90M to help build more intelligent robots with simple video feeds",
-      "url": "https://siliconangle.com/2026/10/19/dream-labs-raises-90m-to-help-build-more-intelligent-robots-with-simple-video-feeds/",
+      "title": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding",
+      "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "10/21",
+      "insight": "항공·에너지 그리드 AI 모델링 스타트업, 30억 달러 가치 등극",
+      "takeaway": "항공·에너지 그리드 AI 모델링 스타트업, 30억 달러 가치 등극",
+      "bullets": [
+        "ASI Inc., 시리즈C 3억2500만 달러 조달",
+        "기업가치 30억 달러로 평가",
+        "항공 교통·에너지 그리드 복잡 모델 구축"
+      ]
+    },
+    {
+      "title": "Arda Industries raises $232M to make production lines more adaptable",
+      "url": "https://siliconangle.com/2026/10/20/arda-industries-raises-232m-to-make-production-lines-more-adaptable/",
+      "source": "SiliconANGLE",
+      "date": "10/21",
+      "insight": "공장 생산라인 적응력 높이는 AI 스타트업, 2억3200만 달러로 출발",
+      "takeaway": "공장 생산라인 적응력 높이는 AI 스타트업, 2억3200만 달러로 출발",
+      "bullets": [
+        "Arda Industries, 2억3200만 달러로 공식 런칭",
+        "Accel·Altimeter·Founders Fund·Khosla 공동 리드",
+        "공장용 AI 소프트웨어로 생산라인 유연성 강화"
+      ]
+    },
+    {
+      "title": "Eka Robotics nets $150M at a $1.45B valuation for robot hands that sense force",
+      "url": "https://siliconangle.com/2026/10/20/eka-robotics-nets-150m-at-a-1-45b-valuation-for-robot-hands-that-sense-force/",
+      "source": "SiliconANGLE",
+      "date": "10/21",
+      "insight": "힘 감지 로봇 손 스타트업, 14억5천만 달러 가치로 주목",
+      "takeaway": "힘 감지 로봇 손 스타트업, 14억5천만 달러 가치로 주목",
+      "bullets": [
+        "Eka Robotics, 1억5천만 달러 신규 투자 유치",
+        "기업가치 14억5천만 달러(유니콘) 달성",
+        "로봇 조작기용 AI 모델로 촉각 감지 구현"
+      ]
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+      "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
       "source": "SiliconANGLE",
       "date": "10/20",
-      "insight": "영상 피드만으로 로봇 지능화, Dream Labs 9000만 달러 시드 유치",
-      "takeaway": "영상 피드만으로 로봇 지능화, Dream Labs 9000만 달러 시드 유치",
+      "insight": "OpenAI, 신약 개발 AI 에이전트 스타트업 인수로 헬스케어 진출",
+      "takeaway": "OpenAI, 신약 개발 AI 에이전트 스타트업 인수로 헬스케어 진출",
       "bullets": [
-        "시드 라운드에서 9000만 달러 조달",
-        "단순 비디오 피드로 로봇 지능 향상 기술",
-        "자금 조달과 함께 퍼블릭 앱 론칭 병행"
+        "OpenAI가 Orchestra Bio 인수 발표",
+        "Orchestra는 제약사 개발 프로세스 지원 AI 에이전트 개발",
+        "OpenAI의 헬스케어·신약 개발 분야 확장 신호"
       ]
     },
     {
-      "title": "AI work assistant startup Town secures unicorn status after raising $108M just weeks after launching",
-      "url": "https://siliconangle.com/2026/10/19/ai-work-assistant-startup-town-secures-unicorn-status-after-raising-108m-just-weeks-after-launching/",
+      "title": "Otter.ai raises $320M in funding for its AI meeting assistant",
+      "url": "https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/",
       "source": "SiliconANGLE",
       "date": "10/20",
-      "insight": "AI 에이전트 협업 플랫폼 Town, 1억 달러 조달로 유니콘 등극",
-      "takeaway": "AI 에이전트 협업 플랫폼 Town, 1억 달러 조달로 유니콘 등극",
+      "insight": "Otter.ai, 3억2천만 달러 유치로 AI 회의 어시스턴트 시장 공략",
+      "takeaway": "Otter.ai, 3억2천만 달러 유치로 AI 회의 어시스턴트 시장 공략",
       "bullets": [
-        "AI 에이전트 간 협업으로 업무 수행에 특화",
-        "1억 800만 달러 신규 펀딩으로 유니콘 지위",
-        "출시 수 주 만에 유니콘 달성"
+        "Otter.ai, 3억2천만 달러 자금 조달 완료",
+        "General Catalyst의 Customized Capital이 단독 출자",
+        "AI 회의 어시스턴트 수요 증가 속 대규모 투자 유치"
       ]
     },
     {
-      "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
-      "url": "https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/",
+      "title": "What to expect during monday.com’s Elevate event: Join theCUBE Oct. 29",
+      "url": "https://siliconangle.com/2026/10/20/enterprise-work-management-mondayelevate/",
       "source": "SiliconANGLE",
-      "date": "10/19",
-      "insight": "Nvidia·Dell 참여한 2억 달러 투자, doubleAI의 전략적 가치 부각",
-      "takeaway": "Nvidia·Dell 참여한 2억 달러 투자, doubleAI의 전략적 가치 부각",
+      "date": "10/20",
+      "insight": "monday.com, AI 에이전트 기반 업무 자동화로 플랫폼 진화 예고",
+      "takeaway": "monday.com, AI 에이전트 기반 업무 자동화로 플랫폼 진화 예고",
       "bullets": [
-        "Lightspeed·Bessemer 공동 주도 Series A 2억 달러",
-        "Nvidia·Dell이 전략적 투자자로 참여",
-        "AI 모델 개발사로서의 입지 확대"
-      ]
-    },
-    {
-      "title": "Chip legend Jim Keller’s Tenstorrent raises $1.5B to expand its open compute ecosystem",
-      "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/",
-      "source": "SiliconANGLE",
-      "date": "10/19",
-      "insight": "Jim Keller의 Tenstorrent, 15억 달러로 Nvidia 대체 생태계 구축 가속",
-      "takeaway": "Jim Keller의 Tenstorrent, 15억 달러로 Nvidia 대체 생태계 구축 가속",
-      "bullets": [
-        "15억 달러 조달로 오픈 컴퓨트 생태계 확장",
-        "Nvidia GPU 대안으로 자사 포지셔닝 강화",
-        "반도체 전설 짐 켈러가 이끄는 스타트업"
-      ]
-    },
-    {
-      "title": "Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels UK data center project",
-      "url": "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
-      "source": "SiliconANGLE",
-      "date": "10/19",
-      "insight": "MS의 UK 데이터센터 철수로 Nscale IPO 계획에 중대 차질",
-      "takeaway": "MS의 UK 데이터센터 철수로 Nscale IPO 계획에 중대 차질",
-      "bullets": [
-        "최대 고객 Microsoft가 영국 데이터센터 계약 철회",
-        "미국 IPO 추진 중인 네오클라우드 스타트업에 타격",
-        "단일 고객 의존 리스크가 현실화된 사례"
-      ]
-    },
-    {
-      "title": "RapidCanvas raises $29M to develop custom AI applications for enterprises",
-      "url": "https://siliconangle.com/2026/10/16/rapidcanvas-raises-29m-to-develop-custom-ai-applications-for-enterprises/",
-      "source": "SiliconANGLE",
-      "date": "10/16",
-      "insight": "RapidCanvas, 기업용 맞춤 AI 앱 개발로 2900만 달러 Series B 유치",
-      "takeaway": "RapidCanvas, 기업용 맞춤 AI 앱 개발로 2900만 달러 Series B 유치",
-      "bullets": [
-        "Vertex Ventures SEA·India 주도 Series B 2900만 달러",
-        "Hitachi Ventures 등 참여",
-        "엔터프라이즈 맞춤형 AI 애플리케이션 개발에 특화"
+        "monday.com Elevate 이벤트 10월 29일 예정",
+        "AI 에이전트가 직원 보조에서 업무 실행으로 진화",
+        "엔터프라이즈 업무 관리 플랫폼의 AI 전환 가속"
       ]
     }
   ]
