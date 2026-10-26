@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-10-22",
-  "updated": "2026-10-22 19:16",
-  "fx": "환율 2026-10-22 · 시장환율   1 USD = ₩1,321.88   |   1 USD = 18,045.00 IDR   |   1 IDR = ₩0.07325",
+  "asOf": "2026-10-26",
+  "updated": "2026-10-26 20:00",
+  "fx": "환율 2026-10-26 · 시장환율   1 USD = ₩1,324.71   |   1 USD = 18,115.00 IDR   |   1 IDR = ₩0.07313",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "오너 일가 지배구조 핵심 법인 KH그린, 차바이오텍 지분 전량 담보 설정",
-      "impact": "대주주 지분 담보 전량 설정은 지분구조 급변 가능성을 내포해 당사 지분가치 안정성에 직접 위협",
-      "level": "high",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWlJZXItd3UzTkNtNXloSlRQMm5Wb3U4QkExbDFhRkRaNFlob2c4WjRhUUlfaDljVEo2UWxZaHFHbWp1eXViRF9HX0xXbldiZzYtTDNPME9PY3A4Z25mbHVUOHcwYnZ5SDdUNzRUR3B4djRpOHFRb3FLc2hwNVppZQ?oc=5"
+      "text": "차바이오텍이 합병 의무 조항을 삭제한 이후 오너 일가 지분의 상장 가능성이 제기됨",
+      "impact": "오너 지분 상장 시 지분구조 변동으로 당사 보유 지분가치에 영향 가능",
+      "level": "mid",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5"
     },
     {
-      "company": "차바이오텍",
-      "text": "마티카바이오(CDMO), 1,500억 투자에도 연간 매출 39억 수준에 그침",
-      "impact": "당사 보유 지분의 핵심 사업가치 근거인 CDMO 부문 수익화 지연으로 지분가치 하방 압력",
+      "company": "차AI헬스케어",
+      "text": "차헬스케어 IPO를 앞두고 차케어스와의 합병 및 오너 일가 지분 현황이 검토됨",
+      "impact": "합병비율·IPO 밸류에이션에 따라 당사 보유 지분가치 재산정 가능성 존재",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DeUhRNVVKbXI2YzNBZ3ZyV3dVOFhQWmIxZTZMb1VYcmFEUENxU0dEMDFjS2Q5VE1oekZ5dkYzUnlla2EwbTBuSm53dmZNUHpYVXJ1Z2RXVUdjQUktVTlLemxyUDNsUGxKNGExNVhn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS29UbUtGMGptUVNYNjdsOWd2UWxla1VTT3VRbzJkc0lMUW1rbmZFQndZUVYxZmw3MjB3QnB2UEEzb2stZExKbW5XcG5ZS1hpOWxzWlIwWGRmYlRiUFMwdDR2Vm1DakNHaWd3WW5heGp3S2VTWTZiREZMWk5tbklWSQ?oc=5"
     }
   ],
   "companies": [
@@ -23,23 +23,23 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "A",
-      "event": "CDMO 매출 부진·지분 담보 구조 부각",
+      "g": "B",
+      "event": "오너 지분 구조 재편 논의",
       "tags": [
-        "-2.64%",
+        "-0.84%",
         "당사 투자"
       ],
-      "priceText": "₩7,370",
-      "openText": "₩7,590",
-      "highText": "₩7,630",
-      "lowText": "₩7,330",
-      "prevCloseText": "₩7,570",
-      "changeText": "-₩200",
+      "priceText": "₩7,100",
+      "openText": "₩7,070",
+      "highText": "₩7,190",
+      "lowText": "₩7,000",
+      "prevCloseText": "₩7,160",
+      "changeText": "-₩60",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,370",
+          "₩7,100",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-42.44%",
+          "-44.55%",
           null
         ],
         [
           "전일대비",
-          "-2.64%",
+          "-0.84%",
           null
         ],
         [
           "전주대비",
-          "-4.29%",
+          "-0.84%",
           null
         ],
         [
           "거래량(20일比)",
-          "16.05만 · 0.80x",
+          "15.01만 · 0.77x",
           null
         ],
         [
           "시가총액",
-          "6,852억",
+          "6,601억",
           null
         ],
         [
           "52주 고점대비",
-          "-69.23%",
+          "-70.35%",
           null
         ]
       ],
@@ -89,23 +89,15 @@
         }
       ],
       "events": [
-        "마티카바이오(CDMO) 1,500억 투자 대비 매출 39억 수준으로 사업가치 실현 지연 우려",
-        "지배구조 핵심 지분 전량 담보 설정은 오너 승계 리스크와 재무 압박이 동시 진행 중임을 시사"
+        "차케어스 합병·차헬스케어 IPO 시나리오는 오너 일가 승계 구도와 연동되어 지분구조 변동 가능성을 내포",
+        "합병 의무 조항 삭제 등 구조 변화는 소수주주·기존 투자자 권익에 영향을 줄 수 있어 모니터링 필요"
       ],
       "watch": [
-        "마티카바이오 수주잔고 매출 전환 시점",
-        "KH그린 담보 해소 및 지분구조 변동 여부",
-        "추가 자금조달(CB·유상증자) 공시 발생 여부"
+        "차케어스 합병 공식 공시 여부",
+        "차헬스케어 IPO 일정·조건 확정 여부",
+        "오너 지분율 변동에 따른 의결권 구조 변화"
       ],
       "spark": [
-        {
-          "date": "7/21",
-          "close": 8690.0
-        },
-        {
-          "date": "7/22",
-          "close": 8550.0
-        },
         {
           "date": "7/23",
           "close": 8960.0
@@ -349,36 +341,44 @@
         {
           "date": "10/22",
           "close": 7370.0
+        },
+        {
+          "date": "10/23",
+          "close": 7160.0
+        },
+        {
+          "date": "10/26",
+          "close": 7100.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/22 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016900828",
+      "exchangeLine": "KRX · 10/26 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16XzJ5UU9JblpiU2t1YkhzSHJIcG9HbXZoTUR6Q043TmVETTl6V1BJWHNUOEQ3UzZLaTY3Sm1BT29paTc2OWg2aTV1NWhtd1RSbnE5TTFKRVFycExm?oc=5",
       "sources": [
         {
-          "title": "[기재정정]타인에대한담보제공결정",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016900828",
-          "source": "DART",
-          "date": "20261016"
+          "title": "차바이오텍 주가 60원 하락 후 마감",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16XzJ5UU9JblpiU2t1YkhzSHJIcG9HbXZoTUR6Q043TmVETTl6V1BJWHNUOEQ3UzZLaTY3Sm1BT29paTc2OWg2aTV1NWhtd1RSbnE5TTFKRVFycExm?oc=5",
+          "source": "아시아뉴스통신",
+          "date": "10/26"
+        },
+        {
+          "title": "차바이오텍, 합병 의무 없앤 뒤 오너 지분도 상장시킬까",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5",
+          "source": "한국M&A경제신문",
+          "date": "10/26"
         },
         {
           "title": "차바이오텍 주가 하락 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hX2hyS00tTkhzWGVLMmdCb0M4R01lcTN6UUxqLXlkVDN6WERDdG1yck5OaWE5N0xhdVdWQkRMNDdOc3htdmRWdWZTdG5DSTFNY2h6NHMtZDJrWmQ2azVONFR2MWdyZGRYMmZ0SHp0QkV4RWdO?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WandqVU5FWW9EV25ZZFhIczZLYW4yQXh0b0ZCMTBZVGlxSldMM0lhUmJWRUdFUHEtWXY0MF95a3JRT0JHREVBdl85RjdXdnpPWFh2Y2VBMS1VOE5pSzVSbWxVSWhPS25jS1NUdUZ4cThFOE5K?oc=5",
           "source": "아시아뉴스통신",
-          "date": "10/22"
+          "date": "10/26"
         },
         {
-          "title": "1500억 투자한 마티카, 수주는 늘었는데 매출은 39억…왜?[차바이오 딥시크④]",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DeUhRNVVKbXI2YzNBZ3ZyV3dVOFhQWmIxZTZMb1VYcmFEUENxU0dEMDFjS2Q5VE1oekZ5dkYzUnlla2EwbTBuSm53dmZNUHpYVXJ1Z2RXVUdjQUktVTlLemxyUDNsUGxKNGExNVhn?oc=5",
-          "source": "팜이데일리",
-          "date": "10/21"
-        },
-        {
-          "title": "'차원태 승계 핵심축' KH그린, 왜 차바이오텍 지분 전량 담보 잡혔나[차바이오 딥시크②]",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWlJZXItd3UzTkNtNXloSlRQMm5Wb3U4QkExbDFhRkRaNFlob2c4WjRhUUlfaDljVEo2UWxZaHFHbWp1eXViRF9HX0xXbldiZzYtTDNPME9PY3A4Z25mbHVUOHcwYnZ5SDdUNzRUR3B4djRpOHFRb3FLc2hwNVppZQ?oc=5",
-          "source": "이데일리",
-          "date": "10/21"
+          "title": "차헬스케어·차케어스 합병, 오너 승계판 깔리나",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05RHItTlF0SWRQV2pGQ3YzUWgxRnQtMnQxbUgtdHBDVDJGRE9rai0tUW4yVzBhV3puZWNJOFRmOVNpSmZSRVNxWkcyNUxscGpSU2VTTQ?oc=5",
+          "source": "바이오북미디어",
+          "date": "10/26"
         }
       ],
       "archive30d": [
@@ -647,6 +647,13 @@
           "level": "mid",
           "date": "10/16",
           "collected_at": "2026-10-22"
+        },
+        {
+          "summary": "차바이오텍이 합병 의무 조항을 삭제한 이후 오너 일가 지분의 상장 가능성이 제기됨",
+          "impact": "오너 지분 상장 시 지분구조 변동으로 당사 보유 지분가치에 영향 가능",
+          "level": "mid",
+          "date": "10/26",
+          "collected_at": "2026-10-26"
         }
       ]
     },
@@ -654,23 +661,23 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "IPO 전 지분구조 변동 주시",
       "tags": [
-        "+0.92%",
+        "-1.84%",
         "당사 투자"
       ],
-      "priceText": "₩5,480",
-      "openText": "₩5,430",
-      "highText": "₩5,540",
-      "lowText": "₩5,400",
-      "prevCloseText": "₩5,430",
-      "changeText": "+₩50",
+      "priceText": "₩5,340",
+      "openText": "₩5,440",
+      "highText": "₩5,470",
+      "lowText": "₩4,995",
+      "prevCloseText": "₩5,440",
+      "changeText": "-₩100",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,480",
+          "₩5,340",
           null
         ],
         [
@@ -685,27 +692,27 @@
         ],
         [
           "전일대비",
-          "+0.92%",
+          "-1.84%",
           null
         ],
         [
           "전주대비",
-          "+3.20%",
+          "-1.84%",
           null
         ],
         [
           "거래량(20일比)",
-          "4.08천 · 0.37x",
+          "1.21만 · 1.14x",
           null
         ],
         [
           "시가총액",
-          "997억",
+          "972억",
           null
         ],
         [
           "52주 고점대비",
-          "-67.36%",
+          "-68.20%",
           null
         ]
       ],
@@ -720,22 +727,15 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "차케어스 합병 추진 시 당사 보유 지분의 희석 또는 가치 재산정 가능성 존재",
+        "IPO 전 오너 지분 재편이 상장 밸류에이션 산정 방식에 영향을 미칠 수 있어 사전 점검 필요"
       ],
       "watch": [
-        "분기 실적(매출·영업손익) 발표 시점",
-        "헬스케어 사업 신규 고객사·파트너십 공시",
-        "운영자금 관련 자금조달 동향"
+        "차케어스 합병 조건 및 합병비율 공시",
+        "IPO 추진 시 당사 지분 희석 여부",
+        "실적·수익성 개선 추이 확인"
       ],
       "spark": [
-        {
-          "date": "7/21",
-          "close": 4360.0
-        },
-        {
-          "date": "7/22",
-          "close": 4305.0
-        },
         {
           "date": "7/23",
           "close": 4445.0
@@ -979,13 +979,40 @@
         {
           "date": "10/22",
           "close": 5480.0
+        },
+        {
+          "date": "10/23",
+          "close": 5440.0
+        },
+        {
+          "date": "10/26",
+          "close": 5340.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/22 종가",
-      "sourceUrl": null,
-      "sources": [],
+      "exchangeLine": "KRX · 10/26 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5",
+      "sources": [
+        {
+          "title": "차바이오텍, 합병 의무 없앤 뒤 오너 지분도 상장시킬까",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5",
+          "source": "한국M&A경제신문",
+          "date": "10/26"
+        },
+        {
+          "title": "차헬스케어·차케어스 합병, 오너 승계판 깔리나",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05RHItTlF0SWRQV2pGQ3YzUWgxRnQtMnQxbUgtdHBDVDJGRE9rai0tUW4yVzBhV3puZWNJOFRmOVNpSmZSRVNxWkcyNUxscGpSU2VTTQ?oc=5",
+          "source": "바이오북미디어",
+          "date": "10/26"
+        },
+        {
+          "title": "차헬스케어 IPO 앞에 놓인 차케어스 합병…차광렬·차원태 지분은?[차바이오 딥시크③]",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS29UbUtGMGptUVNYNjdsOWd2UWxla1VTT3VRbzJkc0lMUW1rbmZFQndZUVYxZmw3MjB3QnB2UEEzb2stZExKbW5XcG5ZS1hpOWxzWlIwWGRmYlRiUFMwdDR2Vm1DakNHaWd3WW5heGp3S2VTWTZiREZMWk5tbklWSQ?oc=5",
+          "source": "이데일리",
+          "date": "10/25"
+        }
+      ],
       "archive30d": [
         {
           "summary": "차AI헬스케어 투자분석 2026. 10. 07",
@@ -1007,6 +1034,13 @@
           "level": "mid",
           "date": "10/14",
           "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "차헬스케어 IPO를 앞두고 차케어스와의 합병 및 오너 일가 지분 현황이 검토됨",
+          "impact": "합병비율·IPO 밸류에이션에 따라 당사 보유 지분가치 재산정 가능성 존재",
+          "level": "mid",
+          "date": "10/25",
+          "collected_at": "2026-10-26"
         }
       ]
     },
@@ -1017,21 +1051,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.26%",
+        "-1.08%",
         "벤치마크"
       ],
-      "priceText": "$45.28",
-      "openText": "$46.00",
-      "highText": "$47.00",
-      "lowText": "$44.91",
-      "prevCloseText": "$45.40",
-      "changeText": "-$0.12",
+      "priceText": "$44.92",
+      "openText": "$44.98",
+      "highText": "$45.98",
+      "lowText": "$44.14",
+      "prevCloseText": "$45.41",
+      "changeText": "-$0.49",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$45.28",
-          "₩59,855"
+          "$44.92",
+          "₩59,506"
         ],
         [
           "취득가",
@@ -1045,27 +1079,27 @@
         ],
         [
           "전일대비",
-          "-0.26%",
+          "-1.08%",
           null
         ],
         [
           "전주대비",
-          "+2.44%",
+          "+1.63%",
           null
         ],
         [
           "거래량(20일比)",
-          "94.46만 · 0.80x",
+          "78.53만 · 0.70x",
           null
         ],
         [
           "시가총액",
-          "$3.50B",
-          "4.63조"
+          "$3.48B",
+          "4.61조"
         ],
         [
           "52주 고점대비",
-          "-54.67%",
+          "-55.04%",
           null
         ]
       ],
@@ -1083,19 +1117,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 발표",
-        "EBITDA 흑자전환 시점 가이던스 변화",
-        "밸류에이션 급변 유발 이벤트(M&A·규제) 발생 여부"
+        "IFP 성장률 분기 추이 확인",
+        "Loss Ratio 구조적 개선 여부",
+        "EBITDA 흑자전환 시점 전망"
       ],
       "spark": [
-        {
-          "date": "7/24",
-          "close": 60.14
-        },
-        {
-          "date": "7/27",
-          "close": 61.99
-        },
         {
           "date": "7/28",
           "close": 62.11
@@ -1339,36 +1365,44 @@
         {
           "date": "10/21",
           "close": 45.28
+        },
+        {
+          "date": "10/22",
+          "close": 45.41
+        },
+        {
+          "date": "10/23",
+          "close": 44.92
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/21 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejU2cV9sTk5DMGFYQl9WWGZ1YURQdnYxN2xCYjZwSHNwSW1Xamt1TWNPSkhtWXJKVXdHaE5QY25WYnRTSXFxdkRPN2EyUExkMl9jZDU5dERGbEcwbzZBak1UWnB1WWFlRDVNcnYtMGo3QVNqMktRc3hnTnFOUFFkSDRuMWJ0dXZUbF9wYjlMZnRGTXRMckxTaG1JcEdrMHJtUW9razNFMV8wbVp2RG5ZTmU1ajdCeS1TcFU1anNaRHhNbDVDYXRKS0x5dw?oc=5",
+      "exchangeLine": "NYSE · 10/23 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMUxlenM2c3lONUxBVHpGSElQS0ItTXE2RlpHeU9yTndoZEpGQlVGVmc5NEEwT0k2MzZvdm9ra1o2bzJBRFppNW9XMlpWOEtUaXh5SkF0TkxwZXZyVmhYOVpHRVhnZw?oc=5",
       "sources": [
         {
-          "title": "Halter Ferguson Financial Inc. Sells 175,560 Shares of 루멘 $루멘",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejU2cV9sTk5DMGFYQl9WWGZ1YURQdnYxN2xCYjZwSHNwSW1Xamt1TWNPSkhtWXJKVXdHaE5QY25WYnRTSXFxdkRPN2EyUExkMl9jZDU5dERGbEcwbzZBak1UWnB1WWFlRDVNcnYtMGo3QVNqMktRc3hnTnFOUFFkSDRuMWJ0dXZUbF9wYjlMZnRGTXRMckxTaG1JcEdrMHJtUW9razNFMV8wbVp2RG5ZTmU1ajdCeS1TcFU1anNaRHhNbDVDYXRKS0x5dw?oc=5",
-          "source": "MarketBeat",
-          "date": "10/22"
+          "title": "루멘261023C00053000 interactive stock chart | 루멘 Oct 2026 53.000 call stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMUxlenM2c3lONUxBVHpGSElQS0ItTXE2RlpHeU9yTndoZEpGQlVGVmc5NEEwT0k2MzZvdm9ra1o2bzJBRFppNW9XMlpWOEtUaXh5SkF0TkxwZXZyVmhYOVpHRVhnZw?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "10/26"
         },
         {
-          "title": "루멘 Nov 2026 49.000 call (루멘261106C00049000) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13WmdtR1F5ZGhpUElEeENyc19oOEZMWjI1ZlgxajZtMzhTWXIzTkxscktrMGdQMFBXeUZrYkQxS0ZnWHUwRHI4cFR4d0pqcU0waUdwaTFPZ2VkRm8yZWRnX0JvZHloZw?oc=5",
+          "title": "루멘 Nov 2026 43.000 put (루멘261113P00043000) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wd2s2enBhNXE1VzJGUDBtWFlPWHdPX1lENXk0cDl4cVNjTl9mYV9XeHFILVRLMm1MTngzeDZaLVZJcXhmX0s0eG11UGN2dzVjSElHTU9WVHZnTVVma2tmRC1KLVlQUQ?oc=5",
           "source": "Yahoo! Finance Canada",
-          "date": "10/22"
+          "date": "10/25"
         },
         {
-          "title": "루멘261023P00044500 interactive stock chart | 루멘 Oct 2026 44.500 put stock",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaNW9ZdWZ5dDVPTHdnNmZaS3ZlSnNsU2gtRWxlZzVGME4tZHBUd2N6MEdiY21qWXZ1TDZxN0U4RnRyR2JITnVGN2MtQ2V1TkZGY0t2SEZWV0ZQTGg0dUlCcm13elo?oc=5",
-          "source": "Yahoo Finance UK",
-          "date": "10/22"
+          "title": "루멘261023C00054000 interactive stock chart | 루멘 Oct 2026 54.000 call stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1REw2M1ExRU1yQWNjMHFhYWsxUklBX0FGb29vYWdfd0FFbFUwWWFWd0JvU1ZCWC1HRHRyaFpVZHloeldSbGdRdlBoaXR4eFFpejB3bThRcnN5akRFVFY1czlUR0c?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "10/25"
         },
         {
-          "title": "루멘 Oct 2026 40.500 put (루멘261023P00040500) Interactive Stock Chart - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mX1lLeElZTFRlSnlkLTE5OHhsU1FwakdYb1VHZGxUMXBXblB5d1F5YWNXZ0ZEbUdqUWtyU2JmWm95T2F5c19JQjdfcjZtcE1VMDNDQmlnUWRySmJzaFkwNGwwUlR6NTU3WE1ZOWdn?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/21"
+          "title": "루멘 Nov 2026 44.000 put (루멘261106P00044000) interactive stock chart – Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2RndKMW9kWWo4YXZ5TzJoQWlqRUJmWEhGLW9tUDZhUXJRc0Nyc3ltVlJIMjctNU5DUEw1eUpodm9uWlk2YlVLYXVtdS1Od0N0TWhHM0hTcm9WRWRrbE9ZbVJjMGFpY285cmp5REhB?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "10/25"
         }
       ],
       "archive30d": [
@@ -1650,18 +1684,18 @@
         "+0.00%",
         "자회사"
       ],
-      "priceText": "Rp620",
+      "priceText": "Rp600",
       "openText": "Rp620",
-      "highText": "Rp695",
-      "lowText": "Rp585",
-      "prevCloseText": "Rp620",
+      "highText": "Rp625",
+      "lowText": "Rp590",
+      "prevCloseText": "Rp600",
       "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp620",
-          "₩45.4"
+          "Rp600",
+          "₩43.9"
         ],
         [
           "취득가",
@@ -1670,7 +1704,7 @@
         ],
         [
           "취득가대비",
-          "-5.17%",
+          "-8.23%",
           null
         ],
         [
@@ -1680,22 +1714,22 @@
         ],
         [
           "전주대비",
-          "-1.59%",
+          "+0.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "22.50만 · 7.61x",
+          "1.33만 · 0.32x",
           null
         ],
         [
           "시가총액",
-          "Rp1.9조",
-          "1,363억"
+          "Rp1.8조",
+          "1,316억"
         ],
         [
           "52주 고점대비",
-          "-34.47%",
+          "-36.58%",
           null
         ]
       ],
@@ -1713,19 +1747,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향",
-        "분기 RBC 비율 변동 여부",
-        "당사 연결 편입 후 GWP·CR 지표 추이"
+        "OJK 규제 변화 모니터링",
+        "RBC 비율 적정성 유지 여부",
+        "PIKK 개정 관련 영향 점검"
       ],
       "spark": [
-        {
-          "date": "7/24",
-          "close": 635.0
-        },
-        {
-          "date": "7/27",
-          "close": 640.0
-        },
         {
           "date": "7/28",
           "close": 635.0
@@ -1969,11 +1995,19 @@
         {
           "date": "10/22",
           "close": 620.0
+        },
+        {
+          "date": "10/23",
+          "close": 600.0
+        },
+        {
+          "date": "10/26",
+          "close": 600.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/22 종가 (WIB)",
+      "exchangeLine": "IDX · 10/26 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -3722,6 +3756,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-22 19:17"
+    "updated": "2026-10-26 20:04"
   }
 }

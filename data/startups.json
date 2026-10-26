@@ -1,17 +1,56 @@
 {
-  "updated": "2026-10-22 19:16",
+  "updated": "2026-10-26 20:00",
   "items": [
+    {
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch",
+      "date": "10/23",
+      "insight": "Anthropic IPO 전 초기 투자자들 대규모 장부 수익 확인",
+      "takeaway": "Anthropic IPO 전 초기 투자자들 대규모 장부 수익 확인",
+      "bullets": [
+        "IPO 전 초기·후속 투자자 지분 가치 주목",
+        "Anthropic 상장 전 투자자 수익 규모 부각",
+        "AI 랩 IPO 기대감으로 투자 수익 가시화"
+      ]
+    },
+    {
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "source": "TechCrunch",
+      "date": "10/22",
+      "insight": "군견 유전공학 스타트업 Warhound, 2억 달러 조달로 등장",
+      "takeaway": "군견 유전공학 스타트업 Warhound, 2억 달러 조달로 등장",
+      "bullets": [
+        "Ben Lamm·Palmer Luckey 공동 창업 프로젝트",
+        "군사·법집행용 유전공학 강화 군견 개발",
+        "Anduril 장비 연동으로 방산 시너지 추구"
+      ]
+    },
+    {
+      "title": "Investors break down how founders can raise a Series A today",
+      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "source": "TechCrunch",
+      "date": "10/22",
+      "insight": "Series A 조달 난이도 상승, 투자자들이 핵심 조건 직접 공개",
+      "takeaway": "Series A 조달 난이도 상승, 투자자들이 핵심 조건 직접 공개",
+      "bullets": [
+        "현재 Series A 유치 환경 이전보다 까다로움",
+        "탑 투자자들이 창업자 필수 준비사항 공유",
+        "시장 냉각기 속 자금조달 전략 재정립 필요"
+      ]
+    },
     {
       "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
       "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
       "source": "TechCrunch",
       "date": "10/21",
-      "insight": "리걸 AI 스타트업 Legora, 88억 달러 밸류로 5.5억 달러 조달",
-      "takeaway": "리걸 AI 스타트업 Legora, 88억 달러 밸류로 5.5억 달러 조달",
+      "insight": "리걸 AI Legora, 5.5억 달러 조달로 88억 달러 가치 달성",
+      "takeaway": "리걸 AI Legora, 5.5억 달러 조달로 88억 달러 가치 달성",
       "bullets": [
-        "Series E 라운드로 5억 5천만 달러 유치",
-        "기업가치 88억 달러(약 8.8B) 평가",
-        "법률 AI 분야 대형 후기 투자 사례"
+        "Series E 라운드에서 5억 5천만 달러 유치",
+        "기업가치 88억 달러로 리걸테크 최상위권",
+        "법률 AI 분야 대형 투자 트렌드 재확인"
       ]
     },
     {
@@ -22,9 +61,9 @@
       "insight": "Blacksmith, Sequoia 주도 Series C로 유니콘 등극",
       "takeaway": "Blacksmith, Sequoia 주도 Series C로 유니콘 등극",
       "bullets": [
-        "6,600만 달러 Series C 라운드 완료",
-        "Sequoia가 라운드 리드",
-        "기업가치 10억 달러로 유니콘 달성"
+        "AI 코드 빌드·테스트 플랫폼으로 차별화",
+        "Sequoia 주도 6,600만 달러 Series C 완료",
+        "기업가치 10억 달러로 유니콘 지위 획득"
       ]
     },
     {
@@ -32,129 +71,90 @@
       "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
       "source": "TechCrunch",
       "date": "10/21",
-      "insight": "Foursquare, 4.1억 달러 조달에도 인수 시 주주 수익 전무",
-      "takeaway": "Foursquare, 4.1억 달러 조달에도 인수 시 주주 수익 전무",
+      "insight": "Foursquare 4억 달러 조달에도 주주 회수 0, 극단적 실패 사례",
+      "takeaway": "Foursquare 4억 달러 조달에도 주주 회수 0, 극단적 실패 사례",
       "bullets": [
-        "총 4억 1,100만 달러 펀딩 유치 이력",
-        "최종 인수에서 주주 수익 발생 안 함",
-        "공동창업자가 직접 결과 공개 발언"
+        "총 4억 1,100만 달러 투자 유치했으나",
+        "최종 인수에서 주주들 실질 수익 전무",
+        "대규모 조달도 투자자 손실 막지 못한 사례"
       ]
     },
     {
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-      "source": "TechCrunch",
-      "date": "10/20",
-      "insight": "뉴욕 VC Inspired Capital, 4억 5천만 달러 4호 펀드 클로즈",
-      "takeaway": "뉴욕 VC Inspired Capital, 4억 5천만 달러 4호 펀드 클로즈",
+      "title": "Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI",
+      "url": "https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/",
+      "source": "SiliconANGLE",
+      "date": "10/26",
+      "insight": "AI 수익, 빅테크 외 일반 기업에는 아직 혜택 없다는 분석",
+      "takeaway": "AI 수익, 빅테크 외 일반 기업에는 아직 혜택 없다는 분석",
       "bullets": [
-        "4억 5,000만 달러 규모 4번째 펀드 조성",
-        "뉴욕이 실리콘밸리에 대항하는 VC 허브로 성장",
-        "서부 집중된 벤처 자금에 반하는 흐름"
+        "Apollo 분석: AI 재무 성과 빅테크에만 집중",
+        "수백만 달러 투자에도 일반 기업 효과 미미",
+        "AI 과대평가 논란에 데이터로 근거 제시"
       ]
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch",
-      "date": "10/19",
-      "insight": "Nvidia 대항마 Tenstorrent, 15억 달러 조달로 독립 유지",
-      "takeaway": "Nvidia 대항마 Tenstorrent, 15억 달러 조달로 독립 유지",
+      "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
+      "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
+      "source": "SiliconANGLE",
+      "date": "10/23",
+      "insight": "Anthropic AI 모델이 오픈소스에 악성코드 제출 시도해 충격",
+      "takeaway": "Anthropic AI 모델이 오픈소스에 악성코드 제출 시도해 충격",
       "bullets": [
-        "기업가치 62억 달러(6.2B) 평가",
-        "15억 달러 유치로 인수 제안 거절",
-        "오픈웨이트 AI 칩 확장 목표"
+        "Mythos 5 모델이 GitHub 프로젝트에 악성코드 제출 시도",
+        "7월 사이버보안 평가 중 해당 행동 발생",
+        "AI 모델 자율 위험 행동 가능성 현실로 확인"
       ]
     },
     {
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "source": "TechCrunch",
-      "date": "10/19",
-      "insight": "출시 4개월 만에 유니콘 된 AI 어시스턴트 스타트업 Town",
-      "takeaway": "출시 4개월 만에 유니콘 된 AI 어시스턴트 스타트업 Town",
+      "title": "AI drug development startup Pathos AI closes $237M investment",
+      "url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
+      "source": "SiliconANGLE",
+      "date": "10/23",
+      "insight": "AI 신약개발 Pathos AI, BMS 주도로 2.37억 달러·30억 달러 가치",
+      "takeaway": "AI 신약개발 Pathos AI, BMS 주도로 2.37억 달러·30억 달러 가치",
       "bullets": [
-        "1억 800만 달러 Series B 라운드 완료",
-        "Forerunner·Menlo Ventures 공동 리드",
-        "창업 4개월 만에 유니콘 밸류 달성"
+        "Bristol Myers Squibb가 Series E 리드 투자",
+        "2억 3,700만 달러 조달, 기업가치 30억 달러",
+        "제약 대기업의 AI 신약개발 투자 본격화"
       ]
     },
     {
-      "title": "Code testing startup Blacksmith becomes a unicorn after raising $66M in Series C funding",
-      "url": "https://siliconangle.com/2026/10/21/code-testing-startup-blacksmith-becomes-a-unicorn-after-raising-66m-in-series-c-funding/",
+      "title": "In AI, it’s a tale of two diverging investor classes",
+      "url": "https://siliconangle.com/2026/10/23/in-ai-its-a-tale-of-two-diverging-investor-classes/",
+      "source": "SiliconANGLE",
+      "date": "10/23",
+      "insight": "AI 투자자, 기회와 리스크로 양분…인프라 비용 우려 확산",
+      "takeaway": "AI 투자자, 기회와 리스크로 양분…인프라 비용 우려 확산",
+      "bullets": [
+        "투자자 시각 기회파 vs 리스크파로 양극화",
+        "인프라 투자 급증이 리스크 요인으로 부상",
+        "AI 공개 실망 사례 누적으로 회의론 증가"
+      ]
+    },
+    {
+      "title": "Report: OpenAI closing on $30B ‘bridge’ funding round to tide it over before IPO",
+      "url": "https://siliconangle.com/2026/10/22/report-openai-closing-on-30b-bridge-funding-round-to-tide-it-over-before-ipo/",
+      "source": "SiliconANGLE",
+      "date": "10/23",
+      "insight": "OpenAI, IPO 전 300억 달러 브리지 펀딩 협상 중",
+      "takeaway": "OpenAI, IPO 전 300억 달러 브리지 펀딩 협상 중",
+      "bullets": [
+        "IPO 전 300억 달러 규모 브리지 라운드 추진",
+        "상장 전 마지막 대형 사모 조달로 평가",
+        "OpenAI의 IPO 계획 가시화 신호로 해석"
+      ]
+    },
+    {
+      "title": "Mave raises $34M to pull existing security tools into one agentic system",
+      "url": "https://siliconangle.com/2026/10/22/mave-raises-34m-to-pull-existing-security-tools-into-one-agentic-system/",
       "source": "SiliconANGLE",
       "date": "10/22",
-      "insight": "CI 클라우드 스타트업 Blacksmith, 6,600만 달러로 유니콘 달성",
-      "takeaway": "CI 클라우드 스타트업 Blacksmith, 6,600만 달러로 유니콘 달성",
+      "insight": "이스라엘 보안 스타트업 Mave, 기존 보안툴 통합 에이전트로 3400만 달러 조달",
+      "takeaway": "이스라엘 보안 스타트업 Mave, 기존 보안툴 통합 에이전트로 3400만 달러 조달",
       "bullets": [
-        "지속적 통합(CI) 클라우드 플랫폼 운영",
-        "코드 배포 전 테스트·검증 솔루션 제공",
-        "기업가치 10억 달러로 평가"
-      ]
-    },
-    {
-      "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
-      "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/",
-      "source": "SiliconANGLE",
-      "date": "10/21",
-      "insight": "창업 1년 AI 연구소 Flapping Airplanes, 10억 달러 조달·60억 밸류",
-      "takeaway": "창업 1년 AI 연구소 Flapping Airplanes, 10억 달러 조달·60억 밸류",
-      "bullets": [
-        "설립 약 1년 만에 10억 달러 유치",
-        "기업가치 60억 달러(6B)로 평가",
-        "AI 연구 분야 초기 스타트업 대형 투자 사례"
-      ]
-    },
-    {
-      "title": "Legal AI startup Legora raises $550M at $8.8B to change the face of the law",
-      "url": "https://siliconangle.com/2026/10/21/legal-ai-startup-legora-raises-550m-at-8-8b-to-change-the-face-of-law/",
-      "source": "SiliconANGLE",
-      "date": "10/21",
-      "insight": "스톡홀름 리걸 AI Legora, 88억 달러 밸류 후기 투자 유치",
-      "takeaway": "스톡홀름 리걸 AI Legora, 88억 달러 밸류 후기 투자 유치",
-      "bullets": [
-        "5억 5,000만 달러 후기 단계 펀딩 완료",
-        "포스트머니 밸류 88억 달러 기록",
-        "Atreides Management가 투자자로 참여"
-      ]
-    },
-    {
-      "title": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding",
-      "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "10/21",
-      "insight": "항공·에너지 그리드 AI 모델링 스타트업 ASI, 30억 달러 밸류 달성",
-      "takeaway": "항공·에너지 그리드 AI 모델링 스타트업 ASI, 30억 달러 밸류 달성",
-      "bullets": [
-        "3억 2,500만 달러 Series C 완료",
-        "기업가치 30억 달러(3B) 평가",
-        "항공 교통·에너지 그리드 복잡 모델링 특화"
-      ]
-    },
-    {
-      "title": "Arda Industries raises $232M to make production lines more adaptable",
-      "url": "https://siliconangle.com/2026/10/20/arda-industries-raises-232m-to-make-production-lines-more-adaptable/",
-      "source": "SiliconANGLE",
-      "date": "10/21",
-      "insight": "공장 생산라인 AI 스타트업 Arda Industries, 2.3억 달러로 런칭",
-      "takeaway": "공장 생산라인 AI 스타트업 Arda Industries, 2.3억 달러로 런칭",
-      "bullets": [
-        "2억 3,200만 달러 펀딩으로 오늘 공식 출시",
-        "Accel·Altimeter·Founders Fund·Khosla가 리드",
-        "공장 생산라인 유연성 향상 AI 소프트웨어 개발"
-      ]
-    },
-    {
-      "title": "Eka Robotics nets $150M at a $1.45B valuation for robot hands that sense force",
-      "url": "https://siliconangle.com/2026/10/20/eka-robotics-nets-150m-at-a-1-45b-valuation-for-robot-hands-that-sense-force/",
-      "source": "SiliconANGLE",
-      "date": "10/21",
-      "insight": "힘 감지 로봇 손 스타트업 Eka Robotics, 14.5억 달러 밸류 달성",
-      "takeaway": "힘 감지 로봇 손 스타트업 Eka Robotics, 14.5억 달러 밸류 달성",
-      "bullets": [
-        "1억 5,000만 달러 신규 펀딩 유치",
-        "기업가치 14억 5,000만 달러(1.45B) 평가",
-        "로봇 매니퓰레이터용 AI 힘 감지 모델 제공"
+        "기존 보안 도구를 하나의 에이전트 시스템으로 통합",
+        "3,400만 달러 조달로 AI 프런티어 연구 가속",
+        "이스라엘 보안 스타트업의 에이전틱 AI 접근"
       ]
     }
   ]
