@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-19 10:01",
+  "updated": "2026-10-26 10:05",
   "articles": [
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Author Talks: AI is advancing. Is our judgment keeping up?",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI 신뢰의 핵심은 '언제·얼마나' 믿을지 판단하는 인간 역량이다.",
+      "bullets": [
+        "AI 활용 실패의 주원인은 기술 결함보다 과신·과소신뢰",
+        "의사결정 품질 유지엔 AI 검증 훈련이 필수",
+        "보험 언더라이팅·손해사정 등 고위험 판단 영역에 직접 적용 가능"
+      ],
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
+      "date": "10/23",
+      "collected_at": "2026-10-26"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "The State of Grocery Retail Europe: Implications for packaging players",
+      "category": "글로벌 동향",
+      "takeaway": "유럽 식품유통 성장 둔화로 포장재 업계 원가경쟁력이 생존 조건이 됨.",
+      "bullets": [
+        "유럽 그로서리 리테일 마진 압박이 공급망 전반으로 전이",
+        "포장재 플레이어는 비용 우위 없이 신규 계약 확보 어려움",
+        "보험업 직접 연관성 낮으나 제조업 손보 시장 리스크 참고 가능"
+      ],
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
+      "date": "10/22",
+      "collected_at": "2026-10-26"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Survey: Most Software Buyers Use AI to Find Vendors",
+      "category": "인슈어테크·AI",
+      "takeaway": "B2B 구매자가 AI로 벤더를 선별하므로 AI 검색 노출이 영업 핵심 변수로 부상.",
+      "bullets": [
+        "소프트웨어 구매자 다수가 AI 추천 초기 목록으로 후보 압축",
+        "AI 목록 미포함 시 영업 깔때기(sales funnel) 진입 자체가 차단",
+        "보험사 IT·솔루션 조달 전략도 AI 검색 최적화 고려 필요"
+      ],
+      "url": "https://www.bain.com/insights/survey-most-software-buyers-use-ai-to-find-vendors-snap-chart/",
+      "date": "10/23",
+      "collected_at": "2026-10-26"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Global Auto Consumer Survey: Regional Trends in a Changing World",
+      "category": "글로벌 동향",
+      "takeaway": "자동차 소비자 우선순위가 지역·연령·세그먼트별로 극명히 갈려 단일 전략은 무효.",
+      "bullets": [
+        "EV 수용도·가격 민감도가 지역마다 상이해 시장별 접근 필수",
+        "연령대별 모빌리티 선호 차이가 자동차보험 리스크 구조에 영향",
+        "중고차·구독형 모델 확산은 차량가액 산정 기준 재검토 시사"
+      ],
+      "url": "https://www.bain.com/insights/global-auto-consumer-survey-regional-trends-in-a-changing-world/",
+      "date": "10/21",
+      "collected_at": "2026-10-26"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "소비자를 대리하는 AI 에이전트 확산과 과제",
+      "category": "인슈어테크·AI",
+      "takeaway": "소비자 대리 AI 에이전트 확산은 보험 모집·계약 프로세스 전반을 재편할 변수.",
+      "bullets": [
+        "AI 에이전트가 소비자 대신 상품 비교·계약 체결까지 수행 가능",
+        "대리인 적격성·책임 귀속 등 규제 공백 문제 부각",
+        "보험사 고객접점(채널) 전략과 완전판매 책임 기준 재설계 필요"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=891439",
+      "date": "",
+      "collected_at": "2026-10-26"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "자기부담금과 할인할증률에 따른 자기차량손해 수리 현황",
+      "category": "자동차보험·손해",
+      "takeaway": "자기부담금·할인할증률 구조가 자차 수리 청구 행태에 실질적 영향을 미침.",
+      "bullets": [
+        "자기부담금 수준에 따라 소액 수리 청구 여부가 달라짐",
+        "할인할증(우량·불량 할인) 구조가 보험금 청구 억제 효과로 연결",
+        "적정 자기부담금 설계로 손해율 관리 및 도덕적 해이 억제 가능"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=890539",
+      "date": "",
+      "collected_at": "2026-10-26"
+    },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
