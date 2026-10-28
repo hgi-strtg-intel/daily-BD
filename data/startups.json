@@ -1,43 +1,108 @@
 {
-  "updated": "2026-10-27 19:27",
+  "updated": "2026-10-28 20:16",
   "items": [
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "date": "10/28",
+      "insight": "Amazon, Anthropic IPO에서 VC보다 훨씬 큰 수익 예상",
+      "takeaway": "Amazon, Anthropic IPO에서 VC보다 훨씬 큰 수익 예상",
+      "bullets": [
+        "Amazon의 Anthropic 지분이 노트 전환으로 대폭 확대",
+        "IPO 시 VC 수익을 압도하는 Amazon의 소유 구조 공개",
+        "Anthropic IPO 전 지분 구조의 실체가 드러남"
+      ]
+    },
+    {
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "source": "TechCrunch",
+      "date": "10/27",
+      "insight": "10월 SEC 공시에서 다수 VC들의 신규 대형 펀드 결성 포착",
+      "takeaway": "10월 SEC 공시에서 다수 VC들의 신규 대형 펀드 결성 포착",
+      "bullets": [
+        "8VC, Benchmark 등 주요 VC가 신규 펀드 조성 중",
+        "10월 SEC 파일링에서 복수 VC 활동 동시 포착",
+        "벤처 업계 자금 조달 활발한 흐름 확인"
+      ]
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "date": "10/27",
+      "insight": "Disruptive, 100억 달러 초대형 펀드로 집중 베팅 전략 구사",
+      "takeaway": "Disruptive, 100억 달러 초대형 펀드로 집중 베팅 전략 구사",
+      "bullets": [
+        "Disruptive가 100억 달러 규모 신규 펀드 조성",
+        "최소 10개 기업에 대규모 집중 투자 계획",
+        "Groq, ElevenLabs 등 AI 기업 투자 이력 보유"
+      ]
+    },
     {
       "title": "What some of Anthropic’s backers are worth before its IPO",
       "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
       "source": "TechCrunch",
       "date": "10/23",
-      "insight": "Anthropic IPO 전 초기 투자자들 대규모 장부 수익 예고",
-      "takeaway": "Anthropic IPO 전 초기 투자자들 대규모 장부 수익 예고",
+      "insight": "Anthropic 초기 투자자들, IPO 전 이미 대규모 평가차익 실현 중",
+      "takeaway": "Anthropic 초기 투자자들, IPO 전 이미 대규모 평가차익 실현 중",
       "bullets": [
-        "Anthropic IPO 앞두고 투자자 수익 주목",
-        "초기·후속 투자자 모두 대형 페이퍼 리턴",
-        "AI 랩 상장 기대감 고조"
+        "Anthropic 초기·후속 투자자들의 지분 가치 상승",
+        "IPO 이전 단계에서 페이퍼 리턴 이미 상당한 수준",
+        "AI 랩 투자 수익성에 대한 시장 관심 고조"
       ]
     },
     {
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "source": "TechCrunch",
-      "date": "10/22",
-      "insight": "유전공학 군견 개발사 Warhound, 2억 달러 조달로 스텔스 해제",
-      "takeaway": "유전공학 군견 개발사 Warhound, 2억 달러 조달로 스텔스 해제",
+      "title": "Inference cloud startup General Compute reels in $100M, despite broader AI funding fears",
+      "url": "https://siliconangle.com/2026/10/28/inference-cloud-startup-general-compute-reels-in-100m-despite-broader-ai-funding-fears/",
+      "source": "SiliconANGLE",
+      "date": "10/28",
+      "insight": "AI 인프라 위기론 속에도 신규 클라우드 스타트업 1억 달러 유치",
+      "takeaway": "AI 인프라 위기론 속에도 신규 클라우드 스타트업 1억 달러 유치",
       "bullets": [
-        "Ben Lamm·Palmer Luckey 공동 창업",
-        "군·법 집행용 유전공학 개 개발 목표",
-        "Anduril 장비 탑재 군견 프로젝트 추진"
+        "General Compute가 1억 달러 투자 유치 성공",
+        "Gartner·머스크의 네오클라우드 위기 예고에도 불구",
+        "AI 추론 클라우드 수요는 여전히 투자자 관심 유지"
       ]
     },
     {
-      "title": "Investors break down how founders can raise a Series A today",
-      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-      "source": "TechCrunch",
-      "date": "10/22",
-      "insight": "Series A 투자 유치 기준이 높아진 현실, 핵심 조건 총정리",
-      "takeaway": "Series A 투자 유치 기준이 높아진 현실, 핵심 조건 총정리",
+      "title": "Nvidia, AMD to buy $4B in Meta shares as part of expanded chip partnerships",
+      "url": "https://siliconangle.com/2026/10/27/nvidia-amd-to-buy-4b-in-meta-shares-as-part-of-expanded-chip-partnerships/",
+      "source": "SiliconANGLE",
+      "date": "10/27",
+      "insight": "Nvidia·AMD, Meta 주식 40억 달러 매입으로 칩 파트너십 강화",
+      "takeaway": "Nvidia·AMD, Meta 주식 40억 달러 매입으로 칩 파트너십 강화",
       "bullets": [
-        "현재 Series A 유치 환경 쉽지 않음",
-        "주요 투자자들이 창업자에게 조언 제공",
-        "투자자 기대치와 전략 변화 반영"
+        "Nvidia·AMD가 Meta 주식 40억 달러 규모 매입 합의",
+        "최대 950억 달러 규모 확대 칩 파트너십의 일환",
+        "빅테크-반도체 기업 간 전략적 지분 교환 사례"
+      ]
+    },
+    {
+      "title": "Hyphenate bags $45M in funding to accelerate autonomous financial operations",
+      "url": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/",
+      "source": "SiliconANGLE",
+      "date": "10/27",
+      "insight": "AI 환각 극복 솔루션으로 금융 자동화 스타트업 4500만 달러 조달",
+      "takeaway": "AI 환각 극복 솔루션으로 금융 자동화 스타트업 4500만 달러 조달",
+      "bullets": [
+        "Hyphenate가 4500만 달러 펀딩 유치",
+        "AI 환각 우려를 해소해 금융 운영 완전 자동화 지원",
+        "기업의 AI 신뢰도 제고가 핵심 차별화 포인트"
+      ]
+    },
+    {
+      "title": "Edge Sound raises $2M to help physical AI make sense of audio",
+      "url": "https://siliconangle.com/2026/10/27/edge-sound-raises-2m-to-help-physical-ai-make-sense-of-audio/",
+      "source": "SiliconANGLE",
+      "date": "10/27",
+      "insight": "피지컬 AI용 오디오 인프라 스타트업, 200만 달러 시드 유치",
+      "takeaway": "피지컬 AI용 오디오 인프라 스타트업, 200만 달러 시드 유치",
+      "bullets": [
+        "Edge Sound Research가 200만 달러 신규 자금 조달",
+        "유용한 소리 분리 후 다른 센서 데이터와 결합 기술",
+        "피지컬 AI의 오디오 인식 인프라 구축이 목표"
       ]
     },
     {
@@ -45,12 +110,12 @@
       "url": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
       "source": "SiliconANGLE",
       "date": "10/27",
-      "insight": "MS, AI 투자 확대 속 전체 인력 25%에 희망퇴직 제안",
-      "takeaway": "MS, AI 투자 확대 속 전체 인력 25%에 희망퇴직 제안",
+      "insight": "Microsoft, AI 투자 확대 속 전체 직원 25%에 자발적 퇴직 제안",
+      "takeaway": "Microsoft, AI 투자 확대 속 전체 직원 25%에 자발적 퇴직 제안",
       "bullets": [
-        "약 6만 명 대상 자발적 희망퇴직 제시",
-        "미국·캐나다·인도·영국 직원 포함",
-        "AI 투자 확대와 동시에 인력 구조 조정"
+        "Microsoft가 약 6만 명에게 자발적 퇴직 패키지 제공",
+        "대상은 미국·캐나다·인도·영국 소재 직원",
+        "AI 투자 재원 마련 위한 인력 구조 조정 신호"
       ]
     },
     {
@@ -61,61 +126,9 @@
       "insight": "Intel, 이스라엘 양자 소프트웨어 기업 Classiq 22억 달러에 인수",
       "takeaway": "Intel, 이스라엘 양자 소프트웨어 기업 Classiq 22억 달러에 인수",
       "bullets": [
-        "인수 금액 22억 달러 규모 대형 딜",
-        "Classiq은 이스라엘 양자 소프트웨어 스타트업",
-        "Intel의 양자컴퓨팅 역량 강화 목적"
-      ]
-    },
-    {
-      "title": "Autonomous excavator startup Bedrock Robotics picks up $600M in funding",
-      "url": "https://siliconangle.com/2026/10/26/autonomous-excavator-startup-bedrock-robotics-picks-up-600m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "10/26",
-      "insight": "자율 굴착기 스타트업 Bedrock, CapitalG 주도 6억 달러 조달",
-      "takeaway": "자율 굴착기 스타트업 Bedrock, CapitalG 주도 6억 달러 조달",
-      "bullets": [
-        "Alphabet CapitalG·Emergence Capital 공동 리드",
-        "Nvidia도 Series C 라운드에 참여",
-        "자율 굴착기 분야 대규모 투자 유치"
-      ]
-    },
-    {
-      "title": "Meta to sell up to $95B in stock to finance AI infrastructure buildout",
-      "url": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/",
-      "source": "SiliconANGLE",
-      "date": "10/26",
-      "insight": "Meta, AI 인프라 구축용 최대 950억 달러 주식 매각 계획 발표",
-      "takeaway": "Meta, AI 인프라 구축용 최대 950억 달러 주식 매각 계획 발표",
-      "bullets": [
-        "데이터센터 프로젝트 재원 마련 목적",
-        "주식 매각 한도 최대 950억 달러",
-        "일련의 거래로 단계적 조달 예정"
-      ]
-    },
-    {
-      "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-      "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
-      "source": "SiliconANGLE",
-      "date": "10/26",
-      "insight": "Anthropic, IPO S-1 제출로 역대 최대 AI 기업 상장 초읽기",
-      "takeaway": "Anthropic, IPO S-1 제출로 역대 최대 AI 기업 상장 초읽기",
-      "bullets": [
-        "SEC에 IPO 서류(S-1) 공식 제출",
-        "AI 업계 역대 최대 규모 IPO 전망",
-        "Anthropic의 기업공개 일정 본격화"
-      ]
-    },
-    {
-      "title": "Colare raises $2.5M to help firms vet engineering candidates with advanced simulations",
-      "url": "https://siliconangle.com/2026/10/26/colare-raises-2-5m-to-help-aerospace-and-defense-firms-vet-engineering-candidates-with-advanced-simulations/",
-      "source": "SiliconANGLE",
-      "date": "10/26",
-      "insight": "엔지니어 채용 검증 플랫폼 Colare, 250만 달러 프리시드 조달",
-      "takeaway": "엔지니어 채용 검증 플랫폼 Colare, 250만 달러 프리시드 조달",
-      "bullets": [
-        "시뮬레이션 기반 엔지니어 후보 평가 플랫폼",
-        "Afore Capital 참여 프리시드 라운드 완료",
-        "채용 검증 시장 겨냥한 초기 투자 확보"
+        "Intel이 Classiq Technologies를 22억 달러에 인수 합의",
+        "Classiq는 이스라엘 기반 양자 컴퓨팅 소프트웨어 스타트업",
+        "Intel의 양자 컴퓨팅 역량 강화를 위한 대형 M&A"
       ]
     }
   ]

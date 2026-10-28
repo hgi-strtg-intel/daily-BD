@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-10-27",
-  "updated": "2026-10-27 19:27",
-  "fx": "환율 2026-10-27 · 시장환율   1 USD = ₩1,328.87   |   1 USD = 18,145.00 IDR   |   1 IDR = ₩0.07324",
+  "asOf": "2026-10-28",
+  "updated": "2026-10-28 20:16",
+  "fx": "환율 2026-10-28 · 시장환율   1 USD = ₩1,338.82   |   1 USD = 18,175.00 IDR   |   1 IDR = ₩0.07366",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "차바이오텍이 합병 의무 조항을 삭제한 후 오너 지분의 상장 가능성이 제기됨",
-      "impact": "오너 지분 구조 변동은 당사 보유 지분의 희석 또는 지배구조 리스크로 이어질 수 있어 추이 점검 필요",
+      "company": "루멘",
+      "text": "루멘이 렌터스 보험 서비스를 아이다호 주로 확대 출시했다.",
+      "impact": "신규 주 진출로 IFP 기반 확대 가능성 확인; 성장 속도가 투자 매력도 판단 변수.",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWJ6eDdsMl9UaWxQbk4tWFY2YnkxOXRBeUx4aks5cURtRzlPajZqbFNoVGRJeXJWd3lCVmtMbTJ5a2NhU0lETTdtYW9tYU10QUJGMDQ4ZlNvbFZBLWFtVDdhLXBWRlVsQ3VUeko3NVBVSnpsVkJNMTN4cHJEUnBBQ3VWYVdlVXZaOFdiZnV4aGFNejBiNnVfNHhuZHdObXVZ?oc=5"
     },
     {
-      "company": "차AI헬스케어",
-      "text": "차AI헬스케어 IPO를 앞두고 차케어스 합병 추진 및 오너 일가 지분 구조가 공개됨",
-      "impact": "합병 조건·비율에 따라 당사 보유 지분가치가 영향을 받을 수 있어 공식 공시 시 즉시 검토 필요",
+      "company": "루멘",
+      "text": "루멘이 개인 AI 에이전트 대상 에이전틱 AI 보험 플랫폼을 공개했다.",
+      "impact": "디지털 손보 운영 모델 혁신 방향 벤치마킹 포인트; 당사 모델 대비 기술 격차 점검 필요.",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS29UbUtGMGptUVNYNjdsOWd2UWxla1VTT3VRbzJkc0lMUW1rbmZFQndZUVYxZmw3MjB3QnB2UEEzb2stZExKbW5XcG5ZS1hpOWxzWlIwWGRmYlRiUFMwdDR2Vm1DakNHaWd3WW5heGp3S2VTWTZiREZMWk5tbklWSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlJiSXEtZ3ljUDcyTGhkRmtaeUtPUzdCcm82bmNqUjVfc05ucEg1Q3pXekRNVkFIcFg1OU9iTmctSUY1UUhNdHJmdWIwZXo1Ulo5cHNpNlpSQjBtT2FmdGVXYWJCUExQNkxDS01UdkU2MWl1alBWYnZvdUpwVnhsRDln?oc=5"
     }
   ],
   "companies": [
@@ -23,23 +23,23 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "오너 지분 승계 구조 재편 가능성",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
-        "-0.99%",
+        "+0.71%",
         "당사 투자"
       ],
-      "priceText": "₩7,030",
-      "openText": "₩7,160",
-      "highText": "₩7,340",
+      "priceText": "₩7,080",
+      "openText": "₩7,090",
+      "highText": "₩7,290",
       "lowText": "₩7,020",
-      "prevCloseText": "₩7,100",
-      "changeText": "-₩70",
+      "prevCloseText": "₩7,030",
+      "changeText": "+₩50",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,030",
+          "₩7,080",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-45.10%",
+          "-44.71%",
           null
         ],
         [
           "전일대비",
-          "-0.99%",
+          "+0.71%",
           null
         ],
         [
           "전주대비",
-          "-1.82%",
+          "-1.12%",
           null
         ],
         [
           "거래량(20일比)",
-          "20.49만 · 1.06x",
+          "16.66만 · 0.85x",
           null
         ],
         [
           "시가총액",
-          "6,536억",
+          "6,582억",
           null
         ],
         [
           "52주 고점대비",
-          "-70.65%",
+          "-70.44%",
           null
         ]
       ],
@@ -89,19 +89,14 @@
         }
       ],
       "events": [
-        "계열사 합병으로 오너 일가 지분 구조 재편 가능성이 제기되어 지배구조 변동 리스크 모니터링 필요",
-        "승계 목적 합병 진행 시 소액주주 가치 희석 여부 점검 필요"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "차헬스케어·차케어스 합병 공식 공시 여부",
-        "합병 후 오너 지분율 변동 내역",
-        "CB·유상증자 등 추가 자금조달 계획"
+        "CGT/CDMO 신규 계약·임상 진척 여부",
+        "유상증자·CB 등 자금조달 공시 발생 여부",
+        "핵심 파이프라인 규제기관 승인 일정"
       ],
       "spark": [
-        {
-          "date": "7/24",
-          "close": 8880.0
-        },
         {
           "date": "7/27",
           "close": 8960.0
@@ -349,36 +344,40 @@
         {
           "date": "10/27",
           "close": 7030.0
+        },
+        {
+          "date": "10/28",
+          "close": 7080.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/27 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lM29tQVg5azBXVy1JbzRCZm56WmVzZmRjTGI2c2piRUpwTTIwem10Q1hZVmx1d2RWMWF3azFPZWcyWWdUUEVCR19jcy03Um92N0FWa1hJZ2M1WUFS?oc=5",
+      "exchangeLine": "KRX · 10/28 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rNWRaOEVob0dyS1UyQlBvTURSZkE1ellWWWduUWRweXdCN0xnUExCNDg1YnVJN0J5UnpWa3FOcGltNXZJeWxLM3pfZmM4c3lDZkMyOWpwRXJxSGsw?oc=5",
       "sources": [
+        {
+          "title": "차바이오텍 주가 50원 상승 후 마감",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rNWRaOEVob0dyS1UyQlBvTURSZkE1ellWWWduUWRweXdCN0xnUExCNDg1YnVJN0J5UnpWa3FOcGltNXZJeWxLM3pfZmM4c3lDZkMyOWpwRXJxSGsw?oc=5",
+          "source": "아시아뉴스통신",
+          "date": "10/28"
+        },
+        {
+          "title": "\"난소 노화 연구\"…차광렬 줄기세포상에 '이 교수'",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmT1BnVUp6b2szYWNBbjR4QTBMNlVwR1hGbkhHQ0NwQVNPejNnMDFqbFY2czlHVzVRczl2LUhxbmhRcmkyajNIVU9xaGppaW1UbFFtYndHaXJXWGdtZ1p1Vi0yZUZYQU51bzhMQkVRanUtUkh2VWZKdNIBeEFVX3lxTFBmT1BnVUp6b2szYWNBbjR4QTBMNlVwR1hGbkhHQ0NwQVNPejNnMDFqbFY2czlHVzVRczl2LUhxbmhRcmkyajNIVU9xaGppaW1UbFFtYndHaXJXWGdtZ1p1Vi0yZUZYQU51bzhMQkVRanUtUkh2VWZKdA?oc=5",
+          "source": "뉴시스",
+          "date": "10/28"
+        },
+        {
+          "title": "차광렬 줄기세포상에 하버드 의대 데이비드 페핀 교수 선정",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uVEJjWV9kNDk0WkdYSXpmdlp4LUtWYWM4STlVODhRdjFOZXJQXzUwUkNJUjF2aVhGaVNjMGJqT2lNLUQ3TGlON0lDOGYwendBYm0wQ0hNS3bSAVhBVV95cUxPblRCY1lfZDQ5NFpHWEl6ZnZaeC1LVmFjOEk5VTg4UXYxTmVyUF81MFJDSVIxdmlYRmlTYzBiak9pTS1EN0xpTjdJQzhmMHp3QWJtMENITUt2?oc=5",
+          "source": "아주경제",
+          "date": "10/28"
+        },
         {
           "title": "차바이오텍 주가 상승 중",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lM29tQVg5azBXVy1JbzRCZm56WmVzZmRjTGI2c2piRUpwTTIwem10Q1hZVmx1d2RWMWF3azFPZWcyWWdUUEVCR19jcy03Um92N0FWa1hJZ2M1WUFS?oc=5",
           "source": "아시아뉴스통신",
           "date": "10/27"
-        },
-        {
-          "title": "차바이오텍 주가 60원 하락 후 마감",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xUVh0OFZsR0xSZHowd3F3QzJkbzN4TlczMUJfS04zR2VKcGowOEZmdkR5a1M1WFRVdVE1eXNIS0o3aGdYbDQxVngwcVFEQlR4dlBqWVIzd29YWkNnYVF1UWhzNTVZb3hJOGVwYk5kc0ZwVEFl?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "10/26"
-        },
-        {
-          "title": "차바이오텍, 합병 의무 없앤 뒤 오너 지분도 상장시킬까",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5",
-          "source": "한국M&A경제신문",
-          "date": "10/26"
-        },
-        {
-          "title": "차바이오텍 주가 하락 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WandqVU5FWW9EV25ZZFhIczZLYW4yQXh0b0ZCMTBZVGlxSldMM0lhUmJWRUdFUHEtWXY0MF95a3JRT0JHREVBdl85RjdXdnpPWFh2Y2VBMS1VOE5pSzVSbWxVSWhPS25jS1NUdUZ4cThFOE5K?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "10/26"
         }
       ],
       "archive30d": [
@@ -668,23 +667,23 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "B",
-      "event": "합병을 통한 지배구조 재편 국면",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
-        "+0.19%",
+        "-0.93%",
         "당사 투자"
       ],
-      "priceText": "₩5,350",
-      "openText": "₩5,230",
-      "highText": "₩5,390",
-      "lowText": "₩5,170",
-      "prevCloseText": "₩5,340",
-      "changeText": "+₩10",
+      "priceText": "₩5,300",
+      "openText": "₩5,350",
+      "highText": "₩5,520",
+      "lowText": "₩5,220",
+      "prevCloseText": "₩5,350",
+      "changeText": "-₩50",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,350",
+          "₩5,300",
           null
         ],
         [
@@ -699,27 +698,27 @@
         ],
         [
           "전일대비",
-          "+0.19%",
+          "-0.93%",
           null
         ],
         [
           "전주대비",
-          "-1.65%",
+          "-2.57%",
           null
         ],
         [
           "거래량(20일比)",
-          "6.90천 · 0.63x",
+          "5.95천 · 0.57x",
           null
         ],
         [
           "시가총액",
-          "973억",
+          "964억",
           null
         ],
         [
           "52주 고점대비",
-          "-68.14%",
+          "-68.43%",
           null
         ]
       ],
@@ -734,19 +733,14 @@
         }
       ],
       "events": [
-        "차케어스와의 합병이 IPO 전제 조건으로 거론되며 사업모델 전환의 방향성이 지배구조 재편과 혼재",
-        "오너 지분 변동 구조에 따라 기존 주주 가치 영향이 달라질 수 있어 합병 조건 추적 필요"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "차케어스 합병 조건 및 합병비율 공시",
-        "합병 후 헬스케어 사업 매출·손익 변화",
-        "IPO 일정 및 신주 발행 여부"
+        "분기 매출·영업손익 추이 확인",
+        "신규 고객사·파트너십 계약 공시 여부",
+        "헬스케어 전환 관련 사업 성과 발표 여부"
       ],
       "spark": [
-        {
-          "date": "7/24",
-          "close": 4320.0
-        },
         {
           "date": "7/27",
           "close": 4350.0
@@ -994,30 +988,22 @@
         {
           "date": "10/27",
           "close": 5350.0
+        },
+        {
+          "date": "10/28",
+          "close": 5300.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/27 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5",
+      "exchangeLine": "KRX · 10/28 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
       "sources": [
         {
-          "title": "차바이오텍, 합병 의무 없앤 뒤 오너 지분도 상장시킬까",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PaFlHR0tPdjluN3IwTjB4YmhpQnAzT2ZkUlpycEtzWFQwM3MtX1FPYTJqYjBRY1NZbHMtd1duTkpSRDBSaW8yRE1nalJUa2tCbVhLQ0ZzSlYtVktGX1FrQmh1d1Q1c2lfakE?oc=5",
-          "source": "한국M&A경제신문",
-          "date": "10/26"
-        },
-        {
-          "title": "차헬스케어·차케어스 합병, 오너 승계판 깔리나",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05RHItTlF0SWRQV2pGQ3YzUWgxRnQtMnQxbUgtdHBDVDJGRE9rai0tUW4yVzBhV3puZWNJOFRmOVNpSmZSRVNxWkcyNUxscGpSU2VTTQ?oc=5",
-          "source": "바이오북미디어",
-          "date": "10/26"
-        },
-        {
-          "title": "차헬스케어 IPO 앞에 놓인 차케어스 합병…차광렬·차원태 지분은?[차바이오 딥시크③]",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS29UbUtGMGptUVNYNjdsOWd2UWxla1VTT3VRbzJkc0lMUW1rbmZFQndZUVYxZmw3MjB3QnB2UEEzb2stZExKbW5XcG5ZS1hpOWxzWlIwWGRmYlRiUFMwdDR2Vm1DakNHaWd3WW5heGp3S2VTWTZiREZMWk5tbklWSQ?oc=5",
-          "source": "이데일리",
-          "date": "10/25"
+          "title": "CNC News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
+          "source": "cncnews.co.kr",
+          "date": "10/27"
         }
       ],
       "archive30d": [
@@ -1062,24 +1048,24 @@
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "렌터스 보험 신규 주 확대 및 AI 플랫폼 공개",
       "tags": [
-        "+0.36%",
+        "+1.84%",
         "벤치마크"
       ],
-      "priceText": "$45.08",
-      "openText": "$44.46",
-      "highText": "$45.15",
-      "lowText": "$43.62",
-      "prevCloseText": "$44.92",
-      "changeText": "+$0.16",
+      "priceText": "$45.91",
+      "openText": "$45.98",
+      "highText": "$46.47",
+      "lowText": "$44.66",
+      "prevCloseText": "$45.08",
+      "changeText": "+$0.83",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$45.08",
-          "₩59,905"
+          "$45.91",
+          "₩61,465"
         ],
         [
           "취득가",
@@ -1093,27 +1079,27 @@
         ],
         [
           "전일대비",
-          "+0.36%",
+          "+1.84%",
           null
         ],
         [
           "전주대비",
-          "+0.36%",
+          "+2.20%",
           null
         ],
         [
           "거래량(20일比)",
-          "84.65만 · 0.77x",
+          "81.28만 · 0.75x",
           null
         ],
         [
           "시가총액",
-          "$3.49B",
-          "4.64조"
+          "$3.55B",
+          "4.76조"
         ],
         [
           "52주 고점대비",
-          "-54.87%",
+          "-54.04%",
           null
         ]
       ],
@@ -1128,18 +1114,15 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "아이다호 진출로 렌터스 보험 지역 커버리지 확장 중이나 IFP 성장률 기여 규모는 미확인",
+        "에이전틱 AI 플랫폼 도입은 디지털 손보 운영 효율화 방향성을 시사하나 재무 영향은 불확실"
       ],
       "watch": [
-        "IFP 성장률 분기 추이 확인",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 재확인"
+        "IFP 성장률 및 Loss Ratio 분기 지표 발표 시점",
+        "에이전틱 AI 플랫폼의 실제 운영 채용 및 비용 효과",
+        "벤치마크 대비 당사 디지털 채널 모델 차별점 검토"
       ],
       "spark": [
-        {
-          "date": "7/29",
-          "close": 47.38
-        },
         {
           "date": "7/30",
           "close": 48.57
@@ -1387,17 +1370,39 @@
         {
           "date": "10/26",
           "close": 45.08
+        },
+        {
+          "date": "10/27",
+          "close": 45.91
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/26 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmYtMUxIOE5kOUNtZ2NaZTJHWjZqRzIxbW4wd0FsbDdoeXZOSUNDenRld1hTUTkyV3Y3LXB2NnF0aGtWS01pRGZxVEFkQVpuODBJc0FKTTNPY3gtNjRqcEpNY2tvNnRhd0w2XzFxSmluOGg0LXd4Y2J5dFV0dDVseWZMOXN2aElJRDhSVXNUX2o5ZzBRZmhlMGVaVDFhSXRXSEVNNkI0XzZtdmpKU3h4TG0tWm9tdGlkVVQ5cHdob3RQY21VRXBvT2dDNA?oc=5",
+      "exchangeLine": "NYSE · 10/27 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnA5SUx1YlZSQ1puSU1wTGlsQkVyYUs2MVhPSHRvclZhSWxoZ2hfQm53aElwU2Q4ZW5jR0M0TXBxTG1qT1dJTG5TMjRlY1lUWVAtWGlqbjcyLVFpcHN5Z0hrWWUwdWlHbm02eXhmbHFNRVgydzZEYmJYOVhGeGtXZkRIbW5hUUVlSWNJQ1RpNGpKdHhMUjZvd2FTWTZsemRRN2h4Q2NSRG0yTGNiS1FSUHBuaW1OOFVTRnFIUTB3WE44ZUJ6eEw0Q2pn0gHKAUFVX3lxTE12cDlJTHViVlJDWm5JTXBMaWxCRXJhSzYxWE9IdG9yVmFJbGhnaF9CbndoSXBTZDhlbmNHQzRNcHFMbWpPV0lMblMyNGVjWVRZUC1YaWpuNzItUWlwc3lnSGtZZTB1aUdubTZ5eGZscU1FWDJ3NkRiYlg5WEZ4a1dmREhtbmFRRWVJY0lDVGk0akp0eExSNm93YVNZNmx6ZFE3aHhDY1JEbTJMY2JLUVJQcG5pbU44VVNGcUhRMHdYTjhlQnp4TDRDamc?oc=5",
       "sources": [
         {
-          "title": "(루멘) Price Dynamics and Execution-Aware Positioning",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmYtMUxIOE5kOUNtZ2NaZTJHWjZqRzIxbW4wd0FsbDdoeXZOSUNDenRld1hTUTkyV3Y3LXB2NnF0aGtWS01pRGZxVEFkQVpuODBJc0FKTTNPY3gtNjRqcEpNY2tvNnRhd0w2XzFxSmluOGg0LXd4Y2J5dFV0dDVseWZMOXN2aElJRDhSVXNUX2o5ZzBRZmhlMGVaVDFhSXRXSEVNNkI0XzZtdmpKU3h4TG0tWm9tdGlkVVQ5cHdob3RQY21VRXBvT2dDNA?oc=5",
-          "source": "Stock Traders Daily",
+          "title": "Does Renters Expansion Change The Bull Case For 루멘 Stock (루멘)?",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnA5SUx1YlZSQ1puSU1wTGlsQkVyYUs2MVhPSHRvclZhSWxoZ2hfQm53aElwU2Q4ZW5jR0M0TXBxTG1qT1dJTG5TMjRlY1lUWVAtWGlqbjcyLVFpcHN5Z0hrWWUwdWlHbm02eXhmbHFNRVgydzZEYmJYOVhGeGtXZkRIbW5hUUVlSWNJQ1RpNGpKdHhMUjZvd2FTWTZsemRRN2h4Q2NSRG0yTGNiS1FSUHBuaW1OOFVTRnFIUTB3WE44ZUJ6eEw0Q2pn0gHKAUFVX3lxTE12cDlJTHViVlJDWm5JTXBMaWxCRXJhSzYxWE9IdG9yVmFJbGhnaF9CbndoSXBTZDhlbmNHQzRNcHFMbWpPV0lMblMyNGVjWVRZUC1YaWpuNzItUWlwc3lnSGtZZTB1aUdubTZ5eGZscU1FWDJ3NkRiYlg5WEZ4a1dmREhtbmFRRWVJY0lDVGk0akp0eExSNm93YVNZNmx6ZFE3aHhDY1JEbTJMY2JLUVJQcG5pbU44VVNGcUhRMHdYTjhlQnp4TDRDamc?oc=5",
+          "source": "Simply Wall Street",
+          "date": "10/28"
+        },
+        {
+          "title": "Does Renters Expansion Change The Bull Case For 루멘 Stock (루멘)?",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmVJM2g1QXU0NTlEc01ZTEpMQVI2MmFEdGU2RXpZRTdVT2ZrYk9fQ2xYU2ZKM0JzaXYxbF9lMmVCaWtJV3VzbHowc3pWeHJ2bTBraUhjb3NTa1d1VkF4SUdGNzhvek5yY3k1WHJCbGVUVHJ5Q2NsREJjMUVkcFdacTFqWnFhN0t3RzdZOTQyMEdfUkxINkt5bWVOM0RBalRtUGVoYU1XX18xZ3BlRVhDLW5rNHAzakRSalMtQUYwbHR6Qlct0gHKAUFVX3lxTE12cDlJTHViVlJDWm5JTXBMaWxCRXJhSzYxWE9IdG9yVmFJbGhnaF9CbndoSXBTZDhlbmNHQzRNcHFMbWpPV0lMblMyNGVjWVRZUC1YaWpuNzItUWlwc3lnSGtZZTB1aUdubTZ5eGZscU1FWDJ3NkRiYlg5WEZ4a1dmREhtbmFRRWVJY0lDVGk0akp0eExSNm93YVNZNmx6ZFE3aHhDY1JEbTJMY2JLUVJQcG5pbU44VVNGcUhRMHdYTjhlQnp4TDRDamc?oc=5",
+          "source": "Simply Wall Street",
+          "date": "10/28"
+        },
+        {
+          "title": "Insurtech 루멘 introduces agentic AI insurance platform for personal AI agents",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlJiSXEtZ3ljUDcyTGhkRmtaeUtPUzdCcm82bmNqUjVfc05ucEg1Q3pXekRNVkFIcFg1OU9iTmctSUY1UUhNdHJmdWIwZXo1Ulo5cHNpNlpSQjBtT2FmdGVXYWJCUExQNkxDS01UdkU2MWl1alBWYnZvdUpwVnhsRDln?oc=5",
+          "source": "Beinsure",
+          "date": "10/27"
+        },
+        {
+          "title": "루멘 Renters Insurance Expands to Idaho",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWJ6eDdsMl9UaWxQbk4tWFY2YnkxOXRBeUx4aks5cURtRzlPajZqbFNoVGRJeXJWd3lCVmtMbTJ5a2NhU0lETTdtYW9tYU10QUJGMDQ4ZlNvbFZBLWFtVDdhLXBWRlVsQ3VUeko3NVBVSnpsVkJNMTN4cHJEUnBBQ3VWYVdlVXZaOFdiZnV4aGFNejBiNnVfNHhuZHdObXVZ?oc=5",
+          "source": "PR Newswire",
           "date": "10/27"
         }
       ],
@@ -1667,6 +1672,20 @@
           "level": "mid",
           "date": "10/15",
           "collected_at": "2026-10-16"
+        },
+        {
+          "summary": "루멘이 렌터스 보험 서비스를 아이다호 주로 확대 출시했다.",
+          "impact": "신규 주 진출로 IFP 기반 확대 가능성 확인; 성장 속도가 투자 매력도 판단 변수.",
+          "level": "mid",
+          "date": "10/27",
+          "collected_at": "2026-10-28"
+        },
+        {
+          "summary": "루멘이 개인 AI 에이전트 대상 에이전틱 AI 보험 플랫폼을 공개했다.",
+          "impact": "디지털 손보 운영 모델 혁신 방향 벤치마킹 포인트; 당사 모델 대비 기술 격차 점검 필요.",
+          "level": "mid",
+          "date": "10/27",
+          "collected_at": "2026-10-28"
         }
       ]
     },
@@ -1677,21 +1696,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.83%",
+        "+1.65%",
         "자회사"
       ],
-      "priceText": "Rp605",
-      "openText": "Rp615",
-      "highText": "Rp615",
-      "lowText": "Rp600",
-      "prevCloseText": "Rp600",
-      "changeText": "+Rp5",
+      "priceText": "Rp615",
+      "openText": "Rp590",
+      "highText": "Rp625",
+      "lowText": "Rp590",
+      "prevCloseText": "Rp605",
+      "changeText": "+Rp10",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp605",
-          "₩44.3"
+          "Rp615",
+          "₩45.3"
         ],
         [
           "취득가",
@@ -1700,17 +1719,17 @@
         ],
         [
           "취득가대비",
-          "-7.46%",
+          "-5.93%",
           null
         ],
         [
           "전일대비",
-          "+0.83%",
+          "+1.65%",
           null
         ],
         [
           "전주대비",
-          "+0.83%",
+          "+2.50%",
           null
         ],
         [
@@ -1721,11 +1740,11 @@
         [
           "시가총액",
           "Rp1.8조",
-          "1,329억"
+          "1,359억"
         ],
         [
           "52주 고점대비",
-          "-36.05%",
+          "-35.00%",
           null
         ]
       ],
@@ -1743,15 +1762,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 개정 동향",
-        "RBC 비율 분기 변동",
-        "PIKK 개정 관련 영향 확인"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "분기 RBC 비율 및 자본적정성 수치 확인",
+        "연결 편입 후 첫 통합 재무제표 공시 일정"
       ],
       "spark": [
-        {
-          "date": "7/29",
-          "close": 615.0
-        },
         {
           "date": "7/30",
           "close": 630.0
@@ -1999,11 +2014,15 @@
         {
           "date": "10/27",
           "close": 605.0
+        },
+        {
+          "date": "10/28",
+          "close": 615.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/27 종가 (WIB)",
+      "exchangeLine": "IDX · 10/28 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -3752,6 +3771,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-27 19:31"
+    "updated": "2026-10-28 20:21"
   }
 }
