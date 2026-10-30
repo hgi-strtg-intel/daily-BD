@@ -1,8 +1,9 @@
 {
-  "updated": "2026-10-29 20:29",
+  "updated": "2026-10-30 20:21",
   "processed_urls": [
     "https://m.ceoscoredaily.com/page/view/2026100216063938970",
-    "https://m.ceoscoredaily.com/page/view/2026091815553873440"
+    "https://m.ceoscoredaily.com/page/view/2026091815553873440",
+    "https://m.ceoscoredaily.com/page/view/2026102915110891947"
   ],
   "data": {
     "2026Q1": {
@@ -1654,6 +1655,50 @@
           "source": "article",
           "url": "https://news.bizwatch.co.kr/article/finance/2026/08/12/0043",
           "date": "2026-08-12"
+        }
+      }
+    },
+    "2026Q3": {
+      "KB손보": {
+        "net_income": {
+          "value": 6811.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947",
+          "date": "2026-10-30"
+        },
+        "ins_profit": {
+          "value": 7421.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947",
+          "date": "2026-10-30"
+        },
+        "inv_profit": {
+          "value": 2240.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947",
+          "date": "2026-10-30"
+        },
+        "csm": {
+          "value": 108974.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947",
+          "date": "2026-10-30"
+        },
+        "kics": {
+          "value": 187.9,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947",
+          "date": "2026-10-30"
         }
       }
     }

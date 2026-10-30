@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-29 20:28",
+  "updated": "2026-10-30 20:20",
   "items": [
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch",
+      "date": "10/29",
+      "insight": "OpenAI 후원사가 ADT 인수, 홈보안에 AI 접목 본격화",
+      "takeaway": "OpenAI 후원사가 ADT 인수, 홈보안에 AI 접목 본격화",
+      "bullets": [
+        "Thrive Holdings, ADT를 153억 달러에 인수",
+        "OpenAI가 Thrive Holdings를 후원 중",
+        "AI 기술을 홈 보안 사업에 도입 계획"
+      ]
+    },
     {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -9,9 +22,9 @@
       "insight": "Anthropic IPO 시 Amazon의 지분 규모가 VC를 압도할 전망",
       "takeaway": "Anthropic IPO 시 Amazon의 지분 규모가 VC를 압도할 전망",
       "bullets": [
-        "Amazon, 전환사채 전환으로 Anthropic 대규모 지분 확보",
-        "IPO 시 VC 수익을 훨씬 상회하는 Amazon 수익 예상",
-        "Anthropic 소유구조의 실제 규모가 처음 드러남"
+        "Amazon, 노트 전환으로 Anthropic 대규모 지분 확보",
+        "VC들도 수십억 달러 수익 예상",
+        "Amazon의 실질 소유 비율이 공개됨"
       ]
     },
     {
@@ -19,12 +32,12 @@
       "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
       "source": "TechCrunch",
       "date": "10/27",
-      "insight": "10월 SEC 공시 통해 주요 VC들의 신규 펀드 결성 러시 확인",
-      "takeaway": "10월 SEC 공시 통해 주요 VC들의 신규 펀드 결성 러시 확인",
+      "insight": "10월 SEC 공시에서 주요 VC들의 대규모 신규 펀드 결성 확인",
+      "takeaway": "10월 SEC 공시에서 주요 VC들의 대규모 신규 펀드 결성 확인",
       "bullets": [
-        "8VC·Benchmark 등 유명 VC들이 신규 펀드 조성 중",
-        "10월 SEC 파일링에서 다수 펀드 동시 포착",
-        "스타트업 생태계 자금 공급 지속 신호"
+        "8VC·Benchmark 등 유명 VC가 신규 펀드 조성 중",
+        "10월 SEC 공시를 통해 관련 내용 공개",
+        "다수 벤처 캐피털이 동시에 자금 모집 중"
       ]
     },
     {
@@ -32,77 +45,90 @@
       "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "source": "TechCrunch",
       "date": "10/27",
-      "insight": "Disruptive, 100억 달러 메가펀드로 AI·반도체 대형 베팅 예고",
-      "takeaway": "Disruptive, 100억 달러 메가펀드로 AI·반도체 대형 베팅 예고",
+      "insight": "Disruptive, 100억 달러 메가펀드로 AI·반도체에 집중 투자",
+      "takeaway": "Disruptive, 100억 달러 메가펀드로 AI·반도체에 집중 투자",
       "bullets": [
-        "Disruptive, 100억 달러 규모 신규 펀드 결성",
-        "Groq·ElevenLabs 등 AI·칩 스타트업 집중 투자 이력",
-        "최소 10개사에 대규모 집중 투자 전략 채택"
+        "Disruptive, 100억 달러 규모 신규 펀드 조성",
+        "최소 10개 기업에 대형 베팅 계획",
+        "Groq·ElevenLabs 등 AI 유망주에 기투자 이력"
       ]
     },
     {
-      "title": "Energy-efficient inference chip developer FuriosaAI raises $620M to solve the data center power bottleneck",
-      "url": "https://siliconangle.com/2026/10/28/energy-efficient-inference-chip-developer-furiosaai-raises-620m-to-solve-the-data-center-power-bottleneck/",
+      "title": "AI architecture startup Dream launches with $17M in funding",
+      "url": "https://siliconangle.com/2026/10/29/ai-architecture-startup-dream-launches-with-17m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "10/30",
+      "insight": "AI로 건물 설계 자동화하는 Dream, a16z 주도로 1700만 달러 조달",
+      "takeaway": "AI로 건물 설계 자동화하는 Dream, a16z 주도로 1700만 달러 조달",
+      "bullets": [
+        "AI 기반 건물 디자인 생성 스타트업 Dream 출범",
+        "Andreessen Horowitz가 시드 라운드 리드",
+        "총 1700만 달러 초기 투자 유치"
+      ]
+    },
+    {
+      "title": "Cloudera builds its AI strategy around deployment flexibility",
+      "url": "https://siliconangle.com/2026/10/29/cloudera-builds-ai-strategy-around-deployment-flexibility-evolve26/",
       "source": "SiliconANGLE",
       "date": "10/29",
-      "insight": "한국 AI 추론칩 스타트업 FuriosaAI, 6.2억 달러 조달로 엔비디아 도전",
-      "takeaway": "한국 AI 추론칩 스타트업 FuriosaAI, 6.2억 달러 조달로 엔비디아 도전",
+      "insight": "Cloudera, 오픈웨이트 모델 활용해 AI 배포 유연성 전략 강화",
+      "takeaway": "Cloudera, 오픈웨이트 모델 활용해 AI 배포 유연성 전략 강화",
       "bullets": [
-        "FuriosaAI, 6억2000만 달러 대규모 펀딩 완료",
-        "데이터센터 전력 문제 해결 특화 에너지 효율 칩 개발",
-        "엔비디아 대항마로 생산 규모 확대 본격화"
+        "기업들이 새 모델과 기존 데이터 환경 사이에서 고민",
+        "오픈웨이트 모델·오픈소스 클라우드 활용 증가",
+        "Cloudera는 배포 유연성을 AI 전략 핵심으로 설정"
       ]
     },
     {
-      "title": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
-      "url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/",
+      "title": "Wabi reels in $55M for its consumer-focused AI assistant",
+      "url": "https://siliconangle.com/2026/10/29/wabi-reels-in-55m-for-its-consumer-focused-ai-assistant/",
       "source": "SiliconANGLE",
-      "date": "10/28",
-      "insight": "AI 에이전트로 회로 설계 검증 자동화, 2500만 달러 투자 유치",
-      "takeaway": "AI 에이전트로 회로 설계 검증 자동화, 2500만 달러 투자 유치",
+      "date": "10/29",
+      "insight": "소비자용 AI 어시스턴트 Wabi, IVP 주도로 5500만 달러 유치",
+      "takeaway": "소비자용 AI 어시스턴트 Wabi, IVP 주도로 5500만 달러 유치",
       "bullets": [
-        "영국 Circuit Mind, 2500만 달러 신규 펀딩 확보",
-        "AI 에이전트가 회로 기판 회로도 검사 자동 수행",
-        "하드웨어 설계 전 공정으로 AI 플랫폼 확장 추진"
+        "소비자 대상 AI 어시스턴트 개발사 Wabi 자금 조달",
+        "IVP가 시드 라운드 리드, Amazon Alexa Fund 참여",
+        "총 5500만 달러 규모 투자 유치"
       ]
     },
     {
-      "title": "Northstar launches with $7M to give AI agents the context to act on security risks",
-      "url": "https://siliconangle.com/2026/10/28/northstar-launches-with-7m-to-give-ai-agents-the-context-to-act-on-security-risks/",
+      "title": "Science robotics startup Opentrons raises $40M to standardize laboratory automation",
+      "url": "https://siliconangle.com/2026/10/29/science-robotics-startup-opentrons-raises-40m-to-standardize-laboratory-automation/",
       "source": "SiliconANGLE",
-      "date": "10/28",
-      "insight": "AI 에이전트에 보안 컨텍스트 제공하는 신생 스타트업 700만 달러 런칭",
-      "takeaway": "AI 에이전트에 보안 컨텍스트 제공하는 신생 스타트업 700만 달러 런칭",
+      "date": "10/29",
+      "insight": "AI 기반 실험실 자동화 Opentrons, 4000만 달러로 확장 가속",
+      "takeaway": "AI 기반 실험실 자동화 Opentrons, 4000만 달러로 확장 가속",
       "bullets": [
-        "Northstar, 700만 달러 펀딩으로 공식 출범",
-        "AI 에이전트가 보안 위협에 실제 대응할 수 있도록 컨텍스트 부여",
-        "보안 리스크 행동 기반 대응 자동화 솔루션 제공"
+        "실험실 자동화 로봇 스타트업 Opentrons 신규 투자 유치",
+        "로보틱스·소프트웨어·데이터 인프라 확장에 사용",
+        "AI 기반 자동화로 실험실 표준화 목표"
       ]
     },
     {
-      "title": "Cloud security startup Upwind raises $400M at $3.8B valuation as revenue quadruples",
-      "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/",
+      "title": "Serval raises $150M at $3B valuation to bring its automation agents beyond IT",
+      "url": "https://siliconangle.com/2026/10/29/serval-raises-150m-at-3b-valuation-to-bring-its-automation-agents-beyond-it/",
       "source": "SiliconANGLE",
-      "date": "10/28",
-      "insight": "클라우드 보안 Upwind, 매출 4배 성장에 38억 달러 가치 인정",
-      "takeaway": "클라우드 보안 Upwind, 매출 4배 성장에 38억 달러 가치 인정",
+      "date": "10/29",
+      "insight": "Serval, 30억 달러 밸류에이션으로 IT 넘어 전사 자동화 확장",
+      "takeaway": "Serval, 30억 달러 밸류에이션으로 IT 넘어 전사 자동화 확장",
       "bullets": [
-        "Upwind, 4억 달러 펀딩·기업가치 38억 달러 달성",
-        "클라우드 및 AI 보안 전문 스타트업으로 포지셔닝",
-        "최근 매출이 전년 대비 4배 급증한 고성장 기록"
+        "기업 서비스 관리 스타트업 Serval 1억5000만 달러 조달",
+        "기업 가치 30억 달러로 평가",
+        "IT 외 다양한 부서로 자동화 에이전트 적용 확대"
       ]
     },
     {
-      "title": "Inference cloud startup General Compute reels in $100M, despite broader AI funding fears",
-      "url": "https://siliconangle.com/2026/10/28/inference-cloud-startup-general-compute-reels-in-100m-despite-broader-ai-funding-fears/",
+      "title": "Reflex raises $14M to help enterprises replace generic third-party software with custom business apps",
+      "url": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/",
       "source": "SiliconANGLE",
-      "date": "10/28",
-      "insight": "네오클라우드 위기론 속에서도 General Compute 1억 달러 조달 성공",
-      "takeaway": "네오클라우드 위기론 속에서도 General Compute 1억 달러 조달 성공",
+      "date": "10/29",
+      "insight": "Reflex, AI로 기업 맞춤 소프트웨어 구축해 서드파티 대체 도전",
+      "takeaway": "Reflex, AI로 기업 맞춤 소프트웨어 구축해 서드파티 대체 도전",
       "bullets": [
-        "General Compute, 1억 달러 펀딩 유치 완료",
-        "Gartner·머스크 등 네오클라우드 위기 경고에도 투자 성사",
-        "AI 추론 클라우드 인프라 수요가 여전히 투자자 관심 유인"
+        "AI 에이전트로 맞춤 기업 소프트웨어 제작·배포·유지",
+        "시리즈 A 라운드로 1400만 달러 조달",
+        "범용 서드파티 소프트웨어 대체를 목표로 설정"
       ]
     }
   ]

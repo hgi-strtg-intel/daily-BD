@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-10-29",
-  "updated": "2026-10-29 20:28",
-  "fx": "환율 2026-10-29 · 시장환율   1 USD = ₩1,337.41   |   1 USD = 18,125.00 IDR   |   1 IDR = ₩0.07379",
+  "asOf": "2026-10-30",
+  "updated": "2026-10-30 20:20",
+  "fx": "환율 2026-10-30 · 시장환율   1 USD = ₩1,335.10   |   1 USD = 18,120.00 IDR   |   1 IDR = ₩0.07368",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "대주주 차광렬 등 특별관계자, 주식 16만주 담보대출 연장 공시.",
-      "impact": "대주주 보유 지분 담보 유지로 직접 매각 위험은 낮으나 지배구조 모니터링 지속 필요.",
+      "text": "차바이오텍 관련 대량보유 보고서 신규 공시 발생",
+      "impact": "지분구조 변동 가능성으로 당사 보유 지분 희석 여부 모니터링 필요",
       "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000509"
     },
     {
       "company": "차바이오텍",
-      "text": "미국 CDMO 자회사 마티카, 수주는 증가했으나 매출 실현 시점은 미확정 상태.",
-      "impact": "1,500억 투자 대비 매출 가시화 지연 시 당사 보유 지분가치 재평가 압력 발생 가능.",
+      "text": "차광렬 등 특별관계자가 보유 주식 16만주에 대한 담보대출을 연장",
+      "impact": "최대주주 측 담보 이연으로 지분 매각 압력 잔존, 주가 하방 리스크 지속",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmNxS3ZjMjdCRjFLNENldFhTOGlHajNMemFUdTJObFZWSFEwV2o5cXB1MU9JblJtZkFNQjJmMnNBNlNtMTIxYkMwbGVRUDdIUVlZNW9CS0Z1RUdjMW5CTGNyMlkwalp3UUhxVG5NTHFJWXg2XzQxRTNzaTVhMTdxTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45VjNQNU1XclM1dmllMjBtaVFjcDAyTW5xWnlrVTFzVWJnYXQ2MkdkUndJV21NM3pua0ZPajNfMU1CbGNablFfZUloOFRtQk9lWHd6ekZNRDRFT1Z0Q0wyeUt1ejQweExHOC1wUE1YckdxeXc?oc=5"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CDMO 매출 실현 지연 우려",
+      "event": "CDMO 역량 확장 vs 담보대출 연장",
       "tags": [
-        "-4.52%",
+        "-0.15%",
         "당사 투자"
       ],
-      "priceText": "₩6,760",
-      "openText": "₩7,050",
-      "highText": "₩7,070",
-      "lowText": "₩6,700",
-      "prevCloseText": "₩7,080",
-      "changeText": "-₩320",
+      "priceText": "₩6,750",
+      "openText": "₩6,730",
+      "highText": "₩6,850",
+      "lowText": "₩6,590",
+      "prevCloseText": "₩6,760",
+      "changeText": "-₩10",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩6,760",
+          "₩6,750",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-47.21%",
+          "-47.29%",
           null
         ],
         [
           "전일대비",
-          "-4.52%",
+          "-0.15%",
           null
         ],
         [
           "전주대비",
-          "-5.59%",
+          "-5.73%",
           null
         ],
         [
           "거래량(20일比)",
-          "35.23만 · 1.81x",
+          "15.00만 · 0.75x",
           null
         ],
         [
           "시가총액",
-          "6,285억",
+          "6,276억",
           null
         ],
         [
           "52주 고점대비",
-          "-71.77%",
+          "-71.82%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "마티카 수주 확대에도 매출 가시화가 지연되면 1,500억 투자 대비 사업가치 정당화 어려워짐",
-        "대주주 담보대출 연장은 지분 매각 의도는 아니나, 지배구조 안정성 모니터링 필요"
+        "마티카바이오랩스의 내년 BEP 목표·생산역량 확대는 CGT/CDMO 자회사 사업가치의 점진적 개선 신호이나, 아직 수익 실현 전 단계",
+        "최대주주 측 담보대출 연장은 신규 자금조달 없이 기존 부담을 이연한 것으로, 지분구조 안정성에 대한 모니터링 필요"
       ],
       "watch": [
-        "마티카 수주잔고 대비 매출 전환 시점",
-        "대주주 담보 주식 추가 변동 여부",
-        "추가 자금조달(CB·유상증자) 계획 공시 여부"
+        "담보대출 연장 후 추가 담보·매도 가능성",
+        "마티카바이오랩스 BEP 달성 시점 확인",
+        "신규 CB·유상증자 등 자금조달 공시 여부"
       ],
       "spark": [
-        {
-          "date": "7/28",
-          "close": 8460.0
-        },
         {
           "date": "7/29",
           "close": 8100.0
@@ -349,11 +345,15 @@
         {
           "date": "10/29",
           "close": 6760.0
+        },
+        {
+          "date": "10/30",
+          "close": 6750.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/29 종가",
+      "exchangeLine": "KRX · 10/30 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000509",
       "sources": [
         {
@@ -363,21 +363,21 @@
           "date": "20261029"
         },
         {
-          "title": "차바이오텍 차광렬 등, 특별관계자 주식 16만주 담보대출 연장",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45VjNQNU1XclM1dmllMjBtaVFjcDAyTW5xWnlrVTFzVWJnYXQ2MkdkUndJV21NM3pua0ZPajNfMU1CbGNablFfZUloOFRtQk9lWHd6ekZNRDRFT1Z0Q0wyeUt1ejQweExHOC1wUE1YckdxeXc?oc=5",
-          "source": "데이터투자",
+          "title": "[2026 BIX코리아] 마티카바이오랩스, CRO·바이럴벡터 기업과 엔드투엔드 서비스 논의...\"내년 BEP 달성 기대\"",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mOHkxekljd2ZpRHg3TG05blRjZmZuekZsLVBmRDNFWU9yVEtiM3hYamtva0JwS0FacUdvR1RHLVVMTlVYbjhNalRPR2NCQnJvMTVGOWVjUTFPejdfRWxqd29wRDRzMms?oc=5",
+          "source": "팍스경제TV",
+          "date": "10/30"
+        },
+        {
+          "title": "마티카바이오랩스, 내년 CDMO 생산역량 확대…글로벌 임상 지원 강화",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVWhid1JwSS15XzRlQXY0U2tNTlR5TlJTQ3dxOVdyaFJqNllOb0cxb1lwbk5HeDctZXY5MlhXaFg2SXRnRDhYa3FKVS1WNUhoUEViLS15b2x5Q2xCMEV6SGx2eDM?oc=5",
+          "source": "PRESS9",
           "date": "10/29"
         },
         {
-          "title": "차바이오텍 주가 320원 하락 후 마감",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2cDBmREctYkRTUUVXSTdtQThpcjg0WWR3dGlONUQ4Y1FqRFNraEd4MmVua3hxT3JsVmx0RlhKRWdZeWRTOURYQVJJYTY1RWZTQVV0WUhZQnBOLUFa?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "10/29"
-        },
-        {
-          "title": "‘차광렬 줄기세포상’에 페핀 하버드의대 교수 선정",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EdmxLRW1yMFhXU3FZYkNOWFFDQjhvUERmVkR5RTZrVVQ4SVNrdm1TUnJSOTU0YWNaRlJfMkNzeVVmSHgzRmVrcVBLcUE0WU9ZTDRpZlRtTFRtakZuOVFfYjJxNVhBeUxYWGxleGk3dVY?oc=5",
-          "source": "의협신문",
+          "title": "[BIX2026] 마티카 박세강 \"CGT 자동화, 공정 표준화가 먼저\"",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91MFNpN09UX1p1N3JQZm55ajU2UGxmckRuZEhMcGRsNUNYWC1vMzcta05uREpVRW1KV2RmcGcwcEtvTmpzcXc?oc=5",
+          "source": "Daum",
           "date": "10/29"
         }
       ],
@@ -675,6 +675,20 @@
           "level": "mid",
           "date": "10/28",
           "collected_at": "2026-10-29"
+        },
+        {
+          "summary": "차바이오텍 관련 대량보유 보고서 신규 공시 발생",
+          "impact": "지분구조 변동 가능성으로 당사 보유 지분 희석 여부 모니터링 필요",
+          "level": "mid",
+          "date": "10/29",
+          "collected_at": "2026-10-30"
+        },
+        {
+          "summary": "차광렬 등 특별관계자가 보유 주식 16만주에 대한 담보대출을 연장",
+          "impact": "최대주주 측 담보 이연으로 지분 매각 압력 잔존, 주가 하방 리스크 지속",
+          "level": "mid",
+          "date": "10/29",
+          "collected_at": "2026-10-30"
         }
       ]
     },
@@ -685,20 +699,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-2.64%",
+        "-1.94%",
         "당사 투자"
       ],
-      "priceText": "₩5,160",
-      "openText": "₩5,480",
-      "highText": "₩5,480",
-      "lowText": "₩5,110",
-      "prevCloseText": "₩5,300",
-      "changeText": "-₩140",
+      "priceText": "₩5,060",
+      "openText": "₩5,360",
+      "highText": "₩5,360",
+      "lowText": "₩5,010",
+      "prevCloseText": "₩5,160",
+      "changeText": "-₩100",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,160",
+          "₩5,060",
           null
         ],
         [
@@ -713,27 +727,27 @@
         ],
         [
           "전일대비",
-          "-2.64%",
+          "-1.94%",
           null
         ],
         [
           "전주대비",
-          "-5.15%",
+          "-6.99%",
           null
         ],
         [
           "거래량(20일比)",
-          "4.55천 · 0.50x",
+          "2.93천 · 0.35x",
           null
         ],
         [
           "시가총액",
-          "939억",
+          "921억",
           null
         ],
         [
           "52주 고점대비",
-          "-69.27%",
+          "-69.79%",
           null
         ]
       ],
@@ -751,15 +765,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 실적(매출·영업손익) 발표 일정",
-        "헬스케어 신규 고객사·파트너십 공시 여부",
-        "자금조달 또는 지분 변동 공시 여부"
+        "최근 분기 매출·영업손익 추이",
+        "신규 고객사·파트너십 계약 공시 여부",
+        "사업모델 전환 관련 경영진 공식 발표"
       ],
       "spark": [
-        {
-          "date": "7/28",
-          "close": 4080.0
-        },
         {
           "date": "7/29",
           "close": 3925.0
@@ -1007,11 +1017,15 @@
         {
           "date": "10/29",
           "close": 5160.0
+        },
+        {
+          "date": "10/30",
+          "close": 5060.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/29 종가",
+      "exchangeLine": "KRX · 10/30 종가",
       "sourceUrl": null,
       "sources": [],
       "archive30d": [
@@ -1056,24 +1070,24 @@
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "B",
-      "event": "실적 발표 전 밸류에이션 점검 시점",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
-        "-1.20%",
+        "+1.21%",
         "벤치마크"
       ],
-      "priceText": "$45.36",
-      "openText": "$45.93",
-      "highText": "$46.32",
-      "lowText": "$44.94",
-      "prevCloseText": "$45.91",
-      "changeText": "-$0.55",
+      "priceText": "$45.91",
+      "openText": "$45.30",
+      "highText": "$46.46",
+      "lowText": "$45.30",
+      "prevCloseText": "$45.36",
+      "changeText": "+$0.55",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$45.36",
-          "₩60,665"
+          "$45.91",
+          "₩61,294"
         ],
         [
           "취득가",
@@ -1087,27 +1101,27 @@
         ],
         [
           "전일대비",
-          "-1.20%",
+          "+1.21%",
           null
         ],
         [
           "전주대비",
-          "+0.98%",
+          "+2.20%",
           null
         ],
         [
           "거래량(20일比)",
-          "88.53만 · 0.83x",
+          "105.86만 · 0.99x",
           null
         ],
         [
           "시가총액",
-          "$3.51B",
-          "4.70조"
+          "$3.55B",
+          "4.74조"
         ],
         [
           "52주 고점대비",
-          "-54.59%",
+          "-54.04%",
           null
         ]
       ],
@@ -1122,19 +1136,14 @@
         }
       ],
       "events": [
-        "아이다호 롤아웃 등 지역 확장이 IFP 성장에 기여 가능하나, 수익성 개선 여부는 실적 공개 전까지 불확실",
-        "브로커리지 컨센서스 분산이 크면 EBITDA 흑자전환 시점 판단이 추가 지연될 수 있어 투자 검토 일정에 영향"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "3Q 실적 발표 시 IFP 성장률 및 Loss Ratio 수치",
-        "EBITDA 흑자전환 시점 가이던스 제시 여부",
-        "아이다호 등 신규 지역 롤아웃 속도와 손해율 영향"
+        "Q3 실적 발표 시 IFP 성장률·Loss Ratio 확인",
+        "EBITDA 흑자전환 시점 가이던스 변화",
+        "밸류에이션 배수 벤치마크 대비 수준"
       ],
       "spark": [
-        {
-          "date": "7/31",
-          "close": 48.31
-        },
         {
           "date": "8/3",
           "close": 53.05
@@ -1382,36 +1391,40 @@
         {
           "date": "10/28",
           "close": 45.36
+        },
+        {
+          "date": "10/29",
+          "close": 45.91
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/28 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3BkdUUtZk1fWC1sR2F0SjFGN01jbnFoS2pFSV9XUk9XcU5KR0gzcmdWMlZndGdSLUxlbElLaXBVSVJRaXdNRXRRLTUzNXY1RV9kVEFKWFlZa2t0MnJnWjdJYlRxOXJDSUhpVkRKV0hpc08tcW96dzl2SGpxMVA1ZkJpd2tQdl9PVDJtck9rci1Cal9yWWlVMHdkYmhnTzhYNmkteUZYR1BoajNDZWk5NWJ3?oc=5",
+      "exchangeLine": "NYSE · 10/29 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Odkd2eEN1RXZTekt4b28tSUZkbWR3RkZXb3JRbElkUzlrdHJWcll6VkRrM1RKeGN1ODU4MkpZMTA2cWpvNHN6b0VRb2I4ZzQ3LWZJZkNscWVKYlMxeEtmN3N3?oc=5",
       "sources": [
         {
-          "title": "루멘 (루멘) Set to Release Earnings on Thursday",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3BkdUUtZk1fWC1sR2F0SjFGN01jbnFoS2pFSV9XUk9XcU5KR0gzcmdWMlZndGdSLUxlbElLaXBVSVJRaXdNRXRRLTUzNXY1RV9kVEFKWFlZa2t0MnJnWjdJYlRxOXJDSUhpVkRKV0hpc08tcW96dzl2SGpxMVA1ZkJpd2tQdl9PVDJtck9rci1Cal9yWWlVMHdkYmhnTzhYNmkteUZYR1BoajNDZWk5NWJ3?oc=5",
-          "source": "MarketBeat",
-          "date": "10/29"
-        },
-        {
-          "title": "루멘 (루멘) Could Be 8% Below Fair Value Following Idaho Rollout",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2RnaWp2UFM4ZnpHa2JRaWNoUXBtUkFxSTI3X3UyR2sxYkhXX29jX0FabkRyTE1CUjB1bTF5UnRGZXdSd2N4dzlZZ19uX1VzV1lMYjdpaHJYWEl3YVpZTk1JdXFlTjREUjJjOERlVjBoaWNON24wdXNPTVVUU2N6Z0wwOEdlbUR2blA3dkU4M1Btemo2MTJISUFDRWhoUFEya2RtNXN1V0VQem10SVdHNFo3TEZoc3JrTmFzdHkzUVljc1Zf0gHKAUFVX3lxTE5aZjhkVDJNdVpRbmJ2d25YT18wVHVJU2JxN3RSNWY4cWxQVHlnY2FMdkVWWjZzVE0xd3l3dnYtemdJbW9BU0sza3o2YVdrWEpldEZHenBBdzVtTWE2OHZZWXNiR2tSSmI5SGFFWU5EelJxUmV4bnhqbG13TTQ2VlJLd3JMWWs5dTVvWkRyaXpjZGc5VE1XR2J6MjB3dXBvSXRHZVY1R0tXdEhiT3M4TXlNV0oyZndRY1ozZnMya3dCaGZUd0ZEak5sOUE?oc=5",
-          "source": "Simply Wall St",
-          "date": "10/29"
-        },
-        {
-          "title": "루멘 (루멘) - What Are Brokerages Thinking About This Stock?",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzBVWmd2SWNYRmVPbVM5bDdlV3ROV2V5S3ZyMnJOb2NWT0VvZjVRc3ptd25keFFkdWJpblBKaHNmMUI4eHhodTU5emNVaW9jS19lUnJudGxMSllBRVFkSEZXWDVaUjFsdzRvRFA0VWEtc2RYckxVN3NLLWZUMzBrNkpiREh3dU1vT1BFa3JTc2xFTC1sSkxNWTFuRndCYndXOEVweDRTbldXTVhlREctY1dpYnNMYkRaeU81REhuY1poVVpvSGc?oc=5",
-          "source": "MarketBeat",
-          "date": "10/29"
-        },
-        {
-          "title": "루멘 (루멘) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVYWtQMmVMWVIxMkc4ZHFteEhIN29UT2UxX0VmM2VJQzFnWnNoNW5RYkJMQnBkZ0hzeHp4em9LeXV5NUp6RlRkbF8yRVRtTGJ0TFE?oc=5",
+          "title": "루멘 (루멘) Seasonal Returns Chart - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Odkd2eEN1RXZTekt4b28tSUZkbWR3RkZXb3JRbElkUzlrdHJWcll6VkRrM1RKeGN1ODU4MkpZMTA2cWpvNHN6b0VRb2I4ZzQ3LWZJZkNscWVKYlMxeEtmN3N3?oc=5",
           "source": "Yahoo! Finance Canada",
-          "date": "10/28"
+          "date": "10/29"
+        },
+        {
+          "title": "루멘 (루멘) Seasonal returns chart",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PNW00M0hZVmZKMWR5UUd3MUdoLUJBanlWQjVqa2EyT3BJUDlSRFZXV1lELWtBazBMQ3BHb1NFLW9KS0tXNU11RDBYZVlBalBydzBDamxSSzc4Q1ZHa2xMTktn?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "10/29"
+        },
+        {
+          "title": "루멘 (루멘) Seasonal returns chart",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGTVFXNXNvbnltTWxjNFBqVUFicVJSNUZaVzNNbVI5cnA5TmpQd0JzQjR6aWJ5QTVJVHFMV21NMzVuNlFKUWpwX3NrLTc4bnV0MlZCRkRDUUZITzdhWGZZZFFR?oc=5",
+          "source": "Yahoo Finance UK",
+          "date": "10/29"
+        },
+        {
+          "title": "루멘 (루멘) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHV1RWZhVHY2bnVrX2JaWklQTEgweGRjdWZHRFJZNzVIOGs1UHRnYmZ3OEFBTFhZNEVMRDl4UXZlc1EyMUJ3TDduVkt6am9iN2ZyVEZBN1IzMjFPOHhIMGRDcm9McnZ3cXZ1MmtIbU9ISVBycmNBbWdNNmVlM3JxUEJsaURTQU5QZWdqeDdB?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "10/29"
         }
       ],
       "archive30d": [
@@ -1711,21 +1724,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-3.25%",
+        "+0.84%",
         "자회사"
       ],
-      "priceText": "Rp595",
-      "openText": "Rp620",
-      "highText": "Rp700",
+      "priceText": "Rp600",
+      "openText": "Rp630",
+      "highText": "Rp630",
       "lowText": "Rp595",
-      "prevCloseText": "Rp615",
-      "changeText": "-Rp20",
+      "prevCloseText": "Rp595",
+      "changeText": "+Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp595",
-          "₩43.9"
+          "Rp600",
+          "₩44.2"
         ],
         [
           "취득가",
@@ -1734,32 +1747,32 @@
         ],
         [
           "취득가대비",
-          "-8.99%",
+          "-8.23%",
           null
         ],
         [
           "전일대비",
-          "-3.25%",
+          "+0.84%",
           null
         ],
         [
           "전주대비",
-          "-0.83%",
+          "+0.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "3.31만 · 0.80x",
+          "1.02만 · 0.24x",
           null
         ],
         [
           "시가총액",
           "Rp1.8조",
-          "1,317억"
+          "1,326억"
         ],
         [
           "52주 고점대비",
-          "-37.11%",
+          "-36.58%",
           null
         ]
       ],
@@ -1777,15 +1790,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제(PIKK 개정) 신규 지침 발표 여부",
-        "분기 RBC 비율 공시 및 자본 적정성 유지 여부",
-        "추가 지분 변동 또는 연결 편입 후 재무 영향 확인"
+        "OJK 규제 변화 및 신규 지침 공표 여부",
+        "RBC 비율 분기별 추이",
+        "PIKK 개정 관련 자본 적정성 영향"
       ],
       "spark": [
-        {
-          "date": "7/31",
-          "close": 615.0
-        },
         {
           "date": "8/3",
           "close": 635.0
@@ -2033,11 +2042,15 @@
         {
           "date": "10/29",
           "close": 595.0
+        },
+        {
+          "date": "10/30",
+          "close": 600.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/29 종가 (WIB)",
+      "exchangeLine": "IDX · 10/30 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -2045,6 +2058,10 @@
   ],
   "insurerKpi": {
     "quarters": [
+      {
+        "key": "2026Q3",
+        "label": "3Q26"
+      },
       {
         "key": "2026Q2",
         "label": "2Q26"
@@ -2101,6 +2118,142 @@
       }
     ],
     "byQuarter": {
+      "2026Q3": {
+        "rows": [
+          {
+            "company": "한화손보",
+            "isOwn": true,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "삼성화재",
+            "isOwn": false,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "DB손보",
+            "isOwn": false,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "현대해상",
+            "isOwn": false,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "KB손보",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 6811.0,
+                "display": "6,811억",
+                "cum": true,
+                "yoy": {
+                  "text": "-11.2%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-10-30",
+                "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947"
+              },
+              {
+                "value": 7421.0,
+                "display": "7,421억",
+                "cum": true,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-10-30",
+                "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947"
+              },
+              {
+                "value": 2240.0,
+                "display": "2,240억",
+                "cum": true,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-10-30",
+                "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947"
+              },
+              {
+                "value": 108974.0,
+                "display": "10조 8,974억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-10-30",
+                "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947"
+              },
+              null,
+              {
+                "value": 187.9,
+                "display": "187.9%",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-10-30",
+                "url": "https://m.ceoscoredaily.com/page/view/2026102915110891947"
+              }
+            ]
+          },
+          {
+            "company": "메리츠화재",
+            "isOwn": false,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "comment": "3Q26 기준 · 당사 수치 미확인"
+      },
       "2026Q2": {
         "rows": [
           {
@@ -3786,6 +3939,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-29 20:29"
+    "updated": "2026-10-30 20:21"
   }
 }
