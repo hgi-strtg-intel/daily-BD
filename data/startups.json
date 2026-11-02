@@ -1,56 +1,82 @@
 {
-  "updated": "2026-10-30 20:20",
+  "updated": "2026-11-02 22:25",
   "items": [
     {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "TechCrunch",
       "date": "10/29",
-      "insight": "OpenAI 후원사가 ADT 인수, 홈보안에 AI 접목 본격화",
-      "takeaway": "OpenAI 후원사가 ADT 인수, 홈보안에 AI 접목 본격화",
+      "insight": "OpenAI 후원사가 ADT 인수, AI 홈보안 시대 본격화",
+      "takeaway": "OpenAI 후원사가 ADT 인수, AI 홈보안 시대 본격화",
       "bullets": [
-        "Thrive Holdings, ADT를 153억 달러에 인수",
-        "OpenAI가 Thrive Holdings를 후원 중",
-        "AI 기술을 홈 보안 사업에 도입 계획"
+        "Thrive Holdings가 ADT를 153억 달러에 인수",
+        "OpenAI가 Thrive Holdings를 지원",
+        "홈 보안에 AI 도입이 목표"
       ]
     },
     {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch",
-      "date": "10/28",
-      "insight": "Anthropic IPO 시 Amazon의 지분 규모가 VC를 압도할 전망",
-      "takeaway": "Anthropic IPO 시 Amazon의 지분 규모가 VC를 압도할 전망",
+      "title": "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work",
+      "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/",
+      "source": "SiliconANGLE",
+      "date": "11/02",
+      "insight": "AI 에이전트 확산 속 실제 업무 적용법 학습하는 스타트업 주목",
+      "takeaway": "AI 에이전트 확산 속 실제 업무 적용법 학습하는 스타트업 주목",
       "bullets": [
-        "Amazon, 노트 전환으로 Anthropic 대규모 지분 확보",
-        "VC들도 수십억 달러 수익 예상",
-        "Amazon의 실질 소유 비율이 공개됨"
+        "Marble Cognition, 375만 달러 시드 투자 유치",
+        "AI 에이전트가 사람의 업무 방식을 관찰·학습",
+        "기업 내 AI 에이전트 활용법 부재 문제 해결 목표"
       ]
     },
     {
-      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "source": "TechCrunch",
-      "date": "10/27",
-      "insight": "10월 SEC 공시에서 주요 VC들의 대규모 신규 펀드 결성 확인",
-      "takeaway": "10월 SEC 공시에서 주요 VC들의 대규모 신규 펀드 결성 확인",
+      "title": "Agent demand can’t be forecast, meaning the database has to be ready for anything",
+      "url": "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/",
+      "source": "SiliconANGLE",
+      "date": "11/01",
+      "insight": "에이전트 AI 시대, 데이터베이스 성능이 모델만큼 중요해졌다",
+      "takeaway": "에이전트 AI 시대, 데이터베이스 성능이 모델만큼 중요해졌다",
       "bullets": [
-        "8VC·Benchmark 등 유명 VC가 신규 펀드 조성 중",
-        "10월 SEC 공시를 통해 관련 내용 공개",
-        "다수 벤처 캐피털이 동시에 자금 모집 중"
+        "AI 에이전트는 수천 건의 비계획적 쿼리를 동시 발사",
+        "밀리초 단위 응답 속도가 필수 요건",
+        "DB가 에이전틱 AI 아키텍처의 핵심 요소로 부상"
       ]
     },
     {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch",
-      "date": "10/27",
-      "insight": "Disruptive, 100억 달러 메가펀드로 AI·반도체에 집중 투자",
-      "takeaway": "Disruptive, 100억 달러 메가펀드로 AI·반도체에 집중 투자",
+      "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
+      "url": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
+      "source": "SiliconANGLE",
+      "date": "10/30",
+      "insight": "Google X 공동창업자 Thrun, AI 엔지니어링 스타트업에 1.3억 달러 유치",
+      "takeaway": "Google X 공동창업자 Thrun, AI 엔지니어링 스타트업에 1.3억 달러 유치",
       "bullets": [
-        "Disruptive, 100억 달러 규모 신규 펀드 조성",
-        "최소 10개 기업에 대형 베팅 계획",
-        "Groq·ElevenLabs 등 AI 유망주에 기투자 이력"
+        "Sebastian Thrun이 공동 창업한 Dulo가 1억3천만 달러 조달",
+        "The Information이 투자 소식을 최초 보도",
+        "著名 AI 연구자가 이끄는 스타트업으로 주목"
+      ]
+    },
+    {
+      "title": "As Anthropic finally files for its IPO, rising risks aren’t slowing the AI buildout – yet",
+      "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+      "source": "SiliconANGLE",
+      "date": "10/30",
+      "insight": "Anthropic IPO 신청, 올해 두 번째 대형 AI 상장 임박",
+      "takeaway": "Anthropic IPO 신청, 올해 두 번째 대형 AI 상장 임박",
+      "bullets": [
+        "Anthropic이 IPO 서류를 공식 제출",
+        "올해 두 번째 블록버스터 AI IPO로 예상",
+        "약 7만 단어 분량의 방대한 제출 서류"
+      ]
+    },
+    {
+      "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
+      "url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
+      "source": "SiliconANGLE",
+      "date": "10/30",
+      "insight": "Anthropic 투자설명서, 규모 확대에 따른 비경제성 리스크 경고",
+      "takeaway": "Anthropic 투자설명서, 규모 확대에 따른 비경제성 리스크 경고",
+      "bullets": [
+        "리스크 팩터만 88개, 93페이지에 달함",
+        "AI의 실존적 위협 등 이례적 리스크 공시",
+        "역대 최대 규모 IPO 가능성 속 규모의 비경제성 우려"
       ]
     },
     {
@@ -58,77 +84,12 @@
       "url": "https://siliconangle.com/2026/10/29/ai-architecture-startup-dream-launches-with-17m-in-funding/",
       "source": "SiliconANGLE",
       "date": "10/30",
-      "insight": "AI로 건물 설계 자동화하는 Dream, a16z 주도로 1700만 달러 조달",
-      "takeaway": "AI로 건물 설계 자동화하는 Dream, a16z 주도로 1700만 달러 조달",
+      "insight": "a16z 주도로 AI 건물 설계 스타트업 Dream이 1700만 달러로 출범",
+      "takeaway": "a16z 주도로 AI 건물 설계 스타트업 Dream이 1700만 달러로 출범",
       "bullets": [
-        "AI 기반 건물 디자인 생성 스타트업 Dream 출범",
-        "Andreessen Horowitz가 시드 라운드 리드",
-        "총 1700만 달러 초기 투자 유치"
-      ]
-    },
-    {
-      "title": "Cloudera builds its AI strategy around deployment flexibility",
-      "url": "https://siliconangle.com/2026/10/29/cloudera-builds-ai-strategy-around-deployment-flexibility-evolve26/",
-      "source": "SiliconANGLE",
-      "date": "10/29",
-      "insight": "Cloudera, 오픈웨이트 모델 활용해 AI 배포 유연성 전략 강화",
-      "takeaway": "Cloudera, 오픈웨이트 모델 활용해 AI 배포 유연성 전략 강화",
-      "bullets": [
-        "기업들이 새 모델과 기존 데이터 환경 사이에서 고민",
-        "오픈웨이트 모델·오픈소스 클라우드 활용 증가",
-        "Cloudera는 배포 유연성을 AI 전략 핵심으로 설정"
-      ]
-    },
-    {
-      "title": "Wabi reels in $55M for its consumer-focused AI assistant",
-      "url": "https://siliconangle.com/2026/10/29/wabi-reels-in-55m-for-its-consumer-focused-ai-assistant/",
-      "source": "SiliconANGLE",
-      "date": "10/29",
-      "insight": "소비자용 AI 어시스턴트 Wabi, IVP 주도로 5500만 달러 유치",
-      "takeaway": "소비자용 AI 어시스턴트 Wabi, IVP 주도로 5500만 달러 유치",
-      "bullets": [
-        "소비자 대상 AI 어시스턴트 개발사 Wabi 자금 조달",
-        "IVP가 시드 라운드 리드, Amazon Alexa Fund 참여",
-        "총 5500만 달러 규모 투자 유치"
-      ]
-    },
-    {
-      "title": "Science robotics startup Opentrons raises $40M to standardize laboratory automation",
-      "url": "https://siliconangle.com/2026/10/29/science-robotics-startup-opentrons-raises-40m-to-standardize-laboratory-automation/",
-      "source": "SiliconANGLE",
-      "date": "10/29",
-      "insight": "AI 기반 실험실 자동화 Opentrons, 4000만 달러로 확장 가속",
-      "takeaway": "AI 기반 실험실 자동화 Opentrons, 4000만 달러로 확장 가속",
-      "bullets": [
-        "실험실 자동화 로봇 스타트업 Opentrons 신규 투자 유치",
-        "로보틱스·소프트웨어·데이터 인프라 확장에 사용",
-        "AI 기반 자동화로 실험실 표준화 목표"
-      ]
-    },
-    {
-      "title": "Serval raises $150M at $3B valuation to bring its automation agents beyond IT",
-      "url": "https://siliconangle.com/2026/10/29/serval-raises-150m-at-3b-valuation-to-bring-its-automation-agents-beyond-it/",
-      "source": "SiliconANGLE",
-      "date": "10/29",
-      "insight": "Serval, 30억 달러 밸류에이션으로 IT 넘어 전사 자동화 확장",
-      "takeaway": "Serval, 30억 달러 밸류에이션으로 IT 넘어 전사 자동화 확장",
-      "bullets": [
-        "기업 서비스 관리 스타트업 Serval 1억5000만 달러 조달",
-        "기업 가치 30억 달러로 평가",
-        "IT 외 다양한 부서로 자동화 에이전트 적용 확대"
-      ]
-    },
-    {
-      "title": "Reflex raises $14M to help enterprises replace generic third-party software with custom business apps",
-      "url": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/",
-      "source": "SiliconANGLE",
-      "date": "10/29",
-      "insight": "Reflex, AI로 기업 맞춤 소프트웨어 구축해 서드파티 대체 도전",
-      "takeaway": "Reflex, AI로 기업 맞춤 소프트웨어 구축해 서드파티 대체 도전",
-      "bullets": [
-        "AI 에이전트로 맞춤 기업 소프트웨어 제작·배포·유지",
-        "시리즈 A 라운드로 1400만 달러 조달",
-        "범용 서드파티 소프트웨어 대체를 목표로 설정"
+        "Dream Technologies, 1700만 달러 시드 투자로 공식 런칭",
+        "AI로 건물 디자인을 자동 생성하는 솔루션",
+        "Andreessen Horowitz가 시드 라운드를 리드"
       ]
     }
   ]
