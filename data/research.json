@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-26 10:05",
+  "updated": "2026-11-02 11:17",
   "articles": [
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "소비자를 대리하는 AI 에이전트 확산과 과제",
+      "category": "인슈어테크·AI",
+      "takeaway": "소비자 대리 AI 에이전트 확산은 보험 판매·민원 구조에 새 리스크를 야기한다.",
+      "bullets": [
+        "AI가 소비자를 대신해 상품 비교·계약까지 수행하는 단계로 진화 중",
+        "에이전트 의사결정 오류 시 책임 귀속 및 소비자 보호 법제 공백 우려",
+        "보험사는 AI 에이전트 대상 인터페이스·약관 설계 재검토 필요"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=891439",
+      "date": "",
+      "collected_at": "2026-11-02"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "자기부담금과 할인할증률에 따른 자기차량손해 수리 현황",
+      "category": "규제·정책",
+      "takeaway": "자기부담금·할인할증 구조가 자차 수리 행태와 손해율에 실질 영향을 미친다.",
+      "bullets": [
+        "자기부담금 수준에 따라 소액 수리 청구 여부가 달라지는 경향 확인",
+        "할인할증률(보험료 할증 구조)이 소비자의 청구 자제 유인으로 작동",
+        "언더라이팅(위험 인수) 및 요율 설계 시 수리 행태 데이터 반영 필요"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=890539",
+      "date": "",
+      "collected_at": "2026-11-02"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Closing banking’s AI value gap: A CEO guide",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI 투자 대비 가치 실현 격차를 좁히려면 운영 모델 혁신이 핵심이다.",
+      "bullets": [
+        "AI 도입 속도 대비 실질 비즈니스 가치 창출은 여전히 부진",
+        "재사용 가능한 'AI 자본' 개념으로 누적 수익 구조 설계 필요",
+        "CEO급 리더십이 운영 모델 전환을 직접 주도해야 격차 해소 가능"
+      ],
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
+      "date": "10/30",
+      "collected_at": "2026-11-02"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Waniwani’s CEO on the agentic future of insurance distribution",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI 에이전트가 보험 판매채널의 경제구조를 근본적으로 바꿀 수 있다.",
+      "bullets": [
+        "에이전틱(Agentic) AI가 중개 비용을 대폭 압축할 가능성 제시",
+        "보험사는 AI 기반 배포 채널의 리스크·기회를 동시에 재검토해야",
+        "배포 경제성 변화로 소규모·틈새 상품의 수익성이 달라질 수 있음"
+      ],
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
+      "date": "10/30",
+      "collected_at": "2026-11-02"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Want to Lead in Consumer Products? Adapt to Retailing’s New Reality",
+      "category": "글로벌 동향",
+      "takeaway": "소비재 기업의 차세대 커머스 적응 전략으로 보험 유통 시사점 참고 가능.",
+      "bullets": [
+        "디지털 커머스 진화에 따라 CPG(소비재 기업)의 채널 전략 재편 필요",
+        "데이터 기반 소비자 접점 강화가 차별적 경쟁력의 핵심 요소로 부각",
+        "보험 업계도 유통 채널 다각화·고객 경험 혁신에 적용 가능한 시사점"
+      ],
+      "url": "https://www.bain.com/insights/want-to-lead-in-consumer-products-adapt-to-retailings-new-reality/",
+      "date": "10/29",
+      "collected_at": "2026-11-02"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "European Construction Outlook: Tracking Growth Rates",
+      "category": "글로벌 동향",
+      "takeaway": "유럽 건설 시장의 인프라 성장세는 관련 보험 수요 변화를 예고한다.",
+      "bullets": [
+        "인프라 투자 증가가 단기 건설 성장을 견인하는 핵심 동력",
+        "주거용 건설 회복은 완만하여 관련 보험 수요 회복도 지연 예상",
+        "유럽 건설 리스크 포트폴리오 점검 시 인프라·주거 부문 구분 필요"
+      ],
+      "url": "https://www.bain.com/insights/european-construction-outlook-growth-rates-snap-chart/",
+      "date": "10/27",
+      "collected_at": "2026-11-02"
+    },
     {
       "publisher": "McKinsey",
       "type": "consulting",
@@ -59,36 +149,6 @@
       ],
       "url": "https://www.bain.com/insights/global-auto-consumer-survey-regional-trends-in-a-changing-world/",
       "date": "10/21",
-      "collected_at": "2026-10-26"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "소비자를 대리하는 AI 에이전트 확산과 과제",
-      "category": "인슈어테크·AI",
-      "takeaway": "소비자 대리 AI 에이전트 확산은 보험 모집·계약 프로세스 전반을 재편할 변수.",
-      "bullets": [
-        "AI 에이전트가 소비자 대신 상품 비교·계약 체결까지 수행 가능",
-        "대리인 적격성·책임 귀속 등 규제 공백 문제 부각",
-        "보험사 고객접점(채널) 전략과 완전판매 책임 기준 재설계 필요"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=891439",
-      "date": "",
-      "collected_at": "2026-10-26"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "자기부담금과 할인할증률에 따른 자기차량손해 수리 현황",
-      "category": "자동차보험·손해",
-      "takeaway": "자기부담금·할인할증률 구조가 자차 수리 청구 행태에 실질적 영향을 미침.",
-      "bullets": [
-        "자기부담금 수준에 따라 소액 수리 청구 여부가 달라짐",
-        "할인할증(우량·불량 할인) 구조가 보험금 청구 억제 효과로 연결",
-        "적정 자기부담금 설계로 손해율 관리 및 도덕적 해이 억제 가능"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=890539",
-      "date": "",
       "collected_at": "2026-10-26"
     },
     {
