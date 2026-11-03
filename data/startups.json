@@ -1,95 +1,108 @@
 {
-  "updated": "2026-11-02 22:25",
+  "updated": "2026-11-03 21:44",
   "items": [
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch",
+      "date": "11/02",
+      "insight": "비기술 전문가도 AI 모델 훈련 가능, 창업 1년 만에 3억 달러 밸류",
+      "takeaway": "비기술 전문가도 AI 모델 훈련 가능, 창업 1년 만에 3억 달러 밸류",
+      "bullets": [
+        "Trajectory, 4500만 달러 시리즈 투자 유치",
+        "설립 1년 만에 기업가치 3억 달러 달성",
+        "비기술 전문가 대상 AI 훈련 접근성 제공"
+      ]
+    },
     {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "source": "TechCrunch",
       "date": "10/29",
-      "insight": "OpenAI 후원사가 ADT 인수, AI 홈보안 시대 본격화",
-      "takeaway": "OpenAI 후원사가 ADT 인수, AI 홈보안 시대 본격화",
+      "insight": "OpenAI 후원 Thrive, 153억 달러에 ADT 인수해 홈보안 AI화 추진",
+      "takeaway": "OpenAI 후원 Thrive, 153억 달러에 ADT 인수해 홈보안 AI화 추진",
       "bullets": [
-        "Thrive Holdings가 ADT를 153억 달러에 인수",
-        "OpenAI가 Thrive Holdings를 지원",
-        "홈 보안에 AI 도입이 목표"
+        "Thrive Holdings, ADT를 153억 달러에 인수",
+        "OpenAI가 Thrive Holdings를 후원",
+        "홈 보안 사업에 AI 도입 계획 발표"
       ]
     },
     {
-      "title": "Marble Cognition raises $3.75M for its AI agent workers that watch and learn how people work",
-      "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/",
+      "title": "VCs bet $30M on Larridin’s ability to help enterprises demonstrate AI’s value for money",
+      "url": "https://siliconangle.com/2026/11/02/vcs-bet-30m-on-larridins-ability-to-help-enterprises-demonstrate-ais-value-for-money/",
+      "source": "SiliconANGLE",
+      "date": "11/03",
+      "insight": "AI 투자 ROI 입증 수요 급증, Larridin 3000만 달러 VC 유치",
+      "takeaway": "AI 투자 ROI 입증 수요 급증, Larridin 3000만 달러 VC 유치",
+      "bullets": [
+        "Larridin, 3000만 달러 투자 유치 성공",
+        "기업 AI 투자 대비 가치 증명 솔루션 제공",
+        "임원진의 AI 지출 효과 검증 수요 타깃"
+      ]
+    },
+    {
+      "title": "Robotics startup Tutor Intelligence nabs $75M investment",
+      "url": "https://siliconangle.com/2026/11/02/robotics-startup-tutor-intelligence-nabs-75m-investment/",
+      "source": "SiliconANGLE",
+      "date": "11/03",
+      "insight": "a16z 주도 7500만 달러 투자, 창고 자동화 로보틱스 성장세 주목",
+      "takeaway": "a16z 주도 7500만 달러 투자, 창고 자동화 로보틱스 성장세 주목",
+      "bullets": [
+        "Tutor Intelligence, 7500만 달러 Series A 유치",
+        "Andreessen Horowitz가 투자 리드",
+        "Union Square Ventures 등 공동 참여"
+      ]
+    },
+    {
+      "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+      "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
       "source": "SiliconANGLE",
       "date": "11/02",
-      "insight": "AI 에이전트 확산 속 실제 업무 적용법 학습하는 스타트업 주목",
-      "takeaway": "AI 에이전트 확산 속 실제 업무 적용법 학습하는 스타트업 주목",
+      "insight": "Anthropic 분기 매출 17억 달러, IPO 앞두고 손실도 동반 확대",
+      "takeaway": "Anthropic 분기 매출 17억 달러, IPO 앞두고 손실도 동반 확대",
       "bullets": [
-        "Marble Cognition, 375만 달러 시드 투자 유치",
-        "AI 에이전트가 사람의 업무 방식을 관찰·학습",
-        "기업 내 AI 에이전트 활용법 부재 문제 해결 목표"
+        "Anthropic 분기 매출 17억 달러 기록",
+        "IPO 앞두고 S-1 업데이트 파일링 공개",
+        "매출 성장에도 불구 손실 규모도 증가"
       ]
     },
     {
-      "title": "Agent demand can’t be forecast, meaning the database has to be ready for anything",
-      "url": "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/",
+      "title": "42AI launches with $62.5M to predict how traders act when markets turn volatile",
+      "url": "https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/",
       "source": "SiliconANGLE",
-      "date": "11/01",
-      "insight": "에이전트 AI 시대, 데이터베이스 성능이 모델만큼 중요해졌다",
-      "takeaway": "에이전트 AI 시대, 데이터베이스 성능이 모델만큼 중요해졌다",
+      "date": "11/02",
+      "insight": "이스라엘 스타트업 42AI, 트레이더 행동 예측 AI로 6250만 달러 론칭",
+      "takeaway": "이스라엘 스타트업 42AI, 트레이더 행동 예측 AI로 6250만 달러 론칭",
       "bullets": [
-        "AI 에이전트는 수천 건의 비계획적 쿼리를 동시 발사",
-        "밀리초 단위 응답 속도가 필수 요건",
-        "DB가 에이전틱 AI 아키텍처의 핵심 요소로 부상"
+        "42AI, 6250만 달러 투자로 공식 런칭",
+        "'행동 세계 모델' 구축이 핵심 기술",
+        "브로커리지 대상 시장 변동성 행동 예측 제공"
       ]
     },
     {
-      "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
-      "url": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
+      "title": "Palantir beats Q3 forecasts as US commercial revenue overtakes government for first time",
+      "url": "https://siliconangle.com/2026/11/02/palantir-beats-q3-forecasts-as-us-commercial-revenue-overtakes-government-for-first-time/",
       "source": "SiliconANGLE",
-      "date": "10/30",
-      "insight": "Google X 공동창업자 Thrun, AI 엔지니어링 스타트업에 1.3억 달러 유치",
-      "takeaway": "Google X 공동창업자 Thrun, AI 엔지니어링 스타트업에 1.3억 달러 유치",
+      "date": "11/02",
+      "insight": "Palantir, 미국 상업 매출이 처음으로 정부 매출 초과하며 성장 전환",
+      "takeaway": "Palantir, 미국 상업 매출이 처음으로 정부 매출 초과하며 성장 전환",
       "bullets": [
-        "Sebastian Thrun이 공동 창업한 Dulo가 1억3천만 달러 조달",
-        "The Information이 투자 소식을 최초 보도",
-        "著名 AI 연구자가 이끄는 스타트업으로 주목"
+        "Palantir Q3 실적 시장 예상치 상회",
+        "미국 상업 매출이 정부 매출 첫 추월",
+        "연간 매출 가이던스 세 번째 상향 조정"
       ]
     },
     {
-      "title": "As Anthropic finally files for its IPO, rising risks aren’t slowing the AI buildout – yet",
-      "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+      "title": "On theCUBE Pod: Stock market gets the jitters and Anthropic files IPO",
+      "url": "https://siliconangle.com/2026/11/02/ai-bubble-stock-market-thecubepod/",
       "source": "SiliconANGLE",
-      "date": "10/30",
-      "insight": "Anthropic IPO 신청, 올해 두 번째 대형 AI 상장 임박",
-      "takeaway": "Anthropic IPO 신청, 올해 두 번째 대형 AI 상장 임박",
+      "date": "11/02",
+      "insight": "AI 버블 우려 고조, Anthropic IPO·빅테크 실적 이슈 동시 부각",
+      "takeaway": "AI 버블 우려 고조, Anthropic IPO·빅테크 실적 이슈 동시 부각",
       "bullets": [
-        "Anthropic이 IPO 서류를 공식 제출",
-        "올해 두 번째 블록버스터 AI IPO로 예상",
-        "약 7만 단어 분량의 방대한 제출 서류"
-      ]
-    },
-    {
-      "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
-      "url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
-      "source": "SiliconANGLE",
-      "date": "10/30",
-      "insight": "Anthropic 투자설명서, 규모 확대에 따른 비경제성 리스크 경고",
-      "takeaway": "Anthropic 투자설명서, 규모 확대에 따른 비경제성 리스크 경고",
-      "bullets": [
-        "리스크 팩터만 88개, 93페이지에 달함",
-        "AI의 실존적 위협 등 이례적 리스크 공시",
-        "역대 최대 규모 IPO 가능성 속 규모의 비경제성 우려"
-      ]
-    },
-    {
-      "title": "AI architecture startup Dream launches with $17M in funding",
-      "url": "https://siliconangle.com/2026/10/29/ai-architecture-startup-dream-launches-with-17m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "10/30",
-      "insight": "a16z 주도로 AI 건물 설계 스타트업 Dream이 1700만 달러로 출범",
-      "takeaway": "a16z 주도로 AI 건물 설계 스타트업 Dream이 1700만 달러로 출범",
-      "bullets": [
-        "Dream Technologies, 1700만 달러 시드 투자로 공식 런칭",
-        "AI로 건물 디자인을 자동 생성하는 솔루션",
-        "Andreessen Horowitz가 시드 라운드를 리드"
+        "NYSE에서 AI 버블 우려 분위기 확산",
+        "Intel, Alphabet 등 빅테크 실적 이슈 언급",
+        "Anthropic IPO 파일링 동시 화제"
       ]
     }
   ]
