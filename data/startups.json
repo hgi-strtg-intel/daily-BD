@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-03 21:44",
+  "updated": "2026-11-04 21:56",
   "items": [
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "date": "11/03",
+      "insight": "AI 보안 붐 타고 Ballistic Ventures, 4.9억 달러 신규 펀드 조성",
+      "takeaway": "AI 보안 붐 타고 Ballistic Ventures, 4.9억 달러 신규 펀드 조성",
+      "bullets": [
+        "주력 펀드 3.6억 달러 + 별도 투자 수단 1.3억 달러 목표",
+        "사이버보안 전문 VC Ballistic Ventures 운용",
+        "AI 기반 사이버보안 시장 성장이 배경"
+      ]
+    },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
@@ -9,100 +22,87 @@
       "insight": "비기술 전문가도 AI 모델 훈련 가능, 창업 1년 만에 3억 달러 밸류",
       "takeaway": "비기술 전문가도 AI 모델 훈련 가능, 창업 1년 만에 3억 달러 밸류",
       "bullets": [
-        "Trajectory, 4500만 달러 시리즈 투자 유치",
-        "설립 1년 만에 기업가치 3억 달러 달성",
-        "비기술 전문가 대상 AI 훈련 접근성 제공"
+        "시리즈 펀딩으로 4,500만 달러 조달",
+        "설립 1년 만에 기업 가치 3억 달러 달성",
+        "비기술 전문가 대상 AI 모델 훈련 접근성 제고"
       ]
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "source": "TechCrunch",
-      "date": "10/29",
-      "insight": "OpenAI 후원 Thrive, 153억 달러에 ADT 인수해 홈보안 AI화 추진",
-      "takeaway": "OpenAI 후원 Thrive, 153억 달러에 ADT 인수해 홈보안 AI화 추진",
+      "title": "Sentra raises $150M to control what AI agents can reach in corporate data",
+      "url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/",
+      "source": "SiliconANGLE",
+      "date": "11/04",
+      "insight": "AI 에이전트의 기업 데이터 접근 제어 플랫폼, 1.5억 달러 유치",
+      "takeaway": "AI 에이전트의 기업 데이터 접근 제어 플랫폼, 1.5억 달러 유치",
       "bullets": [
-        "Thrive Holdings, ADT를 153억 달러에 인수",
-        "OpenAI가 Thrive Holdings를 후원",
-        "홈 보안 사업에 AI 도입 계획 발표"
+        "Sentra, 데이터 보안 플랫폼 확장 위해 1.5억 달러 조달",
+        "AI 에이전트가 접근 가능한 기업 데이터 범위 통제",
+        "기업 내부 데이터스토어 보안 관리 솔루션"
       ]
     },
     {
-      "title": "VCs bet $30M on Larridin’s ability to help enterprises demonstrate AI’s value for money",
-      "url": "https://siliconangle.com/2026/11/02/vcs-bet-30m-on-larridins-ability-to-help-enterprises-demonstrate-ais-value-for-money/",
+      "title": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation",
+      "url": "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
+      "source": "SiliconANGLE",
+      "date": "11/04",
+      "insight": "AI 에이전트로 SRE 자동화, 유니콘 등극하며 1.2억 달러 확보",
+      "takeaway": "AI 에이전트로 SRE 자동화, 유니콘 등극하며 1.2억 달러 확보",
+      "bullets": [
+        "Traversal, 1억 2,000만 달러 신규 펀딩 유치",
+        "기업 가치 10억 달러(유니콘) 달성",
+        "AI 에이전트 기반 사이트 신뢰성 엔지니어링 자동화"
+      ]
+    },
+    {
+      "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
+      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
+      "source": "SiliconANGLE",
+      "date": "11/04",
+      "insight": "AI 클라우드 인프라 업체, 주요 매출 이정표 달성 후 3.5억 달러 조달",
+      "takeaway": "AI 클라우드 인프라 업체, 주요 매출 이정표 달성 후 3.5억 달러 조달",
+      "bullets": [
+        "Applied Compute, 3.5억 달러 펀딩·기업가치 32.5억 달러",
+        "핵심 매출 이정표 달성 이후 투자 유치",
+        "AI 인프라 고속 성장 공급업체로 포지셔닝"
+      ]
+    },
+    {
+      "title": "Block shares rise after third-quarter beat and a third straight guidance raise",
+      "url": "https://siliconangle.com/2026/11/03/block-shares-rise-after-third-quarter-beat-and-a-third-straight-guidance-raise/",
       "source": "SiliconANGLE",
       "date": "11/03",
-      "insight": "AI 투자 ROI 입증 수요 급증, Larridin 3000만 달러 VC 유치",
-      "takeaway": "AI 투자 ROI 입증 수요 급증, Larridin 3000만 달러 VC 유치",
+      "insight": "Block, 3분기 어닝 서프라이즈·3연속 가이던스 상향으로 주가 7% 급등",
+      "takeaway": "Block, 3분기 어닝 서프라이즈·3연속 가이던스 상향으로 주가 7% 급등",
       "bullets": [
-        "Larridin, 3000만 달러 투자 유치 성공",
-        "기업 AI 투자 대비 가치 증명 솔루션 제공",
-        "임원진의 AI 지출 효과 검증 수요 타깃"
+        "3분기 실적 시장 기대치 초과 달성",
+        "연간 가이던스 3분기 연속 상향 조정",
+        "장 외 거래에서 주가 7% 이상 상승"
       ]
     },
     {
-      "title": "Robotics startup Tutor Intelligence nabs $75M investment",
-      "url": "https://siliconangle.com/2026/11/02/robotics-startup-tutor-intelligence-nabs-75m-investment/",
+      "title": "Generative media inference startup fal raises $1.3B at a $16B valuation",
+      "url": "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/",
       "source": "SiliconANGLE",
       "date": "11/03",
-      "insight": "a16z 주도 7500만 달러 투자, 창고 자동화 로보틱스 성장세 주목",
-      "takeaway": "a16z 주도 7500만 달러 투자, 창고 자동화 로보틱스 성장세 주목",
+      "insight": "생성형 미디어 추론 스타트업 fal, 160억 달러 밸류로 13억 달러 조달",
+      "takeaway": "생성형 미디어 추론 스타트업 fal, 160억 달러 밸류로 13억 달러 조달",
       "bullets": [
-        "Tutor Intelligence, 7500만 달러 Series A 유치",
-        "Andreessen Horowitz가 투자 리드",
-        "Union Square Ventures 등 공동 참여"
+        "fal, 13억 달러 신규 펀딩 유치 발표",
+        "기업 가치 160억 달러로 평가",
+        "조달 자금은 컴퓨팅 파워 확충에 사용 예정"
       ]
     },
     {
-      "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
-      "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+      "title": "Groundcover turns its Wand acquisition into a Kubernetes rightsizing beta",
+      "url": "https://siliconangle.com/2026/11/03/groundcover-turns-its-wand-acquisition-into-a-kubernetes-right-sizing-beta/",
       "source": "SiliconANGLE",
-      "date": "11/02",
-      "insight": "Anthropic 분기 매출 17억 달러, IPO 앞두고 손실도 동반 확대",
-      "takeaway": "Anthropic 분기 매출 17억 달러, IPO 앞두고 손실도 동반 확대",
+      "date": "11/03",
+      "insight": "groundcover, Wand 인수 활용해 Kubernetes 자원 자동 최적화 베타 출시",
+      "takeaway": "groundcover, Wand 인수 활용해 Kubernetes 자원 자동 최적화 베타 출시",
       "bullets": [
-        "Anthropic 분기 매출 17억 달러 기록",
-        "IPO 앞두고 S-1 업데이트 파일링 공개",
-        "매출 성장에도 불구 손실 규모도 증가"
-      ]
-    },
-    {
-      "title": "42AI launches with $62.5M to predict how traders act when markets turn volatile",
-      "url": "https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/",
-      "source": "SiliconANGLE",
-      "date": "11/02",
-      "insight": "이스라엘 스타트업 42AI, 트레이더 행동 예측 AI로 6250만 달러 론칭",
-      "takeaway": "이스라엘 스타트업 42AI, 트레이더 행동 예측 AI로 6250만 달러 론칭",
-      "bullets": [
-        "42AI, 6250만 달러 투자로 공식 런칭",
-        "'행동 세계 모델' 구축이 핵심 기술",
-        "브로커리지 대상 시장 변동성 행동 예측 제공"
-      ]
-    },
-    {
-      "title": "Palantir beats Q3 forecasts as US commercial revenue overtakes government for first time",
-      "url": "https://siliconangle.com/2026/11/02/palantir-beats-q3-forecasts-as-us-commercial-revenue-overtakes-government-for-first-time/",
-      "source": "SiliconANGLE",
-      "date": "11/02",
-      "insight": "Palantir, 미국 상업 매출이 처음으로 정부 매출 초과하며 성장 전환",
-      "takeaway": "Palantir, 미국 상업 매출이 처음으로 정부 매출 초과하며 성장 전환",
-      "bullets": [
-        "Palantir Q3 실적 시장 예상치 상회",
-        "미국 상업 매출이 정부 매출 첫 추월",
-        "연간 매출 가이던스 세 번째 상향 조정"
-      ]
-    },
-    {
-      "title": "On theCUBE Pod: Stock market gets the jitters and Anthropic files IPO",
-      "url": "https://siliconangle.com/2026/11/02/ai-bubble-stock-market-thecubepod/",
-      "source": "SiliconANGLE",
-      "date": "11/02",
-      "insight": "AI 버블 우려 고조, Anthropic IPO·빅테크 실적 이슈 동시 부각",
-      "takeaway": "AI 버블 우려 고조, Anthropic IPO·빅테크 실적 이슈 동시 부각",
-      "bullets": [
-        "NYSE에서 AI 버블 우려 분위기 확산",
-        "Intel, Alphabet 등 빅테크 실적 이슈 언급",
-        "Anthropic IPO 파일링 동시 화제"
+        "Autonomous Infrastructure 기능을 플랫폼에 베타 추가",
+        "Kubernetes 워크로드 CPU·메모리 요청 자동 조정",
+        "Wand 인수를 기반으로 기능 구현"
       ]
     }
   ]
