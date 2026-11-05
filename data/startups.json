@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-04 21:56",
+  "updated": "2026-11-05 22:06",
   "items": [
     {
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "source": "TechCrunch",
       "date": "11/03",
-      "insight": "AI 보안 붐 타고 Ballistic Ventures, 4.9억 달러 신규 펀드 조성",
-      "takeaway": "AI 보안 붐 타고 Ballistic Ventures, 4.9억 달러 신규 펀드 조성",
+      "insight": "AI 보안 붐을 타고 Ballistic Ventures가 총 4.9억 달러 신규 펀드 조성 추진",
+      "takeaway": "AI 보안 붐을 타고 Ballistic Ventures가 총 4.9억 달러 신규 펀드 조성 추진",
       "bullets": [
-        "주력 펀드 3.6억 달러 + 별도 투자 수단 1.3억 달러 목표",
-        "사이버보안 전문 VC Ballistic Ventures 운용",
-        "AI 기반 사이버보안 시장 성장이 배경"
+        "플래그십 펀드 3.6억 달러 목표",
+        "별도 투자 차량으로 1.3억 달러 추가 모집",
+        "AI 기반 사이버보안 성장세가 배경"
       ]
     },
     {
@@ -19,12 +19,51 @@
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch",
       "date": "11/02",
-      "insight": "비기술 전문가도 AI 모델 훈련 가능, 창업 1년 만에 3억 달러 밸류",
-      "takeaway": "비기술 전문가도 AI 모델 훈련 가능, 창업 1년 만에 3억 달러 밸류",
+      "insight": "비기술 전문가도 AI 모델 훈련 가능하게 해 창업 1년 만에 3억 달러 밸류 달성",
+      "takeaway": "비기술 전문가도 AI 모델 훈련 가능하게 해 창업 1년 만에 3억 달러 밸류 달성",
       "bullets": [
-        "시리즈 펀딩으로 4,500만 달러 조달",
-        "설립 1년 만에 기업 가치 3억 달러 달성",
-        "비기술 전문가 대상 AI 모델 훈련 접근성 제고"
+        "시리즈 라운드서 4,500만 달러 조달",
+        "창업 1년 만에 기업가치 3억 달러",
+        "비기술 전문가 대상 AI 훈련 접근성 제공"
+      ]
+    },
+    {
+      "title": "Ocient raises $100 million as agentic AI drives growth in large-scale analytics",
+      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+      "source": "SiliconANGLE",
+      "date": "11/05",
+      "insight": "에이전틱 AI가 대규모 분석 수요 견인, Ocient 시리즈C 1억 달러 유치",
+      "takeaway": "에이전틱 AI가 대규모 분석 수요 견인, Ocient 시리즈C 1억 달러 유치",
+      "bullets": [
+        "고속 데이터 분석 플랫폼 운영사",
+        "시리즈C로 1억 달러 조달 완료",
+        "에이전틱 AI 분석 사업 확장 목적"
+      ]
+    },
+    {
+      "title": "Phaze raises $8.75M to give AI agents remote access to powerful workstations",
+      "url": "https://siliconangle.com/2026/11/04/phaze-raises-8-75m-to-give-ai-agents-remote-access-to-powerful-workstations/",
+      "source": "SiliconANGLE",
+      "date": "11/05",
+      "insight": "AI 에이전트에 강력한 워크스테이션 원격 접근권 부여, 875만 달러 시드 유치",
+      "takeaway": "AI 에이전트에 강력한 워크스테이션 원격 접근권 부여, 875만 달러 시드 유치",
+      "bullets": [
+        "AI 에이전트용 원격 컴퓨터 접근 제공",
+        "875만 달러 초기 투자 유치",
+        "엔터프라이즈 AI 에이전트 인프라 타깃"
+      ]
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+      "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
+      "source": "SiliconANGLE",
+      "date": "11/04",
+      "insight": "Meta가 멀티 에이전트 AI 코딩 스타트업 Conductor 인수, 조건 비공개",
+      "takeaway": "Meta가 멀티 에이전트 AI 코딩 스타트업 Conductor 인수, 조건 비공개",
+      "bullets": [
+        "Meta가 AI 코딩 스타트업 Conductor 인수",
+        "Conductor는 복수 코딩 에이전트 동시 실행",
+        "인수 금액 등 세부 조건은 미공개"
       ]
     },
     {
@@ -32,12 +71,12 @@
       "url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/",
       "source": "SiliconANGLE",
       "date": "11/04",
-      "insight": "AI 에이전트의 기업 데이터 접근 제어 플랫폼, 1.5억 달러 유치",
-      "takeaway": "AI 에이전트의 기업 데이터 접근 제어 플랫폼, 1.5억 달러 유치",
+      "insight": "AI 에이전트의 기업 데이터 접근 통제 전문 Sentra, 1.5억 달러 대규모 조달",
+      "takeaway": "AI 에이전트의 기업 데이터 접근 통제 전문 Sentra, 1.5억 달러 대규모 조달",
       "bullets": [
-        "Sentra, 데이터 보안 플랫폼 확장 위해 1.5억 달러 조달",
-        "AI 에이전트가 접근 가능한 기업 데이터 범위 통제",
-        "기업 내부 데이터스토어 보안 관리 솔루션"
+        "AI 에이전트 데이터 접근 제어 플랫폼",
+        "신규 라운드서 1억 5,000만 달러 확보",
+        "기업 내부 데이터 보안 확장 목적"
       ]
     },
     {
@@ -45,64 +84,12 @@
       "url": "https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/",
       "source": "SiliconANGLE",
       "date": "11/04",
-      "insight": "AI 에이전트로 SRE 자동화, 유니콘 등극하며 1.2억 달러 확보",
-      "takeaway": "AI 에이전트로 SRE 자동화, 유니콘 등극하며 1.2억 달러 확보",
+      "insight": "SRE 자동화 스타트업 Traversal, 1.2억 달러 조달로 유니콘 반열 진입",
+      "takeaway": "SRE 자동화 스타트업 Traversal, 1.2억 달러 조달로 유니콘 반열 진입",
       "bullets": [
-        "Traversal, 1억 2,000만 달러 신규 펀딩 유치",
-        "기업 가치 10억 달러(유니콘) 달성",
-        "AI 에이전트 기반 사이트 신뢰성 엔지니어링 자동화"
-      ]
-    },
-    {
-      "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
-      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
-      "source": "SiliconANGLE",
-      "date": "11/04",
-      "insight": "AI 클라우드 인프라 업체, 주요 매출 이정표 달성 후 3.5억 달러 조달",
-      "takeaway": "AI 클라우드 인프라 업체, 주요 매출 이정표 달성 후 3.5억 달러 조달",
-      "bullets": [
-        "Applied Compute, 3.5억 달러 펀딩·기업가치 32.5억 달러",
-        "핵심 매출 이정표 달성 이후 투자 유치",
-        "AI 인프라 고속 성장 공급업체로 포지셔닝"
-      ]
-    },
-    {
-      "title": "Block shares rise after third-quarter beat and a third straight guidance raise",
-      "url": "https://siliconangle.com/2026/11/03/block-shares-rise-after-third-quarter-beat-and-a-third-straight-guidance-raise/",
-      "source": "SiliconANGLE",
-      "date": "11/03",
-      "insight": "Block, 3분기 어닝 서프라이즈·3연속 가이던스 상향으로 주가 7% 급등",
-      "takeaway": "Block, 3분기 어닝 서프라이즈·3연속 가이던스 상향으로 주가 7% 급등",
-      "bullets": [
-        "3분기 실적 시장 기대치 초과 달성",
-        "연간 가이던스 3분기 연속 상향 조정",
-        "장 외 거래에서 주가 7% 이상 상승"
-      ]
-    },
-    {
-      "title": "Generative media inference startup fal raises $1.3B at a $16B valuation",
-      "url": "https://siliconangle.com/2026/11/03/generative-media-inference-startup-fal-raises-1-3b-at-a-16b-valuation/",
-      "source": "SiliconANGLE",
-      "date": "11/03",
-      "insight": "생성형 미디어 추론 스타트업 fal, 160억 달러 밸류로 13억 달러 조달",
-      "takeaway": "생성형 미디어 추론 스타트업 fal, 160억 달러 밸류로 13억 달러 조달",
-      "bullets": [
-        "fal, 13억 달러 신규 펀딩 유치 발표",
-        "기업 가치 160억 달러로 평가",
-        "조달 자금은 컴퓨팅 파워 확충에 사용 예정"
-      ]
-    },
-    {
-      "title": "Groundcover turns its Wand acquisition into a Kubernetes rightsizing beta",
-      "url": "https://siliconangle.com/2026/11/03/groundcover-turns-its-wand-acquisition-into-a-kubernetes-right-sizing-beta/",
-      "source": "SiliconANGLE",
-      "date": "11/03",
-      "insight": "groundcover, Wand 인수 활용해 Kubernetes 자원 자동 최적화 베타 출시",
-      "takeaway": "groundcover, Wand 인수 활용해 Kubernetes 자원 자동 최적화 베타 출시",
-      "bullets": [
-        "Autonomous Infrastructure 기능을 플랫폼에 베타 추가",
-        "Kubernetes 워크로드 CPU·메모리 요청 자동 조정",
-        "Wand 인수를 기반으로 기능 구현"
+        "AI 에이전트로 사이트 신뢰성 공학 자동화",
+        "1억 2,000만 달러 신규 자금 조달",
+        "기업가치 10억 달러(유니콘) 달성"
       ]
     }
   ]
