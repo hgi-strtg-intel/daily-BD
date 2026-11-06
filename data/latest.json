@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-11-05",
-  "updated": "2026-11-05 22:06",
-  "fx": "환율 2026-11-05 · 시장환율   1 USD = ₩1,344.11   |   1 USD = 18,049.00 IDR   |   1 IDR = ₩0.07447",
+  "asOf": "2026-11-06",
+  "updated": "2026-11-06 21:54",
+  "fx": "환율 2026-11-06 · 시장환율   1 USD = ₩1,359.38   |   1 USD = 18,103.00 IDR   |   1 IDR = ₩0.07509",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "차바이오텍 주식 대량보유상황 보고서(일반) 제출",
-      "impact": "주요 주주 지분구조 변동 가능성으로 당사 보유 지분 희석·경영권 변화 여부 모니터링 필요",
+      "company": "루멘",
+      "text": "루멘, Q3 2026 10-Q를 SEC에 제출.",
+      "impact": "IFP·Loss Ratio·EBITDA 등 핵심 투자 판단 지표를 공식 수치로 검증 가능.",
       "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000509"
+      "url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000068/lmnd-20260930.htm"
     },
     {
       "company": "루멘",
-      "text": "루멘 Q3 순손실이 컨센서스를 하회하고 매출 성장이 가속화됨",
-      "impact": "적자 축소 및 매출 가속은 EBITDA 흑자전환 시점과 투자 매력도 판단에 직접적 참고 지표",
+      "text": "루멘 Q3 2026 IFP 성장률 33.9% 기록.",
+      "impact": "고성장 지속 여부가 신규 투자 적정 밸류에이션 판단의 핵심 변수로 부상.",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObENnUjA0MkJtMi11NlhvMmtCS1h5NHBnZVBPbnhUWkdUUFhULXFGOGc3LWM1bUM3eWZ1dGMtRVBjYTk3M05SSU5lY2dHVmp1dkVwc3RkeV9hT2h3LXpGc0U3MTk0TnUyN1ZMTHVUSGJlNElXSFlCeElWY0RfY3pUZHI1UW5tbkNZeVBMRFZtbFRxWEc1azVsX0s4RGIyQlZybHdiYnpNa3dtcEU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKSm44NXBIQU9VelE4VUNyMmI4czRtNjg1SVpwTnB3MHRNalB5cDRQMWdVMThhQlY0amhxcjhwRll6OGlldzl2TWNqOUFkZTJwU254VGxyVmJoV21xUFctd3dhNGRMQQ?oc=5"
     }
   ],
   "companies": [
@@ -23,18 +23,18 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "대량보유 보고 외 사업 변동 없음",
+      "g": "C",
+      "event": "테마성 주가 반응, 사업 변화 미확인",
       "tags": [
-        "+5.96%",
+        "+0.00%",
         "당사 투자"
       ],
       "priceText": "₩7,290",
-      "openText": "₩7,370",
-      "highText": "₩7,690",
-      "lowText": "₩7,150",
-      "prevCloseText": "₩6,880",
-      "changeText": "+₩410",
+      "openText": "₩6,990",
+      "highText": "₩7,490",
+      "lowText": "₩6,790",
+      "prevCloseText": "₩7,290",
+      "changeText": "+₩0",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
@@ -54,7 +54,7 @@
         ],
         [
           "전일대비",
-          "+5.96%",
+          "+0.00%",
           null
         ],
         [
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "53.87만 · 2.69x",
+          "53.53만 · 2.44x",
           null
         ],
         [
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "대량보유보고서 제출은 주요 주주 지분구조 변동 신호로, 경영권·지분 희석 여부 확인 필요",
-        "테마성 주가 상승은 CGT/CDMO 사업 진척과 무관한 단기 이슈로 판단"
+        "제대혈·미국 선거 테마 연동 단기 등락으로, CGT/CDMO 사업 본질 변화와 무관",
+        "핵심 모니터링 축(기술 진척·자금조달) 관련 신규 공시 부재로 현 국면 추적 지속 필요"
       ],
       "watch": [
-        "대량보유 보고 주체 및 지분 변동 내용",
-        "CGT/CDMO 임상·계약 공식 발표 여부",
-        "유상증자·CB 등 자금조달 공시 여부"
+        "CGT/CDMO 임상·계약 신규 공시 여부",
+        "유상증자·CB 등 자금조달 공시 여부",
+        "지분구조 변동 공시 여부"
       ],
       "spark": [
-        {
-          "date": "8/4",
-          "close": 9500.0
-        },
         {
           "date": "8/5",
           "close": 9110.0
@@ -349,19 +345,17 @@
         {
           "date": "11/5",
           "close": 7290.0
+        },
+        {
+          "date": "11/6",
+          "close": 7290.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 11/5 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000509",
+      "exchangeLine": "KRX · 11/6 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kOTZ5NTZrc3R4WURBd3NFTm5JOUZkeXRKMUdDUkxTcDdQNzJwT1drcHFnM2Q3UkZlT3RETlF5X1FGTm9UMlM3dk5taVVRb1VJdHc?oc=5",
       "sources": [
-        {
-          "title": "주식등의대량보유상황보고서(일반)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000509",
-          "source": "DART",
-          "date": "20261029"
-        },
         {
           "title": "특징주, 차바이오텍-제대혈 테마 상승세에 6.65% ↑",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kOTZ5NTZrc3R4WURBd3NFTm5JOUZkeXRKMUdDUkxTcDdQNzJwT1drcHFnM2Q3UkZlT3RETlF5X1FGTm9UMlM3dk5taVVRb1VJdHc?oc=5",
@@ -382,20 +376,6 @@
         }
       ],
       "archive30d": [
-        {
-          "summary": "[기재정정]타인에대한담보제공결정",
-          "impact": "-",
-          "level": "low",
-          "date": "20260930",
-          "collected_at": "2026-10-06"
-        },
-        {
-          "summary": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
-          "impact": "-",
-          "level": "low",
-          "date": "10/06",
-          "collected_at": "2026-10-06"
-        },
         {
           "summary": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍",
           "impact": "-",
@@ -748,20 +728,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "+0.50%",
         "당사 투자"
       ],
-      "priceText": "₩4,970",
-      "openText": "₩5,070",
-      "highText": "₩5,080",
-      "lowText": "₩4,970",
+      "priceText": "₩4,995",
+      "openText": "₩4,900",
+      "highText": "₩4,995",
+      "lowText": "₩4,630",
       "prevCloseText": "₩4,970",
-      "changeText": "+₩0",
+      "changeText": "+₩25",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,970",
+          "₩4,995",
           null
         ],
         [
@@ -776,27 +756,27 @@
         ],
         [
           "전일대비",
-          "+0.00%",
+          "+0.50%",
           null
         ],
         [
           "전주대비",
-          "-1.78%",
+          "-1.28%",
           null
         ],
         [
           "거래량(20일比)",
-          "7.52천 · 1.12x",
+          "4.30천 · 0.63x",
           null
         ],
         [
           "시가총액",
-          "904억",
+          "909억",
           null
         ],
         [
           "52주 고점대비",
-          "-68.36%",
+          "-68.20%",
           null
         ]
       ],
@@ -815,14 +795,10 @@
       ],
       "watch": [
         "분기 실적(매출·영업손익) 공시 여부",
-        "신규 고객사·파트너십 체결 여부",
-        "사업모델 전환 관련 공시 여부"
+        "신규 고객사·파트너십 계약 발표 여부",
+        "헬스케어 사업 전환 진척 공시 여부"
       ],
       "spark": [
-        {
-          "date": "8/4",
-          "close": 4685.0
-        },
         {
           "date": "8/5",
           "close": 4710.0
@@ -1070,11 +1046,15 @@
         {
           "date": "11/5",
           "close": 4970.0
+        },
+        {
+          "date": "11/6",
+          "close": 4995.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 11/5 종가",
+      "exchangeLine": "KRX · 11/6 종가",
       "sourceUrl": null,
       "sources": [],
       "archive30d": [
@@ -1120,23 +1100,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "Q3 실적 발표, 적자 축소·매출 성장",
+      "event": "IFP 고성장·전국 확장으로 투자 매력도 부상",
       "tags": [
-        "+11.03%",
+        "-9.63%",
         "벤치마크"
       ],
-      "priceText": "$45.90",
-      "openText": "$42.62",
-      "highText": "$46.18",
-      "lowText": "$42.48",
-      "prevCloseText": "$41.34",
-      "changeText": "+$4.56",
+      "priceText": "$41.48",
+      "openText": "$45.00",
+      "highText": "$46.91",
+      "lowText": "$40.38",
+      "prevCloseText": "$45.90",
+      "changeText": "-$4.42",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$45.90",
-          "₩61,695"
+          "$41.48",
+          "₩56,387"
         ],
         [
           "취득가",
@@ -1150,27 +1130,27 @@
         ],
         [
           "전일대비",
-          "+11.03%",
+          "-9.63%",
           null
         ],
         [
           "전주대비",
-          "+6.89%",
+          "-3.40%",
           null
         ],
         [
           "거래량(20일比)",
-          "205.41만 · 1.80x",
+          "285.79만 · 2.40x",
           null
         ],
         [
           "시가총액",
-          "$3.55B",
-          "4.77조"
+          "$3.21B",
+          "4.36조"
         ],
         [
           "52주 고점대비",
-          "-54.05%",
+          "-58.48%",
           null
         ]
       ],
@@ -1185,19 +1165,15 @@
         }
       ],
       "events": [
-        "컨센서스 대비 적자 축소 및 매출 성장 가속화는 EBITDA 흑자전환 경로 가시성을 높이는 긍정 신호",
-        "흑자전환 시점과 IFP·Loss Ratio 개선 속도가 투자 검토의 핵심 변수로 부상"
+        "Q3 2026 IFP 성장률 33.9% 확인 및 임차인보험 전국 50개 주 확대로 구조적 성장 궤도 진입 여부 판단 가능",
+        "10-Q 제출로 Loss Ratio·EBITDA 등 핵심 지표 검증 가능해져 신규 투자 검토 근거 마련"
       ],
       "watch": [
-        "Q3 IFP 성장률 및 Loss Ratio 수치 확인",
-        "EBITDA 흑자전환 가이던스 제시 여부",
-        "벤치마크 대비 디지털 손보 사업 모델 시사점"
+        "10-Q 기준 Loss Ratio·CR 수준 확인",
+        "EBITDA 흑자전환 시점 추정 가능 여부",
+        "전국 확장에 따른 IFP 성장 지속성 검토"
       ],
       "spark": [
-        {
-          "date": "8/7",
-          "close": 52.94
-        },
         {
           "date": "8/10",
           "close": 52.68
@@ -1445,13 +1421,23 @@
         {
           "date": "11/4",
           "close": 45.9
+        },
+        {
+          "date": "11/5",
+          "close": 41.48
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 11/4 종가 (ET)",
-      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000064/lmnd-20261105.htm",
+      "exchangeLine": "NYSE · 11/5 종가 (ET)",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000068/lmnd-20260930.htm",
       "sources": [
+        {
+          "title": "10-Q 제출",
+          "url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000068/lmnd-20260930.htm",
+          "source": "SEC",
+          "date": "2026-11-05"
+        },
         {
           "title": "8-K 제출",
           "url": "https://www.sec.gov/Archives/edgar/data/1691421/000169142126000064/lmnd-20261105.htm",
@@ -1459,53 +1445,19 @@
           "date": "2026-11-05"
         },
         {
-          "title": "루멘 Q3 loss smaller than consensus as revenue growth accelerates (루멘:NYSE)",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObENnUjA0MkJtMi11NlhvMmtCS1h5NHBnZVBPbnhUWkdUUFhULXFGOGc3LWM1bUM3eWZ1dGMtRVBjYTk3M05SSU5lY2dHVmp1dkVwc3RkeV9hT2h3LXpGc0U3MTk0TnUyN1ZMTHVUSGJlNElXSFlCeElWY0RfY3pUZHI1UW5tbkNZeVBMRFZtbFRxWEc1azVsX0s4RGIyQlZybHdiYnpNa3dtcEU?oc=5",
-          "source": "Seeking Alpha",
-          "date": "11/05"
+          "title": "루멘 Q3 2026 IFP Growth Reaches 33.9%",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKSm44NXBIQU9VelE4VUNyMmI4czRtNjg1SVpwTnB3MHRNalB5cDRQMWdVMThhQlY0amhxcjhwRll6OGlldzl2TWNqOUFkZTJwU254VGxyVmJoV21xUFctd3dhNGRMQQ?oc=5",
+          "source": "TradingKey",
+          "date": "11/06"
         },
         {
-          "title": "Earnings Flash (루멘) 루멘 Posts Q3 Loss $0.56 a Share, vs. FactSet Est of $0.60 Loss",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUtvOUlENHlQX0RhTVRyeWxWWmg1cGZnamdaVTF1ZGEyQWFRdDVkMlY0N2theWtaLXV6MzJnR21jbHJZT3pKaXFpejVfY1NPaHhXblBDbXNNWjBzbGphYXE0UGlNd0JxcEc1RHRUYjhuS2MwS3V3SnZSblVNbmFOX0FEUWlWckt6dUVCN0lyTWZyVGlNWGVjWnpGaFpwMHl6c0pSWWJtb3BsaVZWSzNGWWhrOW5heEhrRmFDRHlUUDNMUThwTWI2cGtCUUktNlV6MUE?oc=5",
-          "source": "www.marketscreener.com",
-          "date": "11/05"
-        },
-        {
-          "title": "루멘 : Shareholder letter (루멘 Shareholder Letter Q3 2026)",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2huQlVWODJUb2drUmFpN1JSaW1kM2JsNVdLVGU1bUZyTEwwUmhZM19ybDZWQXJlaFBCWWRRc2FKX3czTFk2cTZKcW9LQkRyRkY3OWlYOS05WTFzMjNsTV8tT3lXRFYzd293Y2J6cG82akVtRHhvN2IybHdtRGdIQ0FLVFNsTmc3RlU0SUxCdng1am5yYmcwUzRpdlp2NFBvLXpHLWtRc0g4bnJlTDhSQWFn?oc=5",
-          "source": "www.marketscreener.com",
-          "date": "11/05"
+          "title": "루멘 Takes Renters Insurance Nationwide After Minnesota Launch",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHVHdnlCamp3Z0ZvZWNtemtWRHlKWWxMbC14UVVQYlE5NERCR1lkT29yNklSTFNRaHlRVnBSa2JpT3YxMFNJaDF4Qk1YZmtyaXRhbXREcm84dFY2TEV1dFZvLUhtT1BZR2xsUzJNQXdMRU9CSG9KUXpyYXF5MkxiWllWSWVGcnR4V3FnNVNHWHY2TDQwNHNj?oc=5",
+          "source": "Serrari Group",
+          "date": "11/06"
         }
       ],
       "archive30d": [
-        {
-          "summary": "루멘 Oct 2026 45.000 call (루멘261002C00045000) stock histo",
-          "impact": "-",
-          "level": "low",
-          "date": "10/05",
-          "collected_at": "2026-10-06"
-        },
-        {
-          "summary": "루멘 Oct 2026 41.000 put (루멘261009P00041000) Stock Price,",
-          "impact": "-",
-          "level": "low",
-          "date": "10/05",
-          "collected_at": "2026-10-06"
-        },
-        {
-          "summary": "루멘 (루멘) Launches Renters Insurance in Hawaii with Compe",
-          "impact": "-",
-          "level": "low",
-          "date": "10/06",
-          "collected_at": "2026-10-06"
-        },
-        {
-          "summary": "Hawaii renters can now get affordable 루멘 insurance star",
-          "impact": "-",
-          "level": "low",
-          "date": "10/06",
-          "collected_at": "2026-10-06"
-        },
         {
           "summary": "루멘 Maintained by Morgan Stanley -- Price Target Lowers ",
           "impact": "-",
@@ -1778,6 +1730,27 @@
           "level": "mid",
           "date": "11/05",
           "collected_at": "2026-11-05"
+        },
+        {
+          "summary": "루멘, Q3 2026 10-Q를 SEC에 제출.",
+          "impact": "IFP·Loss Ratio·EBITDA 등 핵심 투자 판단 지표를 공식 수치로 검증 가능.",
+          "level": "mid",
+          "date": "11/05",
+          "collected_at": "2026-11-06"
+        },
+        {
+          "summary": "루멘 Q3 2026 IFP 성장률 33.9% 기록.",
+          "impact": "고성장 지속 여부가 신규 투자 적정 밸류에이션 판단의 핵심 변수로 부상.",
+          "level": "mid",
+          "date": "11/06",
+          "collected_at": "2026-11-06"
+        },
+        {
+          "summary": "루멘, 임차인보험을 미네소타 론칭에 이어 전국 50개 주로 확대.",
+          "impact": "IFP 확장 기반 확충으로 디지털 손보 사업모델 벤치마킹 가치 상승.",
+          "level": "mid",
+          "date": "11/06",
+          "collected_at": "2026-11-06"
         }
       ]
     },
@@ -1788,21 +1761,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+1.65%",
+        "-2.44%",
         "자회사"
       ],
-      "priceText": "Rp615",
-      "openText": "Rp615",
-      "highText": "Rp640",
-      "lowText": "Rp570",
-      "prevCloseText": "Rp605",
-      "changeText": "+Rp10",
+      "priceText": "Rp600",
+      "openText": "Rp630",
+      "highText": "Rp630",
+      "lowText": "Rp580",
+      "prevCloseText": "Rp615",
+      "changeText": "-Rp15",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp615",
-          "₩45.8"
+          "Rp600",
+          "₩45.1"
         ],
         [
           "취득가",
@@ -1811,32 +1784,32 @@
         ],
         [
           "취득가대비",
-          "-5.93%",
+          "-8.23%",
           null
         ],
         [
           "전일대비",
-          "+1.65%",
+          "-2.44%",
           null
         ],
         [
           "전주대비",
-          "+2.50%",
+          "+0.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "6.10천 · 0.16x",
+          "2.40천 · 0.06x",
           null
         ],
         [
           "시가총액",
           "Rp1.8조",
-          "1,374억"
+          "1,352억"
         ],
         [
           "52주 고점대비",
-          "-35.00%",
+          "-36.58%",
           null
         ]
       ],
@@ -1854,15 +1827,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 신규 지침 발표 여부",
-        "RBC 비율 등 자본적정성 공시 여부",
-        "PIKK 개정 관련 추가 동향"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "분기 RBC 비율 보고 여부",
+        "추가 지분 변동 공시 여부"
       ],
       "spark": [
-        {
-          "date": "8/7",
-          "close": 650.0
-        },
         {
           "date": "8/10",
           "close": 630.0
@@ -2110,11 +2079,15 @@
         {
           "date": "11/5",
           "close": 615.0
+        },
+        {
+          "date": "11/6",
+          "close": 600.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 11/5 종가 (WIB)",
+      "exchangeLine": "IDX · 11/6 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -4003,6 +3976,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-11-05 22:07"
+    "updated": "2026-11-06 21:55"
   }
 }

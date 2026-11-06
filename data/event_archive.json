@@ -1,20 +1,6 @@
 {
   "085660": [
     {
-      "summary": "[기재정정]타인에대한담보제공결정",
-      "impact": "-",
-      "level": "low",
-      "date": "20260930",
-      "collected_at": "2026-10-06"
-    },
-    {
-      "summary": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
-      "impact": "-",
-      "level": "low",
-      "date": "10/06",
-      "collected_at": "2026-10-06"
-    },
-    {
       "summary": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍",
       "impact": "-",
       "level": "low",
@@ -360,34 +346,6 @@
   ],
   "LUMN": [
     {
-      "summary": "루멘 Oct 2026 45.000 call (루멘261002C00045000) stock histo",
-      "impact": "-",
-      "level": "low",
-      "date": "10/05",
-      "collected_at": "2026-10-06"
-    },
-    {
-      "summary": "루멘 Oct 2026 41.000 put (루멘261009P00041000) Stock Price,",
-      "impact": "-",
-      "level": "low",
-      "date": "10/05",
-      "collected_at": "2026-10-06"
-    },
-    {
-      "summary": "루멘 (루멘) Launches Renters Insurance in Hawaii with Compe",
-      "impact": "-",
-      "level": "low",
-      "date": "10/06",
-      "collected_at": "2026-10-06"
-    },
-    {
-      "summary": "Hawaii renters can now get affordable 루멘 insurance star",
-      "impact": "-",
-      "level": "low",
-      "date": "10/06",
-      "collected_at": "2026-10-06"
-    },
-    {
       "summary": "루멘 Maintained by Morgan Stanley -- Price Target Lowers ",
       "impact": "-",
       "level": "low",
@@ -659,6 +617,27 @@
       "level": "mid",
       "date": "11/05",
       "collected_at": "2026-11-05"
+    },
+    {
+      "summary": "루멘, Q3 2026 10-Q를 SEC에 제출.",
+      "impact": "IFP·Loss Ratio·EBITDA 등 핵심 투자 판단 지표를 공식 수치로 검증 가능.",
+      "level": "mid",
+      "date": "11/05",
+      "collected_at": "2026-11-06"
+    },
+    {
+      "summary": "루멘 Q3 2026 IFP 성장률 33.9% 기록.",
+      "impact": "고성장 지속 여부가 신규 투자 적정 밸류에이션 판단의 핵심 변수로 부상.",
+      "level": "mid",
+      "date": "11/06",
+      "collected_at": "2026-11-06"
+    },
+    {
+      "summary": "루멘, 임차인보험을 미네소타 론칭에 이어 전국 50개 주로 확대.",
+      "impact": "IFP 확장 기반 확충으로 디지털 손보 사업모델 벤치마킹 가치 상승.",
+      "level": "mid",
+      "date": "11/06",
+      "collected_at": "2026-11-06"
     }
   ],
   "LPGI": [],
