@@ -1,43 +1,30 @@
 {
-  "updated": "2026-11-06 21:54",
+  "updated": "2026-11-09 22:49",
   "items": [
     {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "source": "TechCrunch",
-      "date": "11/05",
-      "insight": "전직 비밀경호국 요원이 2.5억 달러 사이버보안 펀드 조성",
-      "takeaway": "전직 비밀경호국 요원이 2.5억 달러 사이버보안 펀드 조성",
+      "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+      "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+      "source": "SiliconANGLE",
+      "date": "11/06",
+      "insight": "OpenAI, 기업가치 1,250조 원 돌파 임박—AI 투자 과열 지속",
+      "takeaway": "OpenAI, 기업가치 1,250조 원 돌파 임박—AI 투자 과열 지속",
       "bullets": [
-        "Brightmind Partners 2호 펀드 약 2.5억 달러 목표",
-        "설립자는 전직 비밀경호국 요원 겸 Home Depot CISO",
-        "해커를 전향시킨 이력의 이색적 보안 전문가"
+        "OpenAI, 신규 110억 달러 펀딩 유치 보도",
+        "라운드 규모 수 주 내 거의 두 배로 확대 가능",
+        "기업가치 1.25조 달러 평가로 역대 최고 수준"
       ]
     },
     {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch",
-      "date": "11/03",
-      "insight": "AI 보안 붐 타고 Ballistic Ventures 4.9억 달러 대형 펀드 추진",
-      "takeaway": "AI 보안 붐 타고 Ballistic Ventures 4.9억 달러 대형 펀드 추진",
+      "title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+      "url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+      "source": "SiliconANGLE",
+      "date": "11/06",
+      "insight": "Thinking Machines, AI 훈련 자동화 소형 LLM 공개와 50억 달러 펀딩 동시 추진",
+      "takeaway": "Thinking Machines, AI 훈련 자동화 소형 LLM 공개와 50억 달러 펀딩 동시 추진",
       "bullets": [
-        "플래그십 펀드 3.6억 달러 + 별도 비히클 1.3억 달러",
-        "사이버보안 전문 VC Ballistic Ventures가 주도",
-        "AI 기반 사이버보안 붐이 투자 확대 배경"
-      ]
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "date": "11/02",
-      "insight": "비기술 전문가용 AI 훈련 플랫폼, 창업 1년 만에 3억 달러 밸류",
-      "takeaway": "비기술 전문가용 AI 훈련 플랫폼, 창업 1년 만에 3억 달러 밸류",
-      "bullets": [
-        "Trajectory, 시리즈 펀딩 4,500만 달러 조달",
-        "설립 1년 만에 기업가치 3억 달러 달성",
-        "비기술 전문가도 AI 모델 훈련 가능하게 지원"
+        "Inkling 2 Small, AI 훈련 작업 자동화 기능 탑재",
+        "모델 출시와 동시에 50억 달러 펀딩 추진 보도",
+        "소형 LLM 시장 경쟁 가속화 신호"
       ]
     },
     {
@@ -45,12 +32,12 @@
       "url": "https://siliconangle.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-releases-new-ai-productivity-features/",
       "source": "SiliconANGLE",
       "date": "11/06",
-      "insight": "Dropbox, 3.5억 달러에 Tigris Data 인수하며 AI 생산성 강화",
-      "takeaway": "Dropbox, 3.5억 달러에 Tigris Data 인수하며 AI 생산성 강화",
+      "insight": "Dropbox, 3,500억 원에 Tigris Data 인수하며 AI 생산성 플랫폼으로 전환 가속",
+      "takeaway": "Dropbox, 3,500억 원에 Tigris Data 인수하며 AI 생산성 플랫폼으로 전환 가속",
       "bullets": [
-        "클라우드 스토리지 스타트업 Tigris Data 3.5억 달러 인수",
-        "DBX AI 등 신규 AI 생산성 기능 함께 발표",
-        "스토리지와 AI를 결합한 제품 포트폴리오 확장"
+        "Dropbox, 클라우드 스토리지 스타트업 Tigris Data를 3.5억 달러에 인수",
+        "DBX AI 등 신규 AI 생산성 기능 동시 발표",
+        "스토리지 기반에서 AI 플랫폼으로 사업 확장 시도"
       ]
     },
     {
@@ -58,12 +45,12 @@
       "url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
       "source": "SiliconANGLE",
       "date": "11/06",
-      "insight": "Shield AI, 빌 게이츠 투자 레이더 스타트업 53억 달러에 인수",
-      "takeaway": "Shield AI, 빌 게이츠 투자 레이더 스타트업 53억 달러에 인수",
+      "insight": "Shield AI, 빌 게이츠 투자 레이더 스타트업 53억 달러에 인수—방산 AI 대형 M&A",
+      "takeaway": "Shield AI, 빌 게이츠 투자 레이더 스타트업 53억 달러에 인수—방산 AI 대형 M&A",
       "bullets": [
-        "자율 전투 드론 업체 Shield AI가 Echodyne 인수",
-        "거래 규모 53억 달러로 대형 방산 M&A",
-        "Echodyne는 빌 게이츠가 후원한 레이더 스타트업"
+        "자율 전투 드론 기업 Shield AI, Echodyne 인수 합의",
+        "거래 규모 53억 달러, 빌 게이츠 지원 스타트업 대상",
+        "레이더 기술 통합으로 드론 역량 강화 목적"
       ]
     },
     {
@@ -71,11 +58,11 @@
       "url": "https://siliconangle.com/2026/11/05/enterprise-ai-storage-bottleneck-google-cloud-thecuberesearch-appdevangle/",
       "source": "SiliconANGLE",
       "date": "11/05",
-      "insight": "GPU 한계 직면한 기업들, AI 스택 핵심으로 클라우드 스토리지 부상",
-      "takeaway": "GPU 한계 직면한 기업들, AI 스택 핵심으로 클라우드 스토리지 부상",
+      "insight": "GPU 한계에 부딪힌 기업들, AI 스택 핵심이 클라우드 스토리지로 이동 중",
+      "takeaway": "GPU 한계에 부딪힌 기업들, AI 스택 핵심이 클라우드 스토리지로 이동 중",
       "bullets": [
-        "기업 AI 투자가 컴퓨트에서 스토리지로 이동 중",
-        "GPU 활용률 한계 도달이 전환점으로 작용",
+        "기업 AI 투자 2년간 GPU 확보에 집중되어 왔음",
+        "GPU 활용률 한계 도달로 스토리지가 새 병목으로 부상",
         "Google Cloud 스토리지가 AI 스택 전면으로 부상"
       ]
     },
@@ -84,38 +71,12 @@
       "url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
       "source": "SiliconANGLE",
       "date": "11/05",
-      "insight": "휴머노이드 로봇 Agility Robotics, SPAC 통해 나스닥 상장 데뷔",
-      "takeaway": "휴머노이드 로봇 Agility Robotics, SPAC 통해 나스닥 상장 데뷔",
+      "insight": "휴머노이드 로봇 기업 Agility Robotics, SPAC 합병 통해 나스닥 상장 완료",
+      "takeaway": "휴머노이드 로봇 기업 Agility Robotics, SPAC 합병 통해 나스닥 상장 완료",
       "bullets": [
-        "Agility Robotics가 SPAC 합병으로 나스닥 입성",
+        "Agility Robotics, SPAC 합병 방식으로 나스닥 데뷔",
         "SPAC은 전통 IPO보다 간소한 상장 경로 제공",
-        "휴머노이드 로봇 기업의 첫 공개시장 데뷔 사례"
-      ]
-    },
-    {
-      "title": "Same model, better answer: Enterprise data is what turns generic AI into a business tool",
-      "url": "https://siliconangle.com/2026/11/05/oracle-database-pitches-one-engine-tame-enterprise-ai-data-oracleaiworld/",
-      "source": "SiliconANGLE",
-      "date": "11/05",
-      "insight": "기업 데이터 맥락 없는 범용 AI 한계, Oracle DB로 AI 에이전트 고도화",
-      "takeaway": "기업 데이터 맥락 없는 범용 AI 한계, Oracle DB로 AI 에이전트 고도화",
-      "bullets": [
-        "범용 AI는 기업 고유 데이터·정의를 모름",
-        "Oracle Database가 AI 에이전트에 비즈니스 맥락 제공",
-        "정체된 주문 처리 등 실무 문제 해결을 목표로 함"
-      ]
-    },
-    {
-      "title": "Ocient raises $100 million as agentic AI drives growth in large-scale analytics",
-      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
-      "source": "SiliconANGLE",
-      "date": "11/05",
-      "insight": "에이전틱 AI 수요로 대규모 분석 플랫폼 Ocient 1억 달러 유치",
-      "takeaway": "에이전틱 AI 수요로 대규모 분석 플랫폼 Ocient 1억 달러 유치",
-      "bullets": [
-        "Ocient, 시리즈 C로 1억 달러 조달",
-        "에이전틱 AI 분석 비즈니스 확장이 성장 동력",
-        "고속 데이터 분석 플랫폼이 대규모 AI 수요에 대응"
+        "휴머노이드 로봇 기업의 첫 주요 공개시장 진입 사례"
       ]
     }
   ]
