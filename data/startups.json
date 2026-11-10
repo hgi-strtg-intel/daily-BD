@@ -1,17 +1,69 @@
 {
-  "updated": "2026-11-09 22:49",
+  "updated": "2026-11-10 22:25",
   "items": [
+    {
+      "title": "AI security startup Bay launches with $50M to vet agent actions before they run",
+      "url": "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/",
+      "source": "SiliconANGLE",
+      "date": "11/10",
+      "insight": "AI 에이전트 행동을 사전 검증하는 보안 스타트업 등장",
+      "takeaway": "AI 에이전트 행동을 사전 검증하는 보안 스타트업 등장",
+      "bullets": [
+        "이스라엘 AI 보안 스타트업 Bay AI 출범",
+        "5000만 달러 초기 펀딩 확보",
+        "에이전트 실행 전 행동 사전 검토 소프트웨어 제공"
+      ]
+    },
+    {
+      "title": "Trump stands by Nvidia boss Jensen Huang despite spy scandal, but FBI is investigating",
+      "url": "https://siliconangle.com/2026/11/09/trump-stands-by-nvidia-boss-jensen-huang-despite-spy-scandal-says-fbi-investigating/",
+      "source": "SiliconANGLE",
+      "date": "11/09",
+      "insight": "젠슨 황 스캔들에 FBI 수사 개입, Nvidia 리스크 부상",
+      "takeaway": "젠슨 황 스캔들에 FBI 수사 개입, Nvidia 리스크 부상",
+      "bullets": [
+        "젠슨 황, 중국 정보요원 의혹 여성과 불륜 논란",
+        "트럼프 대통령은 젠슨 황 지지 입장 표명",
+        "FBI가 해당 사안 수사 중"
+      ]
+    },
+    {
+      "title": "Alphabet’s Wing to invest $125M in new delivery drone factory",
+      "url": "https://siliconangle.com/2026/11/09/alphabets-wing-to-invest-125m-in-new-delivery-drone-factory/",
+      "source": "SiliconANGLE",
+      "date": "11/09",
+      "insight": "Alphabet Wing, 1억 2500만 달러 드론 공장 신설로 배송 확장",
+      "takeaway": "Alphabet Wing, 1억 2500만 달러 드론 공장 신설로 배송 확장",
+      "bullets": [
+        "Wing Aviation, 드론 배송 공장 건설에 1.25억 달러 투자",
+        "Alphabet 차원의 더 넓은 투자 계획 일환",
+        "배달용 드론 생산 인프라 구축 목적"
+      ]
+    },
+    {
+      "title": "Hardware-testing and engineering startup Nominal raises $240M at $3B valuation",
+      "url": "https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/",
+      "source": "SiliconANGLE",
+      "date": "11/09",
+      "insight": "AI 기반 하드웨어 테스트 스타트업 24억 달러 밸류 달성",
+      "takeaway": "AI 기반 하드웨어 테스트 스타트업 24억 달러 밸류 달성",
+      "bullets": [
+        "Nominal, 2.4억 달러 신규 펀딩 유치",
+        "Lightspeed·Insight Partners 주도 투자",
+        "기업 가치 30억 달러(3B) 평가"
+      ]
+    },
     {
       "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
       "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
       "source": "SiliconANGLE",
       "date": "11/06",
-      "insight": "OpenAI, 기업가치 1,250조 원 돌파 임박—AI 투자 과열 지속",
-      "takeaway": "OpenAI, 기업가치 1,250조 원 돌파 임박—AI 투자 과열 지속",
+      "insight": "OpenAI, 125조 원 밸류에 110억 달러 추가 조달 임박",
+      "takeaway": "OpenAI, 125조 원 밸류에 110억 달러 추가 조달 임박",
       "bullets": [
-        "OpenAI, 신규 110억 달러 펀딩 유치 보도",
-        "라운드 규모 수 주 내 거의 두 배로 확대 가능",
-        "기업가치 1.25조 달러 평가로 역대 최고 수준"
+        "OpenAI 11억 달러 신규 펀딩 보도",
+        "기업 가치 1.25조 달러 추정",
+        "향후 몇 주 내 라운드 규모 두 배 확대 가능성"
       ]
     },
     {
@@ -19,64 +71,12 @@
       "url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
       "source": "SiliconANGLE",
       "date": "11/06",
-      "insight": "Thinking Machines, AI 훈련 자동화 소형 LLM 공개와 50억 달러 펀딩 동시 추진",
-      "takeaway": "Thinking Machines, AI 훈련 자동화 소형 LLM 공개와 50억 달러 펀딩 동시 추진",
+      "insight": "Thinking Machines, 소형 LLM 출시와 50억 달러 펀딩 동시 추진",
+      "takeaway": "Thinking Machines, 소형 LLM 출시와 50억 달러 펀딩 동시 추진",
       "bullets": [
-        "Inkling 2 Small, AI 훈련 작업 자동화 기능 탑재",
-        "모델 출시와 동시에 50억 달러 펀딩 추진 보도",
-        "소형 LLM 시장 경쟁 가속화 신호"
-      ]
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M, releases new AI productivity features",
-      "url": "https://siliconangle.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-releases-new-ai-productivity-features/",
-      "source": "SiliconANGLE",
-      "date": "11/06",
-      "insight": "Dropbox, 3,500억 원에 Tigris Data 인수하며 AI 생산성 플랫폼으로 전환 가속",
-      "takeaway": "Dropbox, 3,500억 원에 Tigris Data 인수하며 AI 생산성 플랫폼으로 전환 가속",
-      "bullets": [
-        "Dropbox, 클라우드 스토리지 스타트업 Tigris Data를 3.5억 달러에 인수",
-        "DBX AI 등 신규 AI 생산성 기능 동시 발표",
-        "스토리지 기반에서 AI 플랫폼으로 사업 확장 시도"
-      ]
-    },
-    {
-      "title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
-      "url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
-      "source": "SiliconANGLE",
-      "date": "11/06",
-      "insight": "Shield AI, 빌 게이츠 투자 레이더 스타트업 53억 달러에 인수—방산 AI 대형 M&A",
-      "takeaway": "Shield AI, 빌 게이츠 투자 레이더 스타트업 53억 달러에 인수—방산 AI 대형 M&A",
-      "bullets": [
-        "자율 전투 드론 기업 Shield AI, Echodyne 인수 합의",
-        "거래 규모 53억 달러, 빌 게이츠 지원 스타트업 대상",
-        "레이더 기술 통합으로 드론 역량 강화 목적"
-      ]
-    },
-    {
-      "title": "Google Cloud storage moves to the front of the AI stack as enterprises hit the GPU utilization ceiling",
-      "url": "https://siliconangle.com/2026/11/05/enterprise-ai-storage-bottleneck-google-cloud-thecuberesearch-appdevangle/",
-      "source": "SiliconANGLE",
-      "date": "11/05",
-      "insight": "GPU 한계에 부딪힌 기업들, AI 스택 핵심이 클라우드 스토리지로 이동 중",
-      "takeaway": "GPU 한계에 부딪힌 기업들, AI 스택 핵심이 클라우드 스토리지로 이동 중",
-      "bullets": [
-        "기업 AI 투자 2년간 GPU 확보에 집중되어 왔음",
-        "GPU 활용률 한계 도달로 스토리지가 새 병목으로 부상",
-        "Google Cloud 스토리지가 AI 스택 전면으로 부상"
-      ]
-    },
-    {
-      "title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
-      "url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
-      "source": "SiliconANGLE",
-      "date": "11/05",
-      "insight": "휴머노이드 로봇 기업 Agility Robotics, SPAC 합병 통해 나스닥 상장 완료",
-      "takeaway": "휴머노이드 로봇 기업 Agility Robotics, SPAC 합병 통해 나스닥 상장 완료",
-      "bullets": [
-        "Agility Robotics, SPAC 합병 방식으로 나스닥 데뷔",
-        "SPAC은 전통 IPO보다 간소한 상장 경로 제공",
-        "휴머노이드 로봇 기업의 첫 주요 공개시장 진입 사례"
+        "Inkling 2 Small 모델 공개, AI 훈련 자동화 가능",
+        "50억 달러 규모 펀딩 추진 중이라고 보도",
+        "소형 모델로 AI 훈련 태스크 자동화 지원"
       ]
     }
   ]
