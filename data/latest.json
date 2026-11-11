@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-11-10",
-  "updated": "2026-11-10 22:25",
-  "fx": "환율 2026-11-10 · 시장환율   1 USD = ₩1,338.89   |   1 USD = 18,045.00 IDR   |   1 IDR = ₩0.07420",
+  "asOf": "2026-11-11",
+  "updated": "2026-11-11 21:39",
+  "fx": "환율 2026-11-11 · 시장환율   1 USD = ₩1,336.00   |   1 USD = 18,140.00 IDR   |   1 IDR = ₩0.07365",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "약 2500억 규모의 계열사 매각을 추진하며 사업 선택과 집중 단행.",
-      "impact": "매각 대금의 CGT/CDMO 재배분 여부에 따라 당사 보유 지분 사업가치에 직접 영향.",
+      "company": "차AI헬스케어",
+      "text": "임원·주요주주 특정증권 거래계획보고서 DART 공시",
+      "impact": "내부자 지분 거래 계획 확정 공시로 당사 보유 지분가치 수급 영향 모니터링 필요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40WTlBWEVHOWJITFZyLU4tLU1lS3lOZG5QVUxHUkppYVp5TE1wLUhlWHptS21TWlYtMTNXQ2s1ZGJBekdYVW9uaVI1Sk04ZDBa?oc=5"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281"
     },
     {
-      "company": "루멘",
-      "text": "외부 분석기관이 루멘의 AI 혁신에도 불구하고 구조적 수익성 한계를 지적.",
-      "impact": "EBITDA 흑자전환 및 Loss Ratio 개선 여부가 불투명해 신규 투자 검토에 보수적 판단 필요.",
+      "company": "차AI헬스케어",
+      "text": "메타엑스1호조합이 차AI헬스케어 주식 147만주 배분 신고",
+      "impact": "유통 가능 물량 증가로 단기 수급 부담 발생, 당사 보유 지분 평가가치 하방 압력 가능",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2ZfcTdKODg5VW05aU9qSjZvNlh3bmJuR29iYjZZTS1SSnR2cTdtdGxrVFB6LTctbWxza2ItWGREeEpCMXB1a1Q0U1BSOW9Pak5ma19fc093QmFDLXN0cjcwbVRfTFNVMnNrSlZydURBOXhCd3VNX3VfRHdZbHVLd2R3NTlWcWNrS1pOcmR0TQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EREwtYlR5LWFKdUI4Wk0tQkNpZUNFZTdWQTJPcnlhWDlpNFVjcUlWQ244UTY2M0lnLVZTV2dhZ09FNTlJZzZBb1ZkTkhlNkxPcW5TXzJYMWpIWjlnT2tuMkRFd1E3UQ?oc=5"
     }
   ],
   "companies": [
@@ -23,23 +23,23 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "계열사 매각으로 사업 재편 중",
+      "g": "C",
+      "event": "K-Cell 연구 비전 외부 발표",
       "tags": [
-        "+1.24%",
+        "+0.27%",
         "당사 투자"
       ],
-      "priceText": "₩7,340",
-      "openText": "₩7,520",
-      "highText": "₩7,690",
-      "lowText": "₩7,280",
-      "prevCloseText": "₩7,250",
-      "changeText": "+₩90",
+      "priceText": "₩7,360",
+      "openText": "₩7,300",
+      "highText": "₩7,510",
+      "lowText": "₩7,220",
+      "prevCloseText": "₩7,340",
+      "changeText": "+₩20",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,340",
+          "₩7,360",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-42.68%",
+          "-42.52%",
           null
         ],
         [
           "전일대비",
-          "+1.24%",
+          "+0.27%",
           null
         ],
         [
           "전주대비",
-          "+0.69%",
+          "+0.96%",
           null
         ],
         [
           "거래량(20일比)",
-          "18.62만 · 0.77x",
+          "18.30만 · 0.78x",
           null
         ],
         [
           "시가총액",
-          "6,824억",
+          "6,843억",
           null
         ],
         [
           "52주 고점대비",
-          "-69.35%",
+          "-69.27%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "2500억 규모 계열사 매각은 CGT/CDMO 집중 전략의 신호로, 사업가치 재평가 여지 존재",
-        "에스테틱 계열(차메디텍) 활동은 핵심 모니터링 축(CGT/CDMO·자금조달)과 무관한 주변부"
+        "세계 학회 발표는 연구 방향성 홍보 수준으로, CGT/CDMO 사업가치를 직접 바꾸는 계약·기술 진척은 아님",
+        "자금조달·지분구조 변동 등 지분가치 직결 이슈는 금주 공시 없음"
       ],
       "watch": [
-        "매각 대금의 CGT/CDMO 재투자 여부",
-        "유상증자·CB 등 추가 자금조달 계획",
-        "CGT/CDMO 임상·수주 진척 공시"
+        "CGT/CDMO 신규 계약 또는 임상 진척 공시",
+        "유상증자·CB 등 자금조달 공시 발생 여부",
+        "최대주주·지분구조 변동 여부"
       ],
       "spark": [
-        {
-          "date": "8/7",
-          "close": 9300.0
-        },
         {
           "date": "8/10",
           "close": 9850.0
@@ -349,36 +345,40 @@
         {
           "date": "11/10",
           "close": 7340.0
+        },
+        {
+          "date": "11/11",
+          "close": 7360.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 11/10 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84NlhXUm5YYXphTXVPZGtSbVI0Ym9XVTZTdHhVQzRsQ3Jhd2Z3TFd6eWpXVWdYNWljd1RHZnM3dHNWYXpUdDAyb244S2dsMDdwRWdTTktmSVVFOVdWdGNveWlGYlNFbkZXbnAxMi13OUVnNFBE?oc=5",
+      "exchangeLine": "KRX · 11/11 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dzN2MHZIdmgtazJtRDR5cHpoYUR4OVNtR1otY0lWdnkwYlo4b0EtdWNuSVZBU0pPc1hDZEtDQ3R0NDhkRlRaX3UxYzdNZmo2bWJpMFBFaEFMdWprQm1hNlZVUXVJOGl0ZW9MQm1zR3FacE4xX084M0J3?oc=5",
       "sources": [
         {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84NlhXUm5YYXphTXVPZGtSbVI0Ym9XVTZTdHhVQzRsQ3Jhd2Z3TFd6eWpXVWdYNWljd1RHZnM3dHNWYXpUdDAyb244S2dsMDdwRWdTTktmSVVFOVdWdGNveWlGYlNFbkZXbnAxMi13OUVnNFBE?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "11/10"
+          "title": "차광렬 차병원·차바이오그룹 연구소장, K-Cell 연구 전략 발표",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dzN2MHZIdmgtazJtRDR5cHpoYUR4OVNtR1otY0lWdnkwYlo4b0EtdWNuSVZBU0pPc1hDZEtDQ3R0NDhkRlRaX3UxYzdNZmo2bWJpMFBFaEFMdWprQm1hNlZVUXVJOGl0ZW9MQm1zR3FacE4xX084M0J3?oc=5",
+          "source": "로이슈",
+          "date": "11/11"
         },
         {
-          "title": "2500억 규모 계열사 매각…'선택과 집중'",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40WTlBWEVHOWJITFZyLU4tLU1lS3lOZG5QVUxHUkppYVp5TE1wLUhlWHptS21TWlYtMTNXQ2s1ZGJBekdYVW9uaVI1Sk04ZDBa?oc=5",
-          "source": "톱데일리",
-          "date": "11/09"
+          "title": "차광렬 차병원그룹 연구소장, 세계 학회서 난치병 치료 전략 공개",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlRhNjdob2dCSmJ2OElXNHg0MnBqM3VlR0JydmRKMzhJaHg1bGZkZ3FiME1Fc25kdl9ZSVRBckFETVItSWZld1BFU2tUVjFpbDlRbXdlS0cySExXSjZLaEdmdEtYT3lHMVVWdTNSaF9KUXZ3V2ZEMmJNUm1BakV1N1VWNjJYR0XSAZsBQVVfeXFMTi1pb3dVRU8xWnlVcEFnUW1EdmtremxZUHFaRkt5WGlvWm5iZGhycEwxRlZ4Q0hRd3lraW5JWVk1NVdkMGpxVzJGU1lMYlBrZ3hpaGxLT285NmY1RFd5ZEdmMXVPQXF3dExJaXExOTNuYnV2MllzdzFiOFJiemNiRml1N2FJLUdzcENCUUhEQWdtUy1GclRMOHNiUzA?oc=5",
+          "source": "Chosunbiz",
+          "date": "11/11"
         },
         {
-          "title": "차메디텍, 미용레이저학회서 하이로라 스킨부스터 임상 활용 전략 소개",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaMHAxaGlIcm9DdVY3OHJ3ZjBXWEFDcHkwZ1JwYkVaYmRMWktOWUNDQ1lkT21Wc1B4Z1pHRmVjM3IyeTIzaGpHRUVnZktCMmdEMTVvMElIblBDTllBUWFtTEpfWQ?oc=5",
-          "source": "보건신문",
-          "date": "11/09"
+          "title": "난소 기능 회복부터 세포치료제 개발까지…차병원, K-Cell 연구 확대",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTQ0NPSWVuQ29ZWTFuazk5SzBTdHBtcTlzTDRTQWpFT3Zza0hhQzFIcTNJZk1DdlpvbFduVjlZVVVfS051bEVVNTMwOFhrdC1OQy1KTTZIRVFtYjVpUmNtNmhydzRIejFFNG9DMnl3?oc=5",
+          "source": "아시아투데이",
+          "date": "11/11"
         },
         {
-          "title": "차메디텍, 학술대회서 ‘하이로라 스킨부스터’ 소개…경쟁력 강화",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEUVNsUHZBVURON0JERXZwaXVHYnozT1BMREtTcHdWM1IyM2xYM2E2YmpYTzl6SkRESENxVlMtUmR2OW55bl9wWVlmd0FmSmVqQlp3UEN5eENoeDIwOGMzaldCamFqNW55M0ctVm1kUVpkM1ht?oc=5",
-          "source": "파이낸셜리뷰",
-          "date": "11/09"
+          "title": "K-Cell로 난치병 치료 넘어 수명 연장까지… 세계생식면역학회서 비전 제시",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsczg1bXpNa0ZlYW5uNGpKdUtRZUxEODJocTQwN3hTUnlVS0Vucmc4S292S0Y2T1diTmJuNEFGRHAxUWZKaURlRkJfQnJ6TUFOMmVyY1BhVVAyd9IBWEFVX3lxTE4yaXE4OW1IZllrbENvWkw2eWNpcHh5Q0VrNXZzbC1BdlBkMFU4Q1VtazdKWGtTNm1nSk10ZG5ES1pKaVFQcHBhcnpFRjNCYzdPbUx3dldyTDI?oc=5",
+          "source": "아주경제",
+          "date": "11/11"
         }
       ],
       "archive30d": [
@@ -724,23 +724,23 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "C",
-      "event": "임원 주요주주 주식거래 계획 신고",
+      "g": "B",
+      "event": "임원·주요주주 지분 거래 계획 신고",
       "tags": [
-        "+0.99%",
+        "-0.78%",
         "당사 투자"
       ],
-      "priceText": "₩5,100",
-      "openText": "₩5,080",
-      "highText": "₩5,100",
-      "lowText": "₩4,995",
-      "prevCloseText": "₩5,050",
-      "changeText": "+₩50",
+      "priceText": "₩5,060",
+      "openText": "₩5,180",
+      "highText": "₩5,180",
+      "lowText": "₩5,000",
+      "prevCloseText": "₩5,100",
+      "changeText": "-₩40",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,100",
+          "₩5,060",
           null
         ],
         [
@@ -755,27 +755,27 @@
         ],
         [
           "전일대비",
-          "+0.99%",
+          "-0.78%",
           null
         ],
         [
           "전주대비",
-          "+2.10%",
+          "+1.30%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.33천 · 0.38x",
+          "4.77천 · 0.81x",
           null
         ],
         [
           "시가총액",
-          "928억",
+          "921억",
           null
         ],
         [
           "52주 고점대비",
-          "-65.95%",
+          "-66.22%",
           null
         ]
       ],
@@ -790,19 +790,15 @@
         }
       ],
       "events": [
-        "임원·주요주주 거래계획 보고서 외 사업·실적 관련 공시·기사 없음",
-        "헬스케어 전환 성패를 가늠할 실질적 변화는 이번 주 미포착"
+        "메타엑스1호조합의 147만주 배분 신고는 유통 물량 증가 요인으로 단기 수급에 영향 가능",
+        "사업 확장·실적 개선 관련 공시는 없어 헬스케어 전환 성패 판단 근거 미확보"
       ],
       "watch": [
-        "매출·영업손익 분기 추이 확인",
-        "신규 고객사·파트너십 체결 여부",
-        "사업전환 관련 공시 발생 여부"
+        "주요주주 지분 처분 규모·시기 확정 여부",
+        "헬스케어 사업 신규 고객·파트너십 공시",
+        "분기 매출·영업손익 추이 확인"
       ],
       "spark": [
-        {
-          "date": "8/7",
-          "close": 4710.0
-        },
         {
           "date": "8/10",
           "close": 4850.0
@@ -1050,11 +1046,15 @@
         {
           "date": "11/10",
           "close": 5100.0
+        },
+        {
+          "date": "11/11",
+          "close": 5060.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 11/10 종가",
+      "exchangeLine": "KRX · 11/11 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281",
       "sources": [
         {
@@ -1062,6 +1062,12 @@
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281",
           "source": "DART",
           "date": "20261110"
+        },
+        {
+          "title": "메타엑스1호조합, 차AI헬스케어 147만주 배분 신고",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EREwtYlR5LWFKdUI4Wk0tQkNpZUNFZTdWQTJPcnlhWDlpNFVjcUlWQ244UTY2M0lnLVZTV2dhZ09FNTlJZzZBb1ZkTkhlNkxPcW5TXzJYMWpIWjlnT2tuMkRFd1E3UQ?oc=5",
+          "source": "비건뉴스",
+          "date": "11/10"
         }
       ],
       "archive30d": [
@@ -1092,6 +1098,20 @@
           "level": "low",
           "date": "11/10",
           "collected_at": "2026-11-10"
+        },
+        {
+          "summary": "임원·주요주주 특정증권 거래계획보고서 DART 공시",
+          "impact": "내부자 지분 거래 계획 확정 공시로 당사 보유 지분가치 수급 영향 모니터링 필요",
+          "level": "mid",
+          "date": "11/10",
+          "collected_at": "2026-11-11"
+        },
+        {
+          "summary": "메타엑스1호조합이 차AI헬스케어 주식 147만주 배분 신고",
+          "impact": "유통 가능 물량 증가로 단기 수급 부담 발생, 당사 보유 지분 평가가치 하방 압력 가능",
+          "level": "mid",
+          "date": "11/10",
+          "collected_at": "2026-11-11"
         }
       ]
     },
@@ -1100,23 +1120,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "FSD 할인 확대·수익성 의문 병존",
+      "event": "Q3 순손실 지속, 밸류에이션 논쟁",
       "tags": [
-        "+1.06%",
+        "-1.73%",
         "벤치마크"
       ],
-      "priceText": "$39.97",
-      "openText": "$39.92",
-      "highText": "$40.55",
-      "lowText": "$38.64",
-      "prevCloseText": "$39.55",
-      "changeText": "+$0.42",
+      "priceText": "$39.28",
+      "openText": "$39.50",
+      "highText": "$40.30",
+      "lowText": "$38.36",
+      "prevCloseText": "$39.97",
+      "changeText": "-$0.69",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$39.97",
-          "₩53,515"
+          "$39.28",
+          "₩52,478"
         ],
         [
           "취득가",
@@ -1130,27 +1150,27 @@
         ],
         [
           "전일대비",
-          "+1.06%",
+          "-1.73%",
           null
         ],
         [
           "전주대비",
-          "+1.06%",
+          "-0.68%",
           null
         ],
         [
           "거래량(20일比)",
-          "194.70만 · 1.52x",
+          "137.35만 · 1.05x",
           null
         ],
         [
           "시가총액",
-          "$3.11B",
-          "4.17조"
+          "$3.06B",
+          "4.09조"
         ],
         [
           "52주 고점대비",
-          "-59.99%",
+          "-60.68%",
           null
         ]
       ],
@@ -1165,19 +1185,15 @@
         }
       ],
       "events": [
-        "테슬라 FSD 연동 보험 할인을 7개 주로 확대 중이나, Seeking Alpha는 구조적 수익성 한계를 지적 — IFP 성장과 Loss Ratio 개선의 동반 여부가 핵심",
-        "AI 혁신의 수익화 가능성에 대한 외부 회의론이 유지되고 있어, EBITDA 흑자전환 시점 판단에 보수적 접근 필요"
+        "Q3 순손실 $43.7M 기록으로 EBITDA 흑자전환 시점 여전히 불확실, 투자 매력도 판단 유보 필요",
+        "복수 매체가 현 주가 대비 성장성 정당성을 의문시해 밸류에이션 리스크 부각"
       ],
       "watch": [
-        "FSD 연동 확대에 따른 Loss Ratio 변화",
-        "IFP 성장률의 분기별 개선 추세",
-        "EBITDA 흑자전환 가시성 확보 시점"
+        "IFP 성장률 및 Loss Ratio 분기 추이",
+        "EBITDA 흑자전환 가이던스 제시 여부",
+        "현 주가 대비 P/S 적정성 재검토 시점"
       ],
       "spark": [
-        {
-          "date": "8/12",
-          "close": 51.64
-        },
         {
           "date": "8/13",
           "close": 52.98
@@ -1425,36 +1441,40 @@
         {
           "date": "11/9",
           "close": 39.97
+        },
+        {
+          "date": "11/10",
+          "close": 39.28
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 11/9 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vTHRzTW1ZWFZtQTBjSzJwQVRVVXJLOEk4djV3ZHlIZU1iTEUzVDBiMDlhM1Zhcloyb1djZjlpVUMtTTVreGd3UHRwTWEwYmxYVDhTczJJelR2OFFXQzAtcWlzWXRyd3FZdXFOSkl0RFhMR01JY2NF?oc=5",
+      "exchangeLine": "NYSE · 11/10 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFZzczlhNUR2NWdqMzAtM2hSZ00zZE8zdmhKSy1Hd1p6UmJrNmlvLVBDLWQ0WmpPRExIQlJwY3NsR3gxb04tWGlmdmpVQk0zbzAtWVRBZk1jZllidlFET2ZxQzVTWmdKcGNiQ0hjOVlWbUJzZFBkbUVSQnFSZmpsRXdkYTdWNVMtVEZxbHdXQ1NRNmtjM1NqOUd1TXRKYmY2TFViVFVDRHNKVXlJSFFXczZVTUQ5S0YxX1BrMGhtSWpRQQ?oc=5",
       "sources": [
         {
-          "title": "Ohio Tesla Owners Get 루멘’s 50% FSD Mile Discount",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vTHRzTW1ZWFZtQTBjSzJwQVRVVXJLOEk4djV3ZHlIZU1iTEUzVDBiMDlhM1Zhcloyb1djZjlpVUMtTTVreGd3UHRwTWEwYmxYVDhTczJJelR2OFFXQzAtcWlzWXRyd3FZdXFOSkl0RFhMR01JY2NF?oc=5",
-          "source": "TeslaNorth.com",
-          "date": "11/10"
+          "title": "This Fast-Growing Insurance Stock Is About to Do Something It's Never Done Before",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFZzczlhNUR2NWdqMzAtM2hSZ00zZE8zdmhKSy1Hd1p6UmJrNmlvLVBDLWQ0WmpPRExIQlJwY3NsR3gxb04tWGlmdmpVQk0zbzAtWVRBZk1jZllidlFET2ZxQzVTWmdKcGNiQ0hjOVlWbUJzZFBkbUVSQnFSZmpsRXdkYTdWNVMtVEZxbHdXQ1NRNmtjM1NqOUd1TXRKYmY2TFViVFVDRHNKVXlJSFFXczZVTUQ5S0YxX1BrMGhtSWpRQQ?oc=5",
+          "source": "The Motley Fool",
+          "date": "11/11"
         },
         {
-          "title": "루멘: Better Ratios, Still Rotten Economics (NYSE:루멘)",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2ZfcTdKODg5VW05aU9qSjZvNlh3bmJuR29iYjZZTS1SSnR2cTdtdGxrVFB6LTctbWxza2ItWGREeEpCMXB1a1Q0U1BSOW9Pak5ma19fc093QmFDLXN0cjcwbVRfTFNVMnNrSlZydURBOXhCd3VNX3VfRHdZbHVLd2R3NTlWcWNrS1pOcmR0TQ?oc=5",
-          "source": "Seeking Alpha",
-          "date": "11/09"
+          "title": "루멘 (루멘) Stock Could Be Fully Priced Despite Strong Q3 Revenue",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSE1ncktEOEFpLU04b0NIVXZ2RExSMTNIZHVteWdBMzJyM204Sm9tWldPT01aSEFYM1hxQllTV1d1OER0akpocVdYSUo4TVFsaVdsdDdoTno1YndDUGhGa25UYjRURTVZZUlIM0hRR3V2U0dIVFo1VXVMam02QXg1b0pwOTEteW8?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "11/11"
         },
         {
-          "title": "루멘 Expands Tesla FSD Insurance Discounts to Ohio",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcl9VT1JDZEVfT1VfMHdsT1FRZ05ZX24yMVNtNGJuM2d6M2ZwZjY0OWF6SmRWbDBEU2xPbHdJZWhpRTJ4V2dldmJBWDd5R19HOEhxYVBpN1I4WnV4UVhqV0RvbDhyaExSUTF1UHA5NGxKenprUmZkekE0RVFNanF4bVY1dw?oc=5",
-          "source": "Drive Tesla Canada",
-          "date": "11/09"
+          "title": "Berkshire Hathaway Class B Reaches a New All-Year High at $583.61",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnZEWlhBVVJYQWlYN1Z0a3pGUDZFWmotZlhKQkEycUxXazRNdGVBOUFWZzJXM0ZRWUpQVGpybkN3a2ltN09pbUZXNTJpTnB3eG5ROTBfYlZnYTl1dWE2aDBKTS1OVjJYU3JwZXlfLVI2YXkya2Z5Q2hkNXFCM0pIdEpRRTYtX1ItQlFfTjZSZEFYbHI3TFpGNGlYWUhiZTdK?oc=5",
+          "source": "24/7 Wall St.",
+          "date": "11/11"
         },
         {
-          "title": "루멘 FSD Insurance Discount Expands to Ohio, Now 7 States - BASENOR",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1lCV2JyUXFwOUl3TzF6dmxMYjF1Nk1nOU1Rak5oaDRfQks4NXdWb0hQbDVlc2RWb1pkRnY3SXRVUVZ1Y0k2NDh1dHBaei1zT0xURHdMTFpQU0xYTWhSN1JKZm9PbjRHMEtROTdvc01GT28xSVlEd2VEaFppd1Q1RmNIQmVZQ2lINnJwa0Rrem5Ndm53YTBIdGVZRQ?oc=5",
-          "source": "BASENOR - Tesla Accessories",
-          "date": "11/09"
+          "title": "Can 루멘 (루멘) Justify Its Price On Sales Growth?",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjJpM1hYVGFDeEhFQ1pzZVltdVNvQUpkS0J4Mm1XcFExVm1wX2ozaEhvdnI2MXR4OHBwcGEzMlRIeHlGS0xhNmpBV1FqbTc4azJybzRJV1lESGdkZjhKZmFwNGM5SFRoSFZyWTRtaEpLTGxwTGhHYWlpME4wU1JwUzEtY1FNNmRGdW9LTFowZ29zNHJwQ2FqUGxYcWJXMXRiQ2p5MzZPQnBOX29kOWxOWl9xV3ZxZmxS0gG-AUFVX3lxTFBzeVp2Z2FWeDFkLXE1a1lkWmxaNWdvZ3lxd0luejNqZFVXWmM4VVVicE5yakdxRVB6b0t5SHgzQUhscXNPUExSeExKdG5mT3VFWXN3VnowSksxWUY5NlNFb0tsaEZMbnJCRWtvNzR3UXJER1VaLUJxMXYxeVRydzRqa21wMmV2QW02dGNpOUF5aVNyNEljTE1MN2RrY0Zlek5MOGVzRjUzTEl6MTE3djdaMkwtakhZYzFrYUg3bUE?oc=5",
+          "source": "Simply Wall St",
+          "date": "11/11"
         }
       ],
       "archive30d": [
@@ -1723,6 +1743,13 @@
           "level": "mid",
           "date": "11/09",
           "collected_at": "2026-11-10"
+        },
+        {
+          "summary": "루멘(루멘)이 Q3 순손실 $43.7M을 기록",
+          "impact": "핵심 수익성 지표 적자 지속으로 EBITDA 흑자전환 시점 불확실, 신규 투자 검토 판단 유보",
+          "level": "mid",
+          "date": "11/10",
+          "collected_at": "2026-11-11"
         }
       ]
     },
@@ -1733,21 +1760,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+1.67%",
+        "+0.00%",
         "자회사"
       ],
       "priceText": "Rp610",
-      "openText": "Rp600",
+      "openText": "Rp625",
       "highText": "Rp625",
-      "lowText": "Rp580",
-      "prevCloseText": "Rp600",
-      "changeText": "+Rp10",
+      "lowText": "Rp590",
+      "prevCloseText": "Rp610",
+      "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
           "Rp610",
-          "₩45.3"
+          "₩44.9"
         ],
         [
           "취득가",
@@ -1761,7 +1788,7 @@
         ],
         [
           "전일대비",
-          "+1.67%",
+          "+0.00%",
           null
         ],
         [
@@ -1777,11 +1804,11 @@
         [
           "시가총액",
           "Rp1.8조",
-          "1,358억"
+          "1,348억"
         ],
         [
           "52주 고점대비",
-          "-35.52%",
+          "-33.08%",
           null
         ]
       ],
@@ -1799,15 +1826,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 모니터링",
-        "RBC 비율 분기 추이 확인",
-        "PIKK 개정 관련 대응 현황"
+        "OJK 규제 변화 및 신규 지침 발표",
+        "RBC 비율 분기 보고 수치 확인",
+        "PIKK 개정 관련 추가 동향"
       ],
       "spark": [
-        {
-          "date": "8/12",
-          "close": 620.0
-        },
         {
           "date": "8/13",
           "close": 630.0
@@ -2055,11 +2078,15 @@
         {
           "date": "11/10",
           "close": 610.0
+        },
+        {
+          "date": "11/11",
+          "close": 610.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 11/10 종가 (WIB)",
+      "exchangeLine": "IDX · 11/11 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -3948,6 +3975,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-11-10 22:29"
+    "updated": "2026-11-11 21:44"
   }
 }

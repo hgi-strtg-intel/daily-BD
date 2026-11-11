@@ -1,82 +1,95 @@
 {
-  "updated": "2026-11-10 22:25",
+  "updated": "2026-11-11 21:39",
   "items": [
     {
-      "title": "AI security startup Bay launches with $50M to vet agent actions before they run",
-      "url": "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "source": "TechCrunch",
+      "date": "11/10",
+      "insight": "전직 VC가 AI 신약개발 특화 펀드 $27.5M 조성, 섹터 투자 집중 신호",
+      "takeaway": "전직 VC가 AI 신약개발 특화 펀드 $27.5M 조성, 섹터 투자 집중 신호",
+      "bullets": [
+        "SignalFire 출신 Sahir Raoof가 신규 펀드 결성",
+        "펀드 규모 2,750만 달러, 첫 번째 펀드",
+        "AI 기반 제약 스타트업 집중 투자 목표"
+      ]
+    },
+    {
+      "title": "Industrial automation startup Path Robotics raises $300M in funding",
+      "url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "11/11",
+      "insight": "산업용 용접 자동화 스타트업이 $300M 대규모 시리즈E 유치",
+      "takeaway": "산업용 용접 자동화 스타트업이 $300M 대규모 시리즈E 유치",
+      "bullets": [
+        "Georgian이 시리즈E 라운드 리드",
+        "산업 용접 워크플로우 자동화 전문",
+        "조달 규모 3억 달러로 대형 투자"
+      ]
+    },
+    {
+      "title": "Dreeze launches with $33M to recover entire cloud applications, not just their data",
+      "url": "https://siliconangle.com/2026/11/10/dreeze-launches-with-33m-to-recover-entire-cloud-applications-not-just-their-data/",
       "source": "SiliconANGLE",
       "date": "11/10",
-      "insight": "AI 에이전트 행동을 사전 검증하는 보안 스타트업 등장",
-      "takeaway": "AI 에이전트 행동을 사전 검증하는 보안 스타트업 등장",
+      "insight": "이스라엘 스타트업, 데이터 넘어 앱 전체 복구하는 새 카테고리 제시",
+      "takeaway": "이스라엘 스타트업, 데이터 넘어 앱 전체 복구하는 새 카테고리 제시",
       "bullets": [
-        "이스라엘 AI 보안 스타트업 Bay AI 출범",
-        "5000만 달러 초기 펀딩 확보",
-        "에이전트 실행 전 행동 사전 검토 소프트웨어 제공"
+        "이스라엘 클라우드 복구 스타트업 공식 출범",
+        "3,300만 달러 신규 펀딩 확보",
+        "'Application Revival' 개념으로 차별화"
       ]
     },
     {
-      "title": "Trump stands by Nvidia boss Jensen Huang despite spy scandal, but FBI is investigating",
-      "url": "https://siliconangle.com/2026/11/09/trump-stands-by-nvidia-boss-jensen-huang-despite-spy-scandal-says-fbi-investigating/",
+      "title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
+      "url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
       "source": "SiliconANGLE",
-      "date": "11/09",
-      "insight": "젠슨 황 스캔들에 FBI 수사 개입, Nvidia 리스크 부상",
-      "takeaway": "젠슨 황 스캔들에 FBI 수사 개입, Nvidia 리스크 부상",
+      "date": "11/10",
+      "insight": "CoreWeave, 실적 어닝 비트·가이던스 상향으로 AI 인프라 수요 견조 입증",
+      "takeaway": "CoreWeave, 실적 어닝 비트·가이던스 상향으로 AI 인프라 수요 견조 입증",
       "bullets": [
-        "젠슨 황, 중국 정보요원 의혹 여성과 불륜 논란",
-        "트럼프 대통령은 젠슨 황 지지 입장 표명",
-        "FBI가 해당 사안 수사 중"
+        "예상 대비 강한 매출 초과 달성",
+        "연간 가이던스 상향 조정 발표",
+        "AI 컴퓨팅 수요 지속 강세 확인"
       ]
     },
     {
-      "title": "Alphabet’s Wing to invest $125M in new delivery drone factory",
-      "url": "https://siliconangle.com/2026/11/09/alphabets-wing-to-invest-125m-in-new-delivery-drone-factory/",
+      "title": "AI-driven managed security startup Daylight raises $80M on 40-fold revenue growth",
+      "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
       "source": "SiliconANGLE",
-      "date": "11/09",
-      "insight": "Alphabet Wing, 1억 2500만 달러 드론 공장 신설로 배송 확장",
-      "takeaway": "Alphabet Wing, 1억 2500만 달러 드론 공장 신설로 배송 확장",
+      "date": "11/10",
+      "insight": "AI 기반 보안 스타트업, 40배 매출 성장 발판으로 $80M 투자 유치",
+      "takeaway": "AI 기반 보안 스타트업, 40배 매출 성장 발판으로 $80M 투자 유치",
       "bullets": [
-        "Wing Aviation, 드론 배송 공장 건설에 1.25억 달러 투자",
-        "Alphabet 차원의 더 넓은 투자 계획 일환",
-        "배달용 드론 생산 인프라 구축 목적"
+        "Daylight Security, 8,000만 달러 조달",
+        "지난 1년간 매출 40배 이상 성장",
+        "관리형 탐지·대응(MDR) 서비스 제공"
       ]
     },
     {
-      "title": "Hardware-testing and engineering startup Nominal raises $240M at $3B valuation",
-      "url": "https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/",
+      "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+      "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
       "source": "SiliconANGLE",
-      "date": "11/09",
-      "insight": "AI 기반 하드웨어 테스트 스타트업 24억 달러 밸류 달성",
-      "takeaway": "AI 기반 하드웨어 테스트 스타트업 24억 달러 밸류 달성",
+      "date": "11/10",
+      "insight": "AI 훈련 데이터 기업 Mercor, $20B 밸류로 $750M 조달해 기업 시장 공략",
+      "takeaway": "AI 훈련 데이터 기업 Mercor, $20B 밸류로 $750M 조달해 기업 시장 공략",
       "bullets": [
-        "Nominal, 2.4억 달러 신규 펀딩 유치",
-        "Lightspeed·Insight Partners 주도 투자",
-        "기업 가치 30억 달러(3B) 평가"
+        "기업가치 200억 달러 평가",
+        "7억 5,000만 달러 신규 펀딩 확보",
+        "AI 에이전트 평가용 인간 전문성 제공"
       ]
     },
     {
-      "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
-      "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+      "title": "Anthropic launches IPO roadshow with $64B fundraising goal",
+      "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/",
       "source": "SiliconANGLE",
-      "date": "11/06",
-      "insight": "OpenAI, 125조 원 밸류에 110억 달러 추가 조달 임박",
-      "takeaway": "OpenAI, 125조 원 밸류에 110억 달러 추가 조달 임박",
+      "date": "11/10",
+      "insight": "Anthropic, $64B 목표 IPO 로드쇼 개시로 AI 대형 상장 본격화",
+      "takeaway": "Anthropic, $64B 목표 IPO 로드쇼 개시로 AI 대형 상장 본격화",
       "bullets": [
-        "OpenAI 11억 달러 신규 펀딩 보도",
-        "기업 가치 1.25조 달러 추정",
-        "향후 몇 주 내 라운드 규모 두 배 확대 가능성"
-      ]
-    },
-    {
-      "title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
-      "url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
-      "source": "SiliconANGLE",
-      "date": "11/06",
-      "insight": "Thinking Machines, 소형 LLM 출시와 50억 달러 펀딩 동시 추진",
-      "takeaway": "Thinking Machines, 소형 LLM 출시와 50억 달러 펀딩 동시 추진",
-      "bullets": [
-        "Inkling 2 Small 모델 공개, AI 훈련 자동화 가능",
-        "50억 달러 규모 펀딩 추진 중이라고 보도",
-        "소형 모델로 AI 훈련 태스크 자동화 지원"
+        "IPO 로드쇼 공식 시작",
+        "목표 조달 규모 640억 달러",
+        "기관 투자자 대상 프로모션 이벤트 진행"
       ]
     }
   ]
