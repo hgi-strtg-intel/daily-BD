@@ -1,17 +1,95 @@
 {
-  "updated": "2026-11-11 21:39",
+  "updated": "2026-11-12 22:42",
   "items": [
+    {
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "source": "TechCrunch",
+      "date": "11/11",
+      "insight": "신규 펀드 매니저 진입 장벽이 높아진 현실 속 도전기",
+      "takeaway": "신규 펀드 매니저 진입 장벽이 높아진 현실 속 도전기",
+      "bullets": [
+        "Olaf Sakkers, 5년간 신규 VC 매니저로 활동",
+        "첫 펀드 운용은 현재 특히 어려운 환경",
+        "이머징 매니저 압박 극복 전략 주목"
+      ]
+    },
     {
       "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch",
       "date": "11/10",
-      "insight": "전직 VC가 AI 신약개발 특화 펀드 $27.5M 조성, 섹터 투자 집중 신호",
-      "takeaway": "전직 VC가 AI 신약개발 특화 펀드 $27.5M 조성, 섹터 투자 집중 신호",
+      "insight": "AI 신약개발 특화 초기 펀드 2750만 달러 조성 완료",
+      "takeaway": "AI 신약개발 특화 초기 펀드 2750만 달러 조성 완료",
       "bullets": [
-        "SignalFire 출신 Sahir Raoof가 신규 펀드 결성",
-        "펀드 규모 2,750만 달러, 첫 번째 펀드",
-        "AI 기반 제약 스타트업 집중 투자 목표"
+        "전 SignalFire 투자자 Sahir Raoof가 설립",
+        "AI 기반 제약 분야 스타트업 집중 투자",
+        "데뷔 펀드 규모 2750만 달러"
+      ]
+    },
+    {
+      "title": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs",
+      "url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/",
+      "source": "SiliconANGLE",
+      "date": "11/12",
+      "insight": "중소기업 AI 도입 격차 해소, MSP 채널로 2400만 달러 유치",
+      "takeaway": "중소기업 AI 도입 격차 해소, MSP 채널로 2400만 달러 유치",
+      "bullets": [
+        "대기업 대비 중소기업 AI 채택 격차 문제 타겟",
+        "MSP 통해 중소기업 AI 네이티브 전환 지원",
+        "2400만 달러 투자 유치"
+      ]
+    },
+    {
+      "title": "Nebuly wants to help enterprises understand exactly what their AI investments are worth after raising $21M",
+      "url": "https://siliconangle.com/2026/11/12/nebuly-wants-to-help-enterprises-understand-exactly-what-their-ai-investments-are-worth-after-raising-21m/",
+      "source": "SiliconANGLE",
+      "date": "11/12",
+      "insight": "AI 투자 ROI 가시화 솔루션, 이탈리아 스타트업 2100만 달러 확보",
+      "takeaway": "AI 투자 ROI 가시화 솔루션, 이탈리아 스타트업 2100만 달러 확보",
+      "bullets": [
+        "이탈리아 스타트업 Nebuly, 2100만 달러 조달",
+        "기업의 AI 투자 비즈니스 임팩트 측정 솔루션",
+        "AI 투자 효과 불투명 문제를 직접 공략"
+      ]
+    },
+    {
+      "title": "Edelbyte reels in $70M for its multipurpose data analytics platform",
+      "url": "https://siliconangle.com/2026/11/11/edelbyte-reels-in-70m-for-its-multi-purpose-data-analytics-platform/",
+      "source": "SiliconANGLE",
+      "date": "11/11",
+      "insight": "AI 에이전트 최적화 데이터 분석 플랫폼, 7000만 달러로 론칭",
+      "takeaway": "AI 에이전트 최적화 데이터 분석 플랫폼, 7000만 달러로 론칭",
+      "bullets": [
+        "AI 에이전트 특화 데이터 분석 플랫폼 개발사",
+        "2라운드에 걸쳐 총 7000만 달러 조달",
+        "오늘 공식 출시와 동시에 자금 공개"
+      ]
+    },
+    {
+      "title": "British inference chip developer Fractile raises $720M in funding",
+      "url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "11/11",
+      "insight": "영국 AI 추론 칩 스타트업, 7억2000만 달러 대형 투자 유치",
+      "takeaway": "영국 AI 추론 칩 스타트업, 7억2000만 달러 대형 투자 유치",
+      "bullets": [
+        "Fractile, Thrive Capital 등이 주도한 시리즈 C",
+        "AI 추론 전용 칩 개발에 집중하는 영국 스타트업",
+        "7억2000만 달러 규모로 업계 주목"
+      ]
+    },
+    {
+      "title": "Kubernetes had settled into quiet maturity until AI blew the doors back open",
+      "url": "https://siliconangle.com/2026/11/11/agent-substrate-how-kubernetes-became-foundation-ai-kubeconna/",
+      "source": "SiliconANGLE",
+      "date": "11/11",
+      "insight": "AI 붐이 쿠버네티스를 재점화, 에이전트 실행 기반으로 부상",
+      "takeaway": "AI 붐이 쿠버네티스를 재점화, 에이전트 실행 기반으로 부상",
+      "bullets": [
+        "쿠버네티스, AI 에이전트 운용 기반으로 재주목",
+        "성숙 단계였던 기술이 AI로 다시 급성장 국면",
+        "보안 개념 재정립 등 새로운 과제도 부상"
       ]
     },
     {
@@ -19,77 +97,12 @@
       "url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
       "source": "SiliconANGLE",
       "date": "11/11",
-      "insight": "산업용 용접 자동화 스타트업이 $300M 대규모 시리즈E 유치",
-      "takeaway": "산업용 용접 자동화 스타트업이 $300M 대규모 시리즈E 유치",
+      "insight": "산업용 용접 자동화 로봇 스타트업, 3억 달러 시리즈 E 완료",
+      "takeaway": "산업용 용접 자동화 로봇 스타트업, 3억 달러 시리즈 E 완료",
       "bullets": [
-        "Georgian이 시리즈E 라운드 리드",
-        "산업 용접 워크플로우 자동화 전문",
-        "조달 규모 3억 달러로 대형 투자"
-      ]
-    },
-    {
-      "title": "Dreeze launches with $33M to recover entire cloud applications, not just their data",
-      "url": "https://siliconangle.com/2026/11/10/dreeze-launches-with-33m-to-recover-entire-cloud-applications-not-just-their-data/",
-      "source": "SiliconANGLE",
-      "date": "11/10",
-      "insight": "이스라엘 스타트업, 데이터 넘어 앱 전체 복구하는 새 카테고리 제시",
-      "takeaway": "이스라엘 스타트업, 데이터 넘어 앱 전체 복구하는 새 카테고리 제시",
-      "bullets": [
-        "이스라엘 클라우드 복구 스타트업 공식 출범",
-        "3,300만 달러 신규 펀딩 확보",
-        "'Application Revival' 개념으로 차별화"
-      ]
-    },
-    {
-      "title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
-      "url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
-      "source": "SiliconANGLE",
-      "date": "11/10",
-      "insight": "CoreWeave, 실적 어닝 비트·가이던스 상향으로 AI 인프라 수요 견조 입증",
-      "takeaway": "CoreWeave, 실적 어닝 비트·가이던스 상향으로 AI 인프라 수요 견조 입증",
-      "bullets": [
-        "예상 대비 강한 매출 초과 달성",
-        "연간 가이던스 상향 조정 발표",
-        "AI 컴퓨팅 수요 지속 강세 확인"
-      ]
-    },
-    {
-      "title": "AI-driven managed security startup Daylight raises $80M on 40-fold revenue growth",
-      "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
-      "source": "SiliconANGLE",
-      "date": "11/10",
-      "insight": "AI 기반 보안 스타트업, 40배 매출 성장 발판으로 $80M 투자 유치",
-      "takeaway": "AI 기반 보안 스타트업, 40배 매출 성장 발판으로 $80M 투자 유치",
-      "bullets": [
-        "Daylight Security, 8,000만 달러 조달",
-        "지난 1년간 매출 40배 이상 성장",
-        "관리형 탐지·대응(MDR) 서비스 제공"
-      ]
-    },
-    {
-      "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-      "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
-      "source": "SiliconANGLE",
-      "date": "11/10",
-      "insight": "AI 훈련 데이터 기업 Mercor, $20B 밸류로 $750M 조달해 기업 시장 공략",
-      "takeaway": "AI 훈련 데이터 기업 Mercor, $20B 밸류로 $750M 조달해 기업 시장 공략",
-      "bullets": [
-        "기업가치 200억 달러 평가",
-        "7억 5,000만 달러 신규 펀딩 확보",
-        "AI 에이전트 평가용 인간 전문성 제공"
-      ]
-    },
-    {
-      "title": "Anthropic launches IPO roadshow with $64B fundraising goal",
-      "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/",
-      "source": "SiliconANGLE",
-      "date": "11/10",
-      "insight": "Anthropic, $64B 목표 IPO 로드쇼 개시로 AI 대형 상장 본격화",
-      "takeaway": "Anthropic, $64B 목표 IPO 로드쇼 개시로 AI 대형 상장 본격화",
-      "bullets": [
-        "IPO 로드쇼 공식 시작",
-        "목표 조달 규모 640억 달러",
-        "기관 투자자 대상 프로모션 이벤트 진행"
+        "Path Robotics, 산업 용접 자동화 전문 스타트업",
+        "Georgian 주도로 시리즈 E 3억 달러 유치",
+        "대형 컨소시엄이 공동 참여한 대규모 라운드"
       ]
     }
   ]

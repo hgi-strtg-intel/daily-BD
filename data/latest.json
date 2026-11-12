@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-11-11",
-  "updated": "2026-11-11 21:39",
-  "fx": "환율 2026-11-11 · 시장환율   1 USD = ₩1,336.00   |   1 USD = 18,140.00 IDR   |   1 IDR = ₩0.07365",
+  "asOf": "2026-11-12",
+  "updated": "2026-11-12 22:42",
+  "fx": "환율 2026-11-12 · 시장환율   1 USD = ₩1,333.81   |   1 USD = 18,228.00 IDR   |   1 IDR = ₩0.07317",
   "attentionItems": [
     {
       "company": "차AI헬스케어",
-      "text": "임원·주요주주 특정증권 거래계획보고서 DART 공시",
-      "impact": "내부자 지분 거래 계획 확정 공시로 당사 보유 지분가치 수급 영향 모니터링 필요",
+      "text": "2026년 3분기(2026.09) 분기보고서 DART 공시",
+      "impact": "당사 보유 지분 평가의 근거가 되는 최신 실적·재무 데이터 확인 가능",
       "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000522"
     },
     {
       "company": "차AI헬스케어",
-      "text": "메타엑스1호조합이 차AI헬스케어 주식 147만주 배분 신고",
-      "impact": "유통 가능 물량 증가로 단기 수급 부담 발생, 당사 보유 지분 평가가치 하방 압력 가능",
+      "text": "임원·주요주주 특정증권 거래계획보고서 제출",
+      "impact": "내부자 지분 매도·매수 계획에 따라 지분구조 및 주가 방향성 변동 가능성 존재",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EREwtYlR5LWFKdUI4Wk0tQkNpZUNFZTdWQTJPcnlhWDlpNFVjcUlWQ244UTY2M0lnLVZTV2dhZ09FNTlJZzZBb1ZkTkhlNkxPcW5TXzJYMWpIWjlnT2tuMkRFd1E3UQ?oc=5"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "C",
-      "event": "K-Cell 연구 비전 외부 발표",
+      "event": "주요 변동 없음",
       "tags": [
-        "+0.27%",
+        "-0.41%",
         "당사 투자"
       ],
-      "priceText": "₩7,360",
-      "openText": "₩7,300",
-      "highText": "₩7,510",
+      "priceText": "₩7,330",
+      "openText": "₩7,370",
+      "highText": "₩7,450",
       "lowText": "₩7,220",
-      "prevCloseText": "₩7,340",
-      "changeText": "+₩20",
+      "prevCloseText": "₩7,360",
+      "changeText": "-₩30",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,360",
+          "₩7,330",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-42.52%",
+          "-42.76%",
           null
         ],
         [
           "전일대비",
-          "+0.27%",
+          "-0.41%",
           null
         ],
         [
           "전주대비",
-          "+0.96%",
+          "+0.55%",
           null
         ],
         [
           "거래량(20일比)",
-          "18.30만 · 0.78x",
+          "14.52만 · 0.62x",
           null
         ],
         [
           "시가총액",
-          "6,843억",
+          "6,815억",
           null
         ],
         [
           "52주 고점대비",
-          "-69.27%",
+          "-69.39%",
           null
         ]
       ],
@@ -89,19 +89,14 @@
         }
       ],
       "events": [
-        "세계 학회 발표는 연구 방향성 홍보 수준으로, CGT/CDMO 사업가치를 직접 바꾸는 계약·기술 진척은 아님",
-        "자금조달·지분구조 변동 등 지분가치 직결 이슈는 금주 공시 없음"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "CGT/CDMO 신규 계약 또는 임상 진척 공시",
-        "유상증자·CB 등 자금조달 공시 발생 여부",
-        "최대주주·지분구조 변동 여부"
+        "CGT/CDMO 임상·계약 진척 여부",
+        "유상증자·CB 등 자금조달 공시 여부",
+        "핵심 자회사 지분구조 변동 여부"
       ],
       "spark": [
-        {
-          "date": "8/10",
-          "close": 9850.0
-        },
         {
           "date": "8/11",
           "close": 9720.0
@@ -349,36 +344,40 @@
         {
           "date": "11/11",
           "close": 7360.0
+        },
+        {
+          "date": "11/12",
+          "close": 7330.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 11/11 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dzN2MHZIdmgtazJtRDR5cHpoYUR4OVNtR1otY0lWdnkwYlo4b0EtdWNuSVZBU0pPc1hDZEtDQ3R0NDhkRlRaX3UxYzdNZmo2bWJpMFBFaEFMdWprQm1hNlZVUXVJOGl0ZW9MQm1zR3FacE4xX084M0J3?oc=5",
+      "exchangeLine": "KRX · 11/12 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FczZXcVNUSENQaXFFQzNOT2ZSOUFyZjZYN1kwcTExbGpjWl9fYldQdlBVVlhOWVRoVWFDSTRXSk1od2NTdjdvWVo0YjlONHdwcEU5TXdrSEVnTjVKeFJLQ0JkTVlFNXdJeE9Ddk9BOWrSAXRBVV95cUxNdEZIa3ZTM0ZkdndVRWNWc1ZmWExIZGxFUEZ1b0ZneVQ4SEZMUS1scE5Od0NOekpyQ3g0ek5jUC1pb2Q1SjliWENKWHdVSG1KSzA3RWR3NkhnZEpITTlhSnVSdzRoeFFUazJCcVIyZkxRWUhsTg?oc=5",
       "sources": [
         {
-          "title": "차광렬 차병원·차바이오그룹 연구소장, K-Cell 연구 전략 발표",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dzN2MHZIdmgtazJtRDR5cHpoYUR4OVNtR1otY0lWdnkwYlo4b0EtdWNuSVZBU0pPc1hDZEtDQ3R0NDhkRlRaX3UxYzdNZmo2bWJpMFBFaEFMdWprQm1hNlZVUXVJOGl0ZW9MQm1zR3FacE4xX084M0J3?oc=5",
-          "source": "로이슈",
-          "date": "11/11"
+          "title": "차앤맘, ﻿넘버블록스 에디션 2종 출시",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FczZXcVNUSENQaXFFQzNOT2ZSOUFyZjZYN1kwcTExbGpjWl9fYldQdlBVVlhOWVRoVWFDSTRXSk1od2NTdjdvWVo0YjlONHdwcEU5TXdrSEVnTjVKeFJLQ0JkTVlFNXdJeE9Ddk9BOWrSAXRBVV95cUxNdEZIa3ZTM0ZkdndVRWNWc1ZmWExIZGxFUEZ1b0ZneVQ4SEZMUS1scE5Od0NOekpyQ3g0ek5jUC1pb2Q1SjliWENKWHdVSG1KSzA3RWR3NkhnZEpITTlhSnVSdzRoeFFUazJCcVIyZkxRWUhsTg?oc=5",
+          "source": "포인트데일리",
+          "date": "11/12"
         },
         {
-          "title": "차광렬 차병원그룹 연구소장, 세계 학회서 난치병 치료 전략 공개",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlRhNjdob2dCSmJ2OElXNHg0MnBqM3VlR0JydmRKMzhJaHg1bGZkZ3FiME1Fc25kdl9ZSVRBckFETVItSWZld1BFU2tUVjFpbDlRbXdlS0cySExXSjZLaEdmdEtYT3lHMVVWdTNSaF9KUXZ3V2ZEMmJNUm1BakV1N1VWNjJYR0XSAZsBQVVfeXFMTi1pb3dVRU8xWnlVcEFnUW1EdmtremxZUHFaRkt5WGlvWm5iZGhycEwxRlZ4Q0hRd3lraW5JWVk1NVdkMGpxVzJGU1lMYlBrZ3hpaGxLT285NmY1RFd5ZEdmMXVPQXF3dExJaXExOTNuYnV2MllzdzFiOFJiemNiRml1N2FJLUdzcENCUUhEQWdtUy1GclRMOHNiUzA?oc=5",
-          "source": "Chosunbiz",
-          "date": "11/11"
+          "title": "차바이오F&C 차앤맘, 교육 애니메이션 '넘버블록스' 협업 제품 출시",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44eUdma3pfVXQ5bUt1WXNoNFVlRHAtOXNidEg0bE8ydkxkQk1aLW10eGZvWWhNZnpwYTloZUQ3RUxXZG9JY1RoTVJpWEdrMkQ3TlNXbUFiSnhxQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "date": "11/12"
         },
         {
-          "title": "난소 기능 회복부터 세포치료제 개발까지…차병원, K-Cell 연구 확대",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTQ0NPSWVuQ29ZWTFuazk5SzBTdHBtcTlzTDRTQWpFT3Zza0hhQzFIcTNJZk1DdlpvbFduVjlZVVVfS051bEVVNTMwOFhrdC1OQy1KTTZIRVFtYjVpUmNtNmhydzRIejFFNG9DMnl3?oc=5",
-          "source": "아시아투데이",
-          "date": "11/11"
+          "title": "차앤맘, 교육 애니메이션 '넘버블록스' 협업 제품 2종 출시",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DNy1od1E1ZGswYTBWQWxwMVpWaVltREtQQ3gyU09PbHVPT0tDbWlEMkh5S3JEZ3Fuc1ZuSl9SME1xcVM3YjZCX0U5bzc4MDB5QVBuQ3B3Q3ZyQTVYTjJ6UA?oc=5",
+          "source": "뉴스1",
+          "date": "11/12"
         },
         {
-          "title": "K-Cell로 난치병 치료 넘어 수명 연장까지… 세계생식면역학회서 비전 제시",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsczg1bXpNa0ZlYW5uNGpKdUtRZUxEODJocTQwN3hTUnlVS0Vucmc4S292S0Y2T1diTmJuNEFGRHAxUWZKaURlRkJfQnJ6TUFOMmVyY1BhVVAyd9IBWEFVX3lxTE4yaXE4OW1IZllrbENvWkw2eWNpcHh5Q0VrNXZzbC1BdlBkMFU4Q1VtazdKWGtTNm1nSk10ZG5ES1pKaVFQcHBhcnpFRjNCYzdPbUx3dldyTDI?oc=5",
-          "source": "아주경제",
-          "date": "11/11"
+          "title": "차앤맘, ‘넘버블록스’ 협업 보습 제품 2종 출시",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DeDIxTG5fWnphRnFIM21yNURkcGpLc1ZxTG9TVUo1LXk5ZGNQdlVTQ3pxT1ZUR0RTQWpVUTlOYWhKbWFVSHo5V3RnU1ZZRjdpXzhBS0lpSHNXNXVidmt3aTlISnBOQWFnR3RzMWRsWjLSAXRBVV95cUxPdzctTHhqeHpoSWFoWnItdEk2RWRFS1dfU3JIU2V2VmUyaVRTT2c1RGlySFgwM0ozSjFVQUh3aFN0aUw4d3UydDkyRDFyWVhaX2JsZzFtVFI5Rm1rUmRydHNiTU1PYVpxVHIwb3p6Vy0ycGlaUw?oc=5",
+          "source": "주간한국",
+          "date": "11/12"
         }
       ],
       "archive30d": [
@@ -725,22 +724,22 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "임원·주요주주 지분 거래 계획 신고",
+      "event": "분기보고서 공시·임원 거래계획 신고",
       "tags": [
-        "-0.78%",
+        "-2.77%",
         "당사 투자"
       ],
-      "priceText": "₩5,060",
-      "openText": "₩5,180",
-      "highText": "₩5,180",
-      "lowText": "₩5,000",
-      "prevCloseText": "₩5,100",
-      "changeText": "-₩40",
+      "priceText": "₩4,920",
+      "openText": "₩5,060",
+      "highText": "₩5,150",
+      "lowText": "₩4,900",
+      "prevCloseText": "₩5,060",
+      "changeText": "-₩140",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,060",
+          "₩4,920",
           null
         ],
         [
@@ -755,27 +754,27 @@
         ],
         [
           "전일대비",
-          "-0.78%",
+          "-2.77%",
           null
         ],
         [
           "전주대비",
-          "+1.30%",
+          "-1.50%",
           null
         ],
         [
           "거래량(20일比)",
-          "4.77천 · 0.81x",
+          "1.88천 · 0.32x",
           null
         ],
         [
           "시가총액",
-          "921억",
+          "895억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.22%",
+          "-67.16%",
           null
         ]
       ],
@@ -790,19 +789,15 @@
         }
       ],
       "events": [
-        "메타엑스1호조합의 147만주 배분 신고는 유통 물량 증가 요인으로 단기 수급에 영향 가능",
-        "사업 확장·실적 개선 관련 공시는 없어 헬스케어 전환 성패 판단 근거 미확보"
+        "분기보고서 제출로 사업모델 전환 진행 상황 및 수익성 개선 여부 확인 필요",
+        "임원 특정증권 거래계획 신고는 내부자 지분 방향성 변화 가능성 시사"
       ],
       "watch": [
-        "주요주주 지분 처분 규모·시기 확정 여부",
-        "헬스케어 사업 신규 고객·파트너십 공시",
-        "분기 매출·영업손익 추이 확인"
+        "3Q 매출·영업손익 개선 추이 확인",
+        "헬스케어 고객사·파트너십 확장 여부",
+        "임원 거래계획 실행 및 지분구조 변동"
       ],
       "spark": [
-        {
-          "date": "8/10",
-          "close": 4850.0
-        },
         {
           "date": "8/11",
           "close": 5010.0
@@ -1050,24 +1045,28 @@
         {
           "date": "11/11",
           "close": 5060.0
+        },
+        {
+          "date": "11/12",
+          "close": 4920.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 11/11 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281",
+      "exchangeLine": "KRX · 11/12 종가",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000522",
       "sources": [
+        {
+          "title": "분기보고서 (2026.09)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000522",
+          "source": "DART",
+          "date": "20261112"
+        },
         {
           "title": "임원ㆍ주요주주특정증권등거래계획보고서",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000281",
           "source": "DART",
           "date": "20261110"
-        },
-        {
-          "title": "메타엑스1호조합, 차AI헬스케어 147만주 배분 신고",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EREwtYlR5LWFKdUI4Wk0tQkNpZUNFZTdWQTJPcnlhWDlpNFVjcUlWQ244UTY2M0lnLVZTV2dhZ09FNTlJZzZBb1ZkTkhlNkxPcW5TXzJYMWpIWjlnT2tuMkRFd1E3UQ?oc=5",
-          "source": "비건뉴스",
-          "date": "11/10"
         }
       ],
       "archive30d": [
@@ -1112,6 +1111,20 @@
           "level": "mid",
           "date": "11/10",
           "collected_at": "2026-11-11"
+        },
+        {
+          "summary": "2026년 3분기(2026.09) 분기보고서 DART 공시",
+          "impact": "당사 보유 지분 평가의 근거가 되는 최신 실적·재무 데이터 확인 가능",
+          "level": "mid",
+          "date": "11/12",
+          "collected_at": "2026-11-12"
+        },
+        {
+          "summary": "임원·주요주주 특정증권 거래계획보고서 제출",
+          "impact": "내부자 지분 매도·매수 계획에 따라 지분구조 및 주가 방향성 변동 가능성 존재",
+          "level": "mid",
+          "date": "11/10",
+          "collected_at": "2026-11-12"
         }
       ]
     },
@@ -1120,23 +1133,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "Q3 순손실 지속, 밸류에이션 논쟁",
+      "event": "Q3 IFP·매출 고성장 확인",
       "tags": [
-        "-1.73%",
+        "+3.51%",
         "벤치마크"
       ],
-      "priceText": "$39.28",
-      "openText": "$39.50",
-      "highText": "$40.30",
-      "lowText": "$38.36",
-      "prevCloseText": "$39.97",
-      "changeText": "-$0.69",
+      "priceText": "$40.66",
+      "openText": "$39.95",
+      "highText": "$41.07",
+      "lowText": "$39.64",
+      "prevCloseText": "$39.28",
+      "changeText": "+$1.38",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$39.28",
-          "₩52,478"
+          "$40.66",
+          "₩54,233"
         ],
         [
           "취득가",
@@ -1150,27 +1163,27 @@
         ],
         [
           "전일대비",
-          "-1.73%",
+          "+3.51%",
           null
         ],
         [
           "전주대비",
-          "-0.68%",
+          "+2.81%",
           null
         ],
         [
           "거래량(20일比)",
-          "137.35만 · 1.05x",
+          "98.08만 · 0.74x",
           null
         ],
         [
           "시가총액",
-          "$3.06B",
-          "4.09조"
+          "$3.17B",
+          "4.23조"
         ],
         [
           "52주 고점대비",
-          "-60.68%",
+          "-59.30%",
           null
         ]
       ],
@@ -1185,19 +1198,15 @@
         }
       ],
       "events": [
-        "Q3 순손실 $43.7M 기록으로 EBITDA 흑자전환 시점 여전히 불확실, 투자 매력도 판단 유보 필요",
-        "복수 매체가 현 주가 대비 성장성 정당성을 의문시해 밸류에이션 리스크 부각"
+        "Q3 매출 73% 성장·IFP $1.55bn 달성은 디지털 보험 성장성 벤치마크로 의미 있는 지표",
+        "Investor Day 개최는 밸류에이션·전략 방향 공개 계기로, 당사 투자 검토 판단 재료 될 수 있음"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 추이",
-        "EBITDA 흑자전환 가이던스 제시 여부",
-        "현 주가 대비 P/S 적정성 재검토 시점"
+        "Q3 Loss Ratio 및 EBITDA 흑자전환 여부",
+        "Investor Day에서 중장기 가이던스 발표 내용",
+        "전국 렌터스 확대에 따른 IFP 성장 지속성"
       ],
       "spark": [
-        {
-          "date": "8/13",
-          "close": 52.98
-        },
         {
           "date": "8/14",
           "close": 52.64
@@ -1445,35 +1454,39 @@
         {
           "date": "11/10",
           "close": 39.28
+        },
+        {
+          "date": "11/11",
+          "close": 40.66
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 11/10 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFZzczlhNUR2NWdqMzAtM2hSZ00zZE8zdmhKSy1Hd1p6UmJrNmlvLVBDLWQ0WmpPRExIQlJwY3NsR3gxb04tWGlmdmpVQk0zbzAtWVRBZk1jZllidlFET2ZxQzVTWmdKcGNiQ0hjOVlWbUJzZFBkbUVSQnFSZmpsRXdkYTdWNVMtVEZxbHdXQ1NRNmtjM1NqOUd1TXRKYmY2TFViVFVDRHNKVXlJSFFXczZVTUQ5S0YxX1BrMGhtSWpRQQ?oc=5",
+      "exchangeLine": "NYSE · 11/11 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlWc0V6UGU4Nld5R3hmQ2xUZURYTmZCR1c4UmRTYnhEQVRrVXlrVTBfM29UcXI5NWN0azRTZHRQeENNZjdiUGd4NjNSTWpOcVZMcHVGT1pySFd6WDEwbUFwV1kyU2NveGx0bTBqN1J1YVQwOVZjMllpQ3BzckxUWjhHY182TXMtUlJoVFNiVS1FQmpSazNjNnhfT2FudEdlbFc2dF9TUWU2Zl9yTmpvRHNTTXE3SzJXTlc0dmZuTzFnc0U50gHKAUFVX3lxTE52UGlyVTQ1TVdsQmtqdnBJczE5RW1NbEdUYzEwSC1mMkNFM2ttTVVYemhVYlZlcEVQV3B6bUZWT2RfQzVTandGT2M2WU1nNml0WGxmcnBvWUZSODk4S0Z3U1JsVUw5ZnZlUUFQUS1RanlCeUMxb3NUS1lWdDBOTEVZN09oZGZ4dmU4bnN4TVo2MV9IcDF4N0ZsMjIyV2o1Y0lOVFY2LURJTnF1QmFMRzZHQmpXcTJ2MmNHS01uQXg2cWZQZzRDc09Fa2c?oc=5",
       "sources": [
         {
-          "title": "This Fast-Growing Insurance Stock Is About to Do Something It's Never Done Before",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFZzczlhNUR2NWdqMzAtM2hSZ00zZE8zdmhKSy1Hd1p6UmJrNmlvLVBDLWQ0WmpPRExIQlJwY3NsR3gxb04tWGlmdmpVQk0zbzAtWVRBZk1jZllidlFET2ZxQzVTWmdKcGNiQ0hjOVlWbUJzZFBkbUVSQnFSZmpsRXdkYTdWNVMtVEZxbHdXQ1NRNmtjM1NqOUd1TXRKYmY2TFViVFVDRHNKVXlJSFFXczZVTUQ5S0YxX1BrMGhtSWpRQQ?oc=5",
-          "source": "The Motley Fool",
-          "date": "11/11"
-        },
-        {
-          "title": "루멘 (루멘) Stock Could Be Fully Priced Despite Strong Q3 Revenue",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSE1ncktEOEFpLU04b0NIVXZ2RExSMTNIZHVteWdBMzJyM204Sm9tWldPT01aSEFYM1hxQllTV1d1OER0akpocVdYSUo4TVFsaVdsdDdoTno1YndDUGhGa25UYjRURTVZZUlIM0hRR3V2U0dIVFo1VXVMam02QXg1b0pwOTEteW8?oc=5",
-          "source": "Yahoo Finance Singapore",
-          "date": "11/11"
-        },
-        {
-          "title": "Berkshire Hathaway Class B Reaches a New All-Year High at $583.61",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnZEWlhBVVJYQWlYN1Z0a3pGUDZFWmotZlhKQkEycUxXazRNdGVBOUFWZzJXM0ZRWUpQVGpybkN3a2ltN09pbUZXNTJpTnB3eG5ROTBfYlZnYTl1dWE2aDBKTS1OVjJYU3JwZXlfLVI2YXkya2Z5Q2hkNXFCM0pIdEpRRTYtX1ItQlFfTjZSZEFYbHI3TFpGNGlYWUhiZTdK?oc=5",
-          "source": "24/7 Wall St.",
-          "date": "11/11"
-        },
-        {
-          "title": "Can 루멘 (루멘) Justify Its Price On Sales Growth?",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjJpM1hYVGFDeEhFQ1pzZVltdVNvQUpkS0J4Mm1XcFExVm1wX2ozaEhvdnI2MXR4OHBwcGEzMlRIeHlGS0xhNmpBV1FqbTc4azJybzRJV1lESGdkZjhKZmFwNGM5SFRoSFZyWTRtaEpLTGxwTGhHYWlpME4wU1JwUzEtY1FNNmRGdW9LTFowZ29zNHJwQ2FqUGxYcWJXMXRiQ2p5MzZPQnBOX29kOWxOWl9xV3ZxZmxS0gG-AUFVX3lxTFBzeVp2Z2FWeDFkLXE1a1lkWmxaNWdvZ3lxd0luejNqZFVXWmM4VVVicE5yakdxRVB6b0t5SHgzQUhscXNPUExSeExKdG5mT3VFWXN3VnowSksxWUY5NlNFb0tsaEZMbnJCRWtvNzR3UXJER1VaLUJxMXYxeVRydzRqa21wMmV2QW02dGNpOUF5aVNyNEljTE1MN2RrY0Zlek5MOGVzRjUzTEl6MTE3djdaMkwtakhZYzFrYUg3bUE?oc=5",
+          "title": "How Nationwide Renters Rollout Will Impact 루멘 (루멘) Stock",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXlWc0V6UGU4Nld5R3hmQ2xUZURYTmZCR1c4UmRTYnhEQVRrVXlrVTBfM29UcXI5NWN0azRTZHRQeENNZjdiUGd4NjNSTWpOcVZMcHVGT1pySFd6WDEwbUFwV1kyU2NveGx0bTBqN1J1YVQwOVZjMllpQ3BzckxUWjhHY182TXMtUlJoVFNiVS1FQmpSazNjNnhfT2FudEdlbFc2dF9TUWU2Zl9yTmpvRHNTTXE3SzJXTlc0dmZuTzFnc0U50gHKAUFVX3lxTE52UGlyVTQ1TVdsQmtqdnBJczE5RW1NbEdUYzEwSC1mMkNFM2ttTVVYemhVYlZlcEVQV3B6bUZWT2RfQzVTandGT2M2WU1nNml0WGxmcnBvWUZSODk4S0Z3U1JsVUw5ZnZlUUFQUS1RanlCeUMxb3NUS1lWdDBOTEVZN09oZGZ4dmU4bnN4TVo2MV9IcDF4N0ZsMjIyV2o1Y0lOVFY2LURJTnF1QmFMRzZHQmpXcTJ2MmNHS01uQXg2cWZQZzRDc09Fa2c?oc=5",
           "source": "Simply Wall St",
+          "date": "11/12"
+        },
+        {
+          "title": "Insurtech 루멘 Q3 revenue jumps 73% to $336 mn as IFP premiums reach $1.55 bn",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQ1daekl6MmR5YUlQR0xTdjUwX1FyMUtzeXdyekNPbTFQcmJVejJ5QXRZVUxzQXQwTGt2ajZjLWhMY1Z3ZjhNMjIyZFVZVkowWmlBd3FQVkc4YTBvS096M01scl9uTmg0UXdaTnl4OA?oc=5",
+          "source": "Beinsure",
+          "date": "11/11"
+        },
+        {
+          "title": "루멘 Announces Online Viewing Details for 2026 Investor Day",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZm9aSTdSSDJMR2ZOdkR3TjdjYzJhTjUweWs3UUNzWlNyWlJabUEtXzNZOTV2TG9WWjExcjBveF85Uk1FRWctTl9UNXRLQjhHbnEwVkVJS09DVVFCZzVGU0wzRUJkYTdqVWc4Wjk5QWRDZW1fSDlPT0dOZkdzbE9QdWxfYkhCandfalJnejRqenZhcGZxRS1qY2hIVWlzOUNla0h0X1QxaGQzZw?oc=5",
+          "source": "Quantisnow",
+          "date": "11/11"
+        },
+        {
+          "title": "루멘 Announces Online Viewing Details for 2026 Investor Day",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWM5dUJUdDNOSUluazBHUEYzSXZKYTlQc202VExJSUpEY3NHQXJkRGtGdUE3bERrb01IeG9tZlFaNzg0cGM4NzNLZlVERFVEY2IyajVpSmdIS1NaenNjMHVQd2RneXU2M3gxcVU3c3lsYTZ2cS1MQVJ0YmVVYzB0alhvWHlsV3pBMWVfTHNJNEVDVVRnZnNNRHV4WGl1XzI0Y2xMY3FOMXF6Ym1aTlhwMFZpY3diS3o5MHRB?oc=5",
+          "source": "PR Newswire",
           "date": "11/11"
         }
       ],
@@ -1750,6 +1763,20 @@
           "level": "mid",
           "date": "11/10",
           "collected_at": "2026-11-11"
+        },
+        {
+          "summary": "Q3 매출 $336mn(전년비 +73%), IFP $1.55bn 기록",
+          "impact": "디지털 손보 벤치마크 핵심 지표 고성장 확인, 당사 투자 검토 시 밸류에이션 재산정 필요",
+          "level": "mid",
+          "date": "11/11",
+          "collected_at": "2026-11-12"
+        },
+        {
+          "summary": "2026 Investor Day 온라인 시청 세부사항 발표",
+          "impact": "중장기 전략·가이던스 공개 예정, 당사 투자 검토 판단을 위한 추가 정보 확보 기회",
+          "level": "low",
+          "date": "11/11",
+          "collected_at": "2026-11-12"
         }
       ]
     },
@@ -1764,8 +1791,8 @@
         "자회사"
       ],
       "priceText": "Rp610",
-      "openText": "Rp625",
-      "highText": "Rp625",
+      "openText": "Rp660",
+      "highText": "Rp660",
       "lowText": "Rp590",
       "prevCloseText": "Rp610",
       "changeText": "+Rp0",
@@ -1774,7 +1801,7 @@
         [
           "종가",
           "Rp610",
-          "₩44.9"
+          "₩44.6"
         ],
         [
           "취득가",
@@ -1798,13 +1825,13 @@
         ],
         [
           "거래량(20일比)",
-          "1.50천 · 0.04x",
+          "2.00천 · 0.05x",
           null
         ],
         [
           "시가총액",
           "Rp1.8조",
-          "1,348억"
+          "1,339억"
         ],
         [
           "52주 고점대비",
@@ -1826,15 +1853,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 신규 지침 발표",
-        "RBC 비율 분기 보고 수치 확인",
-        "PIKK 개정 관련 추가 동향"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "RBC 비율 등 자본적정성 추이",
+        "GWP 성장 및 손해율 추이"
       ],
       "spark": [
-        {
-          "date": "8/13",
-          "close": 630.0
-        },
         {
           "date": "8/14",
           "close": 630.0
@@ -2082,11 +2105,15 @@
         {
           "date": "11/11",
           "close": 610.0
+        },
+        {
+          "date": "11/12",
+          "close": 610.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 11/11 종가 (WIB)",
+      "exchangeLine": "IDX · 11/12 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -3975,6 +4002,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-11-11 21:44"
+    "updated": "2026-11-12 22:43"
   }
 }
