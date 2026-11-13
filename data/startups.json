@@ -1,17 +1,30 @@
 {
-  "updated": "2026-11-12 22:42",
+  "updated": "2026-11-13 16:52",
   "items": [
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch",
+      "date": "11/12",
+      "insight": "Norwest, 역대 최대 40억 달러 펀드로 AI 베팅 강화",
+      "takeaway": "Norwest, 역대 최대 40억 달러 펀드로 AI 베팅 강화",
+      "bullets": [
+        "Norwest가 40억 달러 규모 신규 펀드 조성",
+        "해당 운용사 역사상 최대 규모 펀드",
+        "AI 분야 집중 투자 방향 천명"
+      ]
+    },
     {
       "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
       "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
       "source": "TechCrunch",
       "date": "11/11",
-      "insight": "신규 펀드 매니저 진입 장벽이 높아진 현실 속 도전기",
-      "takeaway": "신규 펀드 매니저 진입 장벽이 높아진 현실 속 도전기",
+      "insight": "신규 VC 진입 장벽이 높아지는 시장서 첫 펀드 도전기",
+      "takeaway": "신규 VC 진입 장벽이 높아지는 시장서 첫 펀드 도전기",
       "bullets": [
-        "Olaf Sakkers, 5년간 신규 VC 매니저로 활동",
-        "첫 펀드 운용은 현재 특히 어려운 환경",
-        "이머징 매니저 압박 극복 전략 주목"
+        "Olaf Sakkers, 첫 번째 펀드 매니저로 도전",
+        "신규 VC 진입이 특히 어려운 현재 환경",
+        "5년간의 경험을 바탕으로 입지 증명 시도"
       ]
     },
     {
@@ -19,90 +32,90 @@
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch",
       "date": "11/10",
-      "insight": "AI 신약개발 특화 초기 펀드 2750만 달러 조성 완료",
-      "takeaway": "AI 신약개발 특화 초기 펀드 2750만 달러 조성 완료",
+      "insight": "AI 신약개발 특화 첫 펀드, 2750만 달러로 출범",
+      "takeaway": "AI 신약개발 특화 첫 펀드, 2750만 달러로 출범",
       "bullets": [
-        "전 SignalFire 투자자 Sahir Raoof가 설립",
-        "AI 기반 제약 분야 스타트업 집중 투자",
-        "데뷔 펀드 규모 2750만 달러"
+        "전 SignalFire 투자자 Sahir Raoof가 펀드 결성",
+        "2750만 달러 규모 데뷔 펀드 조성 완료",
+        "AI 활용 제약·신약개발 스타트업 타깃"
       ]
     },
     {
-      "title": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs",
-      "url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/",
+      "title": "Five thoughts from Cisco’s first quarter of fiscal 2027",
+      "url": "https://siliconangle.com/2026/11/12/five-thoughts-from-ciscos-first-quarter-of-fiscal-2027/",
+      "source": "SiliconANGLE",
+      "date": "11/13",
+      "insight": "Cisco, AI가 실질 성장 동력임을 실적으로 입증",
+      "takeaway": "Cisco, AI가 실질 성장 동력임을 실적으로 입증",
+      "bullets": [
+        "Cisco 2027 회계연도 1분기 매출·이익 사상 최고",
+        "AI가 강력한 성장 촉매제로 작용",
+        "AI 관련 의구심 해소에 충분한 실적 발표"
+      ]
+    },
+    {
+      "title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027",
+      "url": "https://siliconangle.com/2026/11/12/cisco-beats-expectations-lifts-its-guidance-and-forecasts-ai-infrastructure-revenue-to-double-in-fiscal-2027/",
+      "source": "SiliconANGLE",
+      "date": "11/13",
+      "insight": "Cisco, AI 인프라 매출 2027년 2배 전망하며 가이던스 상향",
+      "takeaway": "Cisco, AI 인프라 매출 2027년 2배 전망하며 가이던스 상향",
+      "bullets": [
+        "1분기 실적 월가 예상치 상회",
+        "2027 회계연도 AI 인프라 매출 2배 성장 예고",
+        "실적 발표 후 주가는 보합세 유지"
+      ]
+    },
+    {
+      "title": "Quantum sensor and software maker Q-CTRL raises $290M in funding",
+      "url": "https://siliconangle.com/2026/11/12/quantum-sensor-and-software-maker-q-ctrl-raises-290m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "11/13",
+      "insight": "Salesforce 주도 2.9억 달러 유치, 양자센서 시장 급성장 신호",
+      "takeaway": "Salesforce 주도 2.9억 달러 유치, 양자센서 시장 급성장 신호",
+      "bullets": [
+        "Q-CTRL, 2억9000만 달러 시리즈C 완료",
+        "Salesforce Ventures가 초과청약된 라운드 주도",
+        "양자 센서 및 큐비트 관리 소프트웨어 전문기업"
+      ]
+    },
+    {
+      "title": "AI agent tooling provider LangChain secures $300M investment",
+      "url": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
       "source": "SiliconANGLE",
       "date": "11/12",
-      "insight": "중소기업 AI 도입 격차 해소, MSP 채널로 2400만 달러 유치",
-      "takeaway": "중소기업 AI 도입 격차 해소, MSP 채널로 2400만 달러 유치",
+      "insight": "Alphabet 등 참여, LangChain 3억 달러로 AI 에이전트 생태계 주도",
+      "takeaway": "Alphabet 등 참여, LangChain 3억 달러로 AI 에이전트 생태계 주도",
       "bullets": [
-        "대기업 대비 중소기업 AI 채택 격차 문제 타겟",
-        "MSP 통해 중소기업 AI 네이티브 전환 지원",
-        "2400만 달러 투자 유치"
+        "LangChain, 3억 달러 투자 유치 성공",
+        "Alphabet이 투자에 참여한 것으로 보도",
+        "오픈소스 AI 에이전트 툴링 분야 선두 주자"
       ]
     },
     {
-      "title": "Nebuly wants to help enterprises understand exactly what their AI investments are worth after raising $21M",
-      "url": "https://siliconangle.com/2026/11/12/nebuly-wants-to-help-enterprises-understand-exactly-what-their-ai-investments-are-worth-after-raising-21m/",
+      "title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+      "url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
       "source": "SiliconANGLE",
       "date": "11/12",
-      "insight": "AI 투자 ROI 가시화 솔루션, 이탈리아 스타트업 2100만 달러 확보",
-      "takeaway": "AI 투자 ROI 가시화 솔루션, 이탈리아 스타트업 2100만 달러 확보",
+      "insight": "SoftBank 주도 5억 달러, 독일 AI 로봇 기업 기업가치 85억 달러",
+      "takeaway": "SoftBank 주도 5억 달러, 독일 AI 로봇 기업 기업가치 85억 달러",
       "bullets": [
-        "이탈리아 스타트업 Nebuly, 2100만 달러 조달",
-        "기업의 AI 투자 비즈니스 임팩트 측정 솔루션",
-        "AI 투자 효과 불투명 문제를 직접 공략"
+        "Agile Robots, 5억 달러 후기 단계 투자 유치",
+        "SoftBank가 라운드를 주도",
+        "기업가치 85억 달러로 평가받은 독일 스타트업"
       ]
     },
     {
-      "title": "Edelbyte reels in $70M for its multipurpose data analytics platform",
-      "url": "https://siliconangle.com/2026/11/11/edelbyte-reels-in-70m-for-its-multi-purpose-data-analytics-platform/",
+      "title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+      "url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
       "source": "SiliconANGLE",
-      "date": "11/11",
-      "insight": "AI 에이전트 최적화 데이터 분석 플랫폼, 7000만 달러로 론칭",
-      "takeaway": "AI 에이전트 최적화 데이터 분석 플랫폼, 7000만 달러로 론칭",
+      "date": "11/12",
+      "insight": "Luminal, 2300만 달러로 Nvidia CUDA 소프트웨어 해자 정면 도전",
+      "takeaway": "Luminal, 2300만 달러로 Nvidia CUDA 소프트웨어 해자 정면 도전",
       "bullets": [
-        "AI 에이전트 특화 데이터 분석 플랫폼 개발사",
-        "2라운드에 걸쳐 총 7000만 달러 조달",
-        "오늘 공식 출시와 동시에 자금 공개"
-      ]
-    },
-    {
-      "title": "British inference chip developer Fractile raises $720M in funding",
-      "url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "11/11",
-      "insight": "영국 AI 추론 칩 스타트업, 7억2000만 달러 대형 투자 유치",
-      "takeaway": "영국 AI 추론 칩 스타트업, 7억2000만 달러 대형 투자 유치",
-      "bullets": [
-        "Fractile, Thrive Capital 등이 주도한 시리즈 C",
-        "AI 추론 전용 칩 개발에 집중하는 영국 스타트업",
-        "7억2000만 달러 규모로 업계 주목"
-      ]
-    },
-    {
-      "title": "Kubernetes had settled into quiet maturity until AI blew the doors back open",
-      "url": "https://siliconangle.com/2026/11/11/agent-substrate-how-kubernetes-became-foundation-ai-kubeconna/",
-      "source": "SiliconANGLE",
-      "date": "11/11",
-      "insight": "AI 붐이 쿠버네티스를 재점화, 에이전트 실행 기반으로 부상",
-      "takeaway": "AI 붐이 쿠버네티스를 재점화, 에이전트 실행 기반으로 부상",
-      "bullets": [
-        "쿠버네티스, AI 에이전트 운용 기반으로 재주목",
-        "성숙 단계였던 기술이 AI로 다시 급성장 국면",
-        "보안 개념 재정립 등 새로운 과제도 부상"
-      ]
-    },
-    {
-      "title": "Industrial automation startup Path Robotics raises $300M in funding",
-      "url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "11/11",
-      "insight": "산업용 용접 자동화 로봇 스타트업, 3억 달러 시리즈 E 완료",
-      "takeaway": "산업용 용접 자동화 로봇 스타트업, 3억 달러 시리즈 E 완료",
-      "bullets": [
-        "Path Robotics, 산업 용접 자동화 전문 스타트업",
-        "Georgian 주도로 시리즈 E 3억 달러 유치",
-        "대형 컨소시엄이 공동 참여한 대규모 라운드"
+        "Luminal AI, 시리즈A로 2300만 달러 조달",
+        "Nvidia CUDA 소프트웨어 독점 해소 목표",
+        "AI 칩 소프트웨어 생태계 균열 시도"
       ]
     }
   ]
