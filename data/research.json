@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-09 11:31",
+  "updated": "2026-11-16 11:40",
   "articles": [
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "금리 상승기 금리위험과 자본의 질: ① 생명보험회사",
+      "category": "자본·재무",
+      "takeaway": "금리 상승기 생명보험사의 금리위험 노출과 자본의 질적 취약성을 점검해야 한다.",
+      "bullets": [
+        "IFRS17·K-ICS 체계에서 금리 변동이 자본 적정성에 직접 영향",
+        "자본의 양적 충족과 별개로 질적 구성(가용자본 성격) 중요",
+        "금리 상승 국면에서 부채 듀레이션 불일치 리스크 재부각"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=899989",
+      "date": "",
+      "collected_at": "2026-11-16"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "중산층 고령자를 위한 즉시형 장기요양연금 도입 필요성과 과제",
+      "category": "고령화·헬스케어",
+      "takeaway": "중산층 고령자 대상 즉시형 장기요양연금 도입은 보험사에 새로운 상품 기회를 제공한다.",
+      "bullets": [
+        "기존 복지 사각지대인 중산층 고령자의 요양비 충당 수단 부재",
+        "즉시 개시형 구조로 고령 가입자의 역선택·언더라이팅 과제 존재",
+        "공·사 보험 연계 설계 필요성 및 규제 정비가 선결 조건"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=899539",
+      "date": "",
+      "collected_at": "2026-11-16"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
+      "category": "고령화·헬스케어",
+      "takeaway": "전신 MRI 기반 선제적 헬스케어 모델이 보험 언더라이팅 혁신 가능성을 시사한다.",
+      "bullets": [
+        "질병을 이진(binary)이 아닌 '진행 과정'으로 정의해 조기 개입 가능",
+        "데이터·코칭 결합으로 개인별 건강 궤적 변화 유도",
+        "예방형 헬스케어 확산 시 보험 리스크 풀 구조 변화 가능"
+      ],
+      "url": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
+      "date": "11/13",
+      "collected_at": "2026-11-16"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Separating signal from noise: The always-on finance intelligence layer",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI 기반 상시 재무 인텔리전스 레이어가 보험사 CFO 조직의 의사결정 방식을 바꿀 수 있다.",
+      "bullets": [
+        "AI 툴을 재무 기능 전반에 통합해 실시간 인사이트 제공",
+        "단순 자동화를 넘어 전략적 판단 지원 역할로 확장",
+        "재무 조직의 역할 재정의 및 인력 구조 변화 수반"
+      ],
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
+      "date": "11/13",
+      "collected_at": "2026-11-16"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "The Future of Banking: Strategy for the AI Era",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI가 뱅킹 경제구조를 재편하고 있어 보험사의 방카슈랑스·제휴 전략 재검토가 필요하다.",
+      "bullets": [
+        "AI로 고객 관계·경쟁 구도·수익 모델이 동시에 변화",
+        "은행의 선택적 AI 집중 전략이 협업 파트너 선별 기준 변경 시사",
+        "보험사는 뱅킹 채널 변화에 맞춰 디지털 접점 전략 재설계 필요"
+      ],
+      "url": "https://www.bain.com/insights/future-of-banking-strategy-for-ai-era/",
+      "date": "11/12",
+      "collected_at": "2026-11-16"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Growing Stronger, Not Faster: Charles Wong on Transforming Charles & Keith Group for the Future",
+      "category": "글로벌 동향",
+      "takeaway": "패션 기업의 '빠른 성장보다 강한 성장' 전략은 보험사 장기 경쟁력 관점에서도 참고할 만하다.",
+      "bullets": [
+        "외형 확장보다 브랜드 유산과 조직 체질 강화를 우선시",
+        "글로벌 패밀리 비즈니스의 세대 간 전략 전환 사례 제시",
+        "지속 가능한 성장 프레임워크로 기업 문화 재정립 강조"
+      ],
+      "url": "https://www.bain.com/insights/growing-stronger-not-faster-charles-wong-on-transforming-charles-and-keith-group-for-the-future-video/",
+      "date": "11/11",
+      "collected_at": "2026-11-16"
+    },
     {
       "publisher": "McKinsey",
       "type": "consulting",
@@ -55,34 +145,6 @@
       ],
       "url": "https://www.bain.com/insights/btb-What-Consulting-Teaches-Founders-Building-in-the-Age-of-AI/",
       "date": "11/03",
-      "collected_at": "2026-11-09"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "금리 상승기 금리위험과 자본의 질: ① 생명보험회사",
-      "category": "규제·정책",
-      "takeaway": "금리 상승기 생보사의 금리위험과 자본 질(質) 저하 위험을 점검해야 한다.",
-      "bullets": [
-        "IFRS17·K-ICS 하에서 금리 변동이 가용자본에 미치는 민감도 분석",
-        "금리 상승 시 부채 감소 효과보다 자산 평가손이 커질 수 있음"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=899989",
-      "date": "",
-      "collected_at": "2026-11-09"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "중산층 고령자를 위한 즉시형 장기요양연금 도입 필요성과 과제",
-      "category": "고령화·헬스케어",
-      "takeaway": "중산층 고령자를 위한 즉시형 장기요양연금 도입이 시급한 정책 과제다.",
-      "bullets": [
-        "공적 급여 사각지대인 중산층 노인의 요양비 자기부담 리스크 심각",
-        "즉시연금형 LTC(장기요양) 상품 설계·규제 정비 필요성 제기"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=899539",
-      "date": "",
       "collected_at": "2026-11-09"
     },
     {
@@ -324,111 +386,6 @@
       "url": "https://www.bain.com/insights/inside-bains-2026-technology-report-webinar/",
       "date": "10/14",
       "collected_at": "2026-10-19"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
-      "category": "인슈어테크·AI",
-      "takeaway": "AI가 분석 속도를 높여도 전략적 판단은 여전히 인간의 영역임을 직시해야 한다.",
-      "bullets": [
-        "AI 속도와 인간 판단 속도의 불일치가 전략 실행의 병목(bottleneck)으로 부상",
-        "맥킨지는 이 간극을 줄일 3가지 실행 방안 제시",
-        "보험사 전략기획 시 AI 분석 결과의 의사결정 반영 체계 설계가 핵심 과제"
-      ],
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
-      "date": "10/15",
-      "collected_at": "2026-10-15"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "Voices on Planning: The AI-powered future of supply chain",
-      "category": "인슈어테크·AI",
-      "takeaway": "AI 기반 실시간 의사결정 전환은 거버넌스와 운영모델 혁신이 선행되어야 한다.",
-      "bullets": [
-        "SaaS(서비스형 소프트웨어)에서 AI 기반 플래닝으로의 패러다임 전환 진행 중",
-        "고정 계획 주기 → 실시간 의사결정으로 공급망 민첩성 확보 가능",
-        "성공 조건으로 적절한 거버넌스·전문 역량·운영모델 3가지를 명시"
-      ],
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain",
-      "date": "10/14",
-      "collected_at": "2026-10-15"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Scaling AI in Specialty Insurance: A Conversation with Markel’s Simon Wilson",
-      "category": "인슈어테크·AI",
-      "takeaway": "전문보험(Specialty Insurance)에서 AI가 스타트업 수준의 민첩성을 재현하는 핵심 도구로 부상했다.",
-      "bullets": [
-        "Markel의 Simon Wilson, AI를 '창업자 정신(Founder's Mentality)' 회복 수단으로 정의",
-        "전문보험 언더라이팅·리스크 평가 영역에서 AI 확장(Scaling) 사례 구체화",
-        "대형 보험사의 AI 내재화가 조직문화 혁신과 맞닿아 있음을 시사"
-      ],
-      "url": "https://www.bain.com/insights/scaling-ai-in-specialty-insurance-a-conversation-with-markels-simon-wilson/",
-      "date": "10/14",
-      "collected_at": "2026-10-15"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "For CPG companies, agentic AI’s real payoff is growth",
-      "category": "인슈어테크·AI",
-      "takeaway": "에이전틱 AI가 CPG 유통 복잡성을 해소하며 성장 동력으로 부상 중.",
-      "bullets": [
-        "AI 에이전트가 소매 채널 데이터 분석·실행까지 자동화해 이탈 매출 회수",
-        "리더십의 기술 수용 준비도가 실질 성과의 핵심 변수로 지목",
-        "보험사 영업채널 최적화에도 유사 적용 가능성 시사"
-      ],
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
-      "date": "10/09",
-      "collected_at": "2026-10-12"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "Why AI’s easiest wins are misleading CEOs",
-      "category": "인슈어테크·AI",
-      "takeaway": "AI 초기 성과에 안주하면 CEO가 변혁적 잠재력을 놓칠 수 있다.",
-      "bullets": [
-        "단기·쉬운 자동화 성공이 오히려 대규모 혁신 투자 의지를 약화",
-        "진정한 AI 가치는 핵심 비즈니스 모델 재편에서 발생",
-        "보험사도 단순 언더라이팅 자동화 너머의 전략적 AI 로드맵 필요"
-      ],
-      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
-      "date": "10/07",
-      "collected_at": "2026-10-12"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Realization Rate: The Metric Reshaping Enterprise AI",
-      "category": "인슈어테크·AI",
-      "takeaway": "AI 투자 실현율(Realization Rate)이 기업 경쟁우위의 새 척도로 부상.",
-      "bullets": [
-        "소프트웨어 공급자의 차별화 포인트가 기능→고객 가치 실현 지원으로 이동",
-        "AI 도입률보다 실질 성과 달성률이 핵심 KPI로 재정의",
-        "보험사의 AI 벤더 선정 기준으로 실현율 지표 도입 검토 필요"
-      ],
-      "url": "https://www.bain.com/insights/realization-rate-the-metric-reshaping-enterprise-ai/",
-      "date": "10/08",
-      "collected_at": "2026-10-12"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Reduce, Reuse, Recycle: Inside Faerch’s Closed-Loop Business Model",
-      "category": "글로벌 동향",
-      "takeaway": "포장재 기업 Faerch의 순환경제 모델은 ESG 경영의 산업적 확장 사례.",
-      "bullets": [
-        "폐쇄형 재활용(Closed-Loop) 모델을 산업 규모로 구현한 실증 사례",
-        "Climate Week NYC 2026에서 소개된 지속가능 비즈니스 혁신 논의",
-        "보험사 ESG 투자·언더라이팅 기준 수립 시 참고 가능한 모범 사례"
-      ],
-      "url": "https://www.bain.com/insights/reduce-reuse-recycle-inside-faerchs-closed-loop-business-model-video/",
-      "date": "10/08",
-      "collected_at": "2026-10-12"
     }
   ]
 }
