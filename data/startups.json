@@ -1,121 +1,121 @@
 {
-  "updated": "2026-11-13 16:52",
+  "updated": "2026-11-17 16:52",
   "items": [
+    {
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "source": "TechCrunch",
+      "date": "11/16",
+      "insight": "유럽 VC 플루럴, 11억 달러 조성으로 대형 펀드 대열 합류",
+      "takeaway": "유럽 VC 플루럴, 11억 달러 조성으로 대형 펀드 대열 합류",
+      "bullets": [
+        "Plural, €10억(약 $1.1B) 신규 펀드 조성",
+        "오퍼레이터 주도형 VC 펀드 모델",
+        "유럽 대형 펀드 성장 흐름의 일부"
+      ]
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "date": "11/13",
+      "insight": "황젠슨 퇴임으로 AI 스타트업 엔비디아 투자 축소 우려 확산",
+      "takeaway": "황젠슨 퇴임으로 AI 스타트업 엔비디아 투자 축소 우려 확산",
+      "bullets": [
+        "엔비디아, AI 스타트업에 수백억 달러 투자 주도",
+        "황젠슨 부재 시 투자 규모·밸류에이션 하락 예상",
+        "창업자·VC 모두 불확실성 증가 우려"
+      ]
+    },
     {
       "title": "Norwest pushes deeper into AI with new $4B fund",
       "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
       "source": "TechCrunch",
       "date": "11/12",
-      "insight": "Norwest, 역대 최대 40억 달러 펀드로 AI 베팅 강화",
-      "takeaway": "Norwest, 역대 최대 40억 달러 펀드로 AI 베팅 강화",
+      "insight": "노웨스트, 40억 달러 최대 규모 펀드로 AI 투자 확대",
+      "takeaway": "노웨스트, 40억 달러 최대 규모 펀드로 AI 투자 확대",
       "bullets": [
-        "Norwest가 40억 달러 규모 신규 펀드 조성",
-        "해당 운용사 역사상 최대 규모 펀드",
-        "AI 분야 집중 투자 방향 천명"
+        "Norwest, 역대 최대 규모 $4B 펀드 조성",
+        "AI 분야 집중 투자 전략 심화",
+        "대형 운용사의 AI 베팅 기조 반영"
       ]
     },
     {
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "source": "TechCrunch",
-      "date": "11/11",
-      "insight": "신규 VC 진입 장벽이 높아지는 시장서 첫 펀드 도전기",
-      "takeaway": "신규 VC 진입 장벽이 높아지는 시장서 첫 펀드 도전기",
+      "title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+      "url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+      "source": "SiliconANGLE",
+      "date": "11/16",
+      "insight": "사이버보안 특화 AI 모델 스타트업 코르마, 1.25억 달러 조달",
+      "takeaway": "사이버보안 특화 AI 모델 스타트업 코르마, 1.25억 달러 조달",
       "bullets": [
-        "Olaf Sakkers, 첫 번째 펀드 매니저로 도전",
-        "신규 VC 진입이 특히 어려운 현재 환경",
-        "5년간의 경험을 바탕으로 입지 증명 시도"
+        "NEA 주도 시리즈A 1억 2500만 달러 유치",
+        "사이버보안 팀 전용 AI 파운데이션 모델 개발",
+        "기존 투자자들도 추가 참여"
       ]
     },
     {
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "source": "TechCrunch",
-      "date": "11/10",
-      "insight": "AI 신약개발 특화 첫 펀드, 2750만 달러로 출범",
-      "takeaway": "AI 신약개발 특화 첫 펀드, 2750만 달러로 출범",
+      "title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+      "url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+      "source": "SiliconANGLE",
+      "date": "11/16",
+      "insight": "자기개선형 AI 시스템 노에리, 1.1억 달러로 화려하게 출범",
+      "takeaway": "자기개선형 AI 시스템 노에리, 1.1억 달러로 화려하게 출범",
       "bullets": [
-        "전 SignalFire 투자자 Sahir Raoof가 펀드 결성",
-        "2750만 달러 규모 데뷔 펀드 조성 완료",
-        "AI 활용 제약·신약개발 스타트업 타깃"
+        "조직 데이터 학습으로 지속 자기개선하는 AI 개발",
+        "$110M 펀딩으로 론칭",
+        "엔터프라이즈 맞춤형 리빙 AI 시스템 지향"
       ]
     },
     {
-      "title": "Five thoughts from Cisco’s first quarter of fiscal 2027",
-      "url": "https://siliconangle.com/2026/11/12/five-thoughts-from-ciscos-first-quarter-of-fiscal-2027/",
+      "title": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI",
+      "url": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/",
+      "source": "SiliconANGLE",
+      "date": "11/16",
+      "insight": "AI 기반 영국 부동산 법률 접근성 향상, 인사이트 파트너스 베팅",
+      "takeaway": "AI 기반 영국 부동산 법률 접근성 향상, 인사이트 파트너스 베팅",
+      "bullets": [
+        "런던 AI 네이티브 법률 스타트업, $20M 시드 조달",
+        "Insight Partners 리드로 소비자 법률 접근성 목표",
+        "UK 부동산 거래 법률 자동화 특화"
+      ]
+    },
+    {
+      "title": "Goodbye, manual work: AI-native CRM platform Dreamteam raises $53M to automate enterprise sales",
+      "url": "https://siliconangle.com/2026/11/16/goodbye-manual-work-ai-native-crm-startup-dreamteam-raises-53m-to-autonomously-push-deals-forward/",
+      "source": "SiliconANGLE",
+      "date": "11/16",
+      "insight": "AI 네이티브 CRM 드림팀, 5300만 달러로 기업 영업 자동화 도전",
+      "takeaway": "AI 네이티브 CRM 드림팀, 5300만 달러로 기업 영업 자동화 도전",
+      "bullets": [
+        "Dreamteam AI, $53M 초기 펀딩 유치",
+        "수동 작업 중심 CRM 패러다임 전환 목표",
+        "엔터프라이즈 영업 자동화 AI 플랫폼"
+      ]
+    },
+    {
+      "title": "Mirendil raises $1B in funding to speed up AI model development",
+      "url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
       "source": "SiliconANGLE",
       "date": "11/13",
-      "insight": "Cisco, AI가 실질 성장 동력임을 실적으로 입증",
-      "takeaway": "Cisco, AI가 실질 성장 동력임을 실적으로 입증",
+      "insight": "AI 개발 가속화 소프트웨어 미렌딜, 초기 단계에 10억 달러 유치",
+      "takeaway": "AI 개발 가속화 소프트웨어 미렌딜, 초기 단계에 10억 달러 유치",
       "bullets": [
-        "Cisco 2027 회계연도 1분기 매출·이익 사상 최고",
-        "AI가 강력한 성장 촉매제로 작용",
-        "AI 관련 의구심 해소에 충분한 실적 발표"
+        "Kleiner Perkins 등 참여, $1B 초기 투자 유치",
+        "AI 모델 개발 속도 향상 소프트웨어 제공",
+        "초기 단계 AI 인프라에 대규모 자본 집중 신호"
       ]
     },
     {
-      "title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027",
-      "url": "https://siliconangle.com/2026/11/12/cisco-beats-expectations-lifts-its-guidance-and-forecasts-ai-infrastructure-revenue-to-double-in-fiscal-2027/",
+      "title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+      "url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
       "source": "SiliconANGLE",
       "date": "11/13",
-      "insight": "Cisco, AI 인프라 매출 2027년 2배 전망하며 가이던스 상향",
-      "takeaway": "Cisco, AI 인프라 매출 2027년 2배 전망하며 가이던스 상향",
+      "insight": "독일 뉴럴샛, 72기 위성 데이터 중계망 구축에 프리시드 조달",
+      "takeaway": "독일 뉴럴샛, 72기 위성 데이터 중계망 구축에 프리시드 조달",
       "bullets": [
-        "1분기 실적 월가 예상치 상회",
-        "2027 회계연도 AI 인프라 매출 2배 성장 예고",
-        "실적 발표 후 주가는 보합세 유지"
-      ]
-    },
-    {
-      "title": "Quantum sensor and software maker Q-CTRL raises $290M in funding",
-      "url": "https://siliconangle.com/2026/11/12/quantum-sensor-and-software-maker-q-ctrl-raises-290m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "11/13",
-      "insight": "Salesforce 주도 2.9억 달러 유치, 양자센서 시장 급성장 신호",
-      "takeaway": "Salesforce 주도 2.9억 달러 유치, 양자센서 시장 급성장 신호",
-      "bullets": [
-        "Q-CTRL, 2억9000만 달러 시리즈C 완료",
-        "Salesforce Ventures가 초과청약된 라운드 주도",
-        "양자 센서 및 큐비트 관리 소프트웨어 전문기업"
-      ]
-    },
-    {
-      "title": "AI agent tooling provider LangChain secures $300M investment",
-      "url": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
-      "source": "SiliconANGLE",
-      "date": "11/12",
-      "insight": "Alphabet 등 참여, LangChain 3억 달러로 AI 에이전트 생태계 주도",
-      "takeaway": "Alphabet 등 참여, LangChain 3억 달러로 AI 에이전트 생태계 주도",
-      "bullets": [
-        "LangChain, 3억 달러 투자 유치 성공",
-        "Alphabet이 투자에 참여한 것으로 보도",
-        "오픈소스 AI 에이전트 툴링 분야 선두 주자"
-      ]
-    },
-    {
-      "title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
-      "url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
-      "source": "SiliconANGLE",
-      "date": "11/12",
-      "insight": "SoftBank 주도 5억 달러, 독일 AI 로봇 기업 기업가치 85억 달러",
-      "takeaway": "SoftBank 주도 5억 달러, 독일 AI 로봇 기업 기업가치 85억 달러",
-      "bullets": [
-        "Agile Robots, 5억 달러 후기 단계 투자 유치",
-        "SoftBank가 라운드를 주도",
-        "기업가치 85억 달러로 평가받은 독일 스타트업"
-      ]
-    },
-    {
-      "title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
-      "url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
-      "source": "SiliconANGLE",
-      "date": "11/12",
-      "insight": "Luminal, 2300만 달러로 Nvidia CUDA 소프트웨어 해자 정면 도전",
-      "takeaway": "Luminal, 2300만 달러로 Nvidia CUDA 소프트웨어 해자 정면 도전",
-      "bullets": [
-        "Luminal AI, 시리즈A로 2300만 달러 조달",
-        "Nvidia CUDA 소프트웨어 독점 해소 목표",
-        "AI 칩 소프트웨어 생태계 균열 시도"
+        "독일 스타트업, €2.9M 프리시드 펀딩 완료",
+        "72기 위성 데이터 중계·처리 네트워크 개발 목표",
+        "우주 고속 데이터 연결 및 컴퓨팅 인프라 지향"
       ]
     }
   ]
