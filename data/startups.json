@@ -1,121 +1,82 @@
 {
-  "updated": "2026-11-17 16:52",
+  "updated": "2026-11-18 16:52",
   "items": [
     {
-      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-      "source": "TechCrunch",
-      "date": "11/16",
-      "insight": "유럽 VC 플루럴, 11억 달러 조성으로 대형 펀드 대열 합류",
-      "takeaway": "유럽 VC 플루럴, 11억 달러 조성으로 대형 펀드 대열 합류",
-      "bullets": [
-        "Plural, €10억(약 $1.1B) 신규 펀드 조성",
-        "오퍼레이터 주도형 VC 펀드 모델",
-        "유럽 대형 펀드 성장 흐름의 일부"
-      ]
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "date": "11/13",
-      "insight": "황젠슨 퇴임으로 AI 스타트업 엔비디아 투자 축소 우려 확산",
-      "takeaway": "황젠슨 퇴임으로 AI 스타트업 엔비디아 투자 축소 우려 확산",
-      "bullets": [
-        "엔비디아, AI 스타트업에 수백억 달러 투자 주도",
-        "황젠슨 부재 시 투자 규모·밸류에이션 하락 예상",
-        "창업자·VC 모두 불확실성 증가 우려"
-      ]
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "source": "TechCrunch",
-      "date": "11/12",
-      "insight": "노웨스트, 40억 달러 최대 규모 펀드로 AI 투자 확대",
-      "takeaway": "노웨스트, 40억 달러 최대 규모 펀드로 AI 투자 확대",
-      "bullets": [
-        "Norwest, 역대 최대 규모 $4B 펀드 조성",
-        "AI 분야 집중 투자 전략 심화",
-        "대형 운용사의 AI 베팅 기조 반영"
-      ]
-    },
-    {
-      "title": "Corma raises $125M to train cybersecurity-optimized foundation models",
-      "url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+      "title": "CloudBackend grabs €6.6M to turn AI-generated prototypes into productive business applications",
+      "url": "https://siliconangle.com/2026/11/18/cloudbackend-grabs-e6-6m-to-turn-ai-generated-prototypes-into-productive-business-applications/",
       "source": "SiliconANGLE",
-      "date": "11/16",
-      "insight": "사이버보안 특화 AI 모델 스타트업 코르마, 1.25억 달러 조달",
-      "takeaway": "사이버보안 특화 AI 모델 스타트업 코르마, 1.25억 달러 조달",
+      "date": "11/18",
+      "insight": "AI 프로토타입을 실제 비즈니스 앱으로 전환하는 틈새 시장 공략",
+      "takeaway": "AI 프로토타입을 실제 비즈니스 앱으로 전환하는 틈새 시장 공략",
       "bullets": [
-        "NEA 주도 시리즈A 1억 2500만 달러 유치",
-        "사이버보안 팀 전용 AI 파운데이션 모델 개발",
-        "기존 투자자들도 추가 참여"
+        "CloudBackend, €660만 투자 유치",
+        "AI 생성 프로토타입의 실용화 문제 해결",
+        "일반인도 쓸 수 있는 앱→비즈니스 전환 플랫폼"
       ]
     },
     {
-      "title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
-      "url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+      "title": "Brain implant technology startup Science Corp. raises $400M to bring its medical devices to market",
+      "url": "https://siliconangle.com/2026/11/17/brain-implant-technology-startup-science-corp-raises-400m-to-bring-its-medical-devices-to-market/",
       "source": "SiliconANGLE",
-      "date": "11/16",
-      "insight": "자기개선형 AI 시스템 노에리, 1.1억 달러로 화려하게 출범",
-      "takeaway": "자기개선형 AI 시스템 노에리, 1.1억 달러로 화려하게 출범",
+      "date": "11/18",
+      "insight": "BCI 스타트업 Science Corp., 4억 달러 조달로 의료기기 상용화 박차",
+      "takeaway": "BCI 스타트업 Science Corp., 4억 달러 조달로 의료기기 상용화 박차",
       "bullets": [
-        "조직 데이터 학습으로 지속 자기개선하는 AI 개발",
-        "$110M 펀딩으로 론칭",
-        "엔터프라이즈 맞춤형 리빙 AI 시스템 지향"
+        "시리즈 D 라운드로 4억 달러 조달",
+        "기업 가치 35억 달러로 평가",
+        "뇌-컴퓨터 인터페이스 의료기기 상용화 목표"
       ]
     },
     {
-      "title": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI",
-      "url": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/",
+      "title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+      "url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
       "source": "SiliconANGLE",
-      "date": "11/16",
-      "insight": "AI 기반 영국 부동산 법률 접근성 향상, 인사이트 파트너스 베팅",
-      "takeaway": "AI 기반 영국 부동산 법률 접근성 향상, 인사이트 파트너스 베팅",
+      "date": "11/18",
+      "insight": "범용 로봇 스타트업 Genesis AI, 시리즈 A에서 5억 달러 대규모 조달",
+      "takeaway": "범용 로봇 스타트업 Genesis AI, 시리즈 A에서 5억 달러 대규모 조달",
       "bullets": [
-        "런던 AI 네이티브 법률 스타트업, $20M 시드 조달",
-        "Insight Partners 리드로 소비자 법률 접근성 목표",
-        "UK 부동산 거래 법률 자동화 특화"
+        "Premji Invest·Khosla Ventures 등이 시리즈 A 주도",
+        "기업 가치 35억 달러로 평가",
+        "범용 로봇 개발사로 대형 투자 유치"
       ]
     },
     {
-      "title": "Goodbye, manual work: AI-native CRM platform Dreamteam raises $53M to automate enterprise sales",
-      "url": "https://siliconangle.com/2026/11/16/goodbye-manual-work-ai-native-crm-startup-dreamteam-raises-53m-to-autonomously-push-deals-forward/",
+      "title": "Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
+      "url": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
       "source": "SiliconANGLE",
-      "date": "11/16",
-      "insight": "AI 네이티브 CRM 드림팀, 5300만 달러로 기업 영업 자동화 도전",
-      "takeaway": "AI 네이티브 CRM 드림팀, 5300만 달러로 기업 영업 자동화 도전",
+      "date": "11/17",
+      "insight": "Alphabet 산하 AI 신약개발사, 50억 달러 투자로 업계 판도 변화 예고",
+      "takeaway": "Alphabet 산하 AI 신약개발사, 50억 달러 투자로 업계 판도 변화 예고",
       "bullets": [
-        "Dreamteam AI, $53M 초기 펀딩 유치",
-        "수동 작업 중심 CRM 패러다임 전환 목표",
-        "엔터프라이즈 영업 자동화 AI 플랫폼"
+        "Greenoaks·Sequoia Capital 주도로 50억 달러 조달",
+        "AI 기반 신약 발견 가속화 목표",
+        "7개 이상 투자사가 참여한 대형 라운드"
       ]
     },
     {
-      "title": "Mirendil raises $1B in funding to speed up AI model development",
-      "url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+      "title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+      "url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
       "source": "SiliconANGLE",
-      "date": "11/13",
-      "insight": "AI 개발 가속화 소프트웨어 미렌딜, 초기 단계에 10억 달러 유치",
-      "takeaway": "AI 개발 가속화 소프트웨어 미렌딜, 초기 단계에 10억 달러 유치",
+      "date": "11/17",
+      "insight": "멀티모달 데이터 플랫폼으로 AI 학습 속도 높이는 LanceDB, 5750만 달러 조달",
+      "takeaway": "멀티모달 데이터 플랫폼으로 AI 학습 속도 높이는 LanceDB, 5750만 달러 조달",
       "bullets": [
-        "Kleiner Perkins 등 참여, $1B 초기 투자 유치",
-        "AI 모델 개발 속도 향상 소프트웨어 제공",
-        "초기 단계 AI 인프라에 대규모 자본 집중 신호"
+        "AI 모델 학습 가속화용 DB 기술 개발사",
+        "5750만 달러 초기 투자 유치",
+        "멀티모달 레이크하우스 플랫폼 출시 계획"
       ]
     },
     {
-      "title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
-      "url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+      "title": "With $5M in funding, Pretxt launches runtime oversight layer to supervise AI agents in real time",
+      "url": "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/",
       "source": "SiliconANGLE",
-      "date": "11/13",
-      "insight": "독일 뉴럴샛, 72기 위성 데이터 중계망 구축에 프리시드 조달",
-      "takeaway": "독일 뉴럴샛, 72기 위성 데이터 중계망 구축에 프리시드 조달",
+      "date": "11/17",
+      "insight": "자율 AI 에이전트 실시간 감시 레이어로 프로덕션 리스크 대응",
+      "takeaway": "자율 AI 에이전트 실시간 감시 레이어로 프로덕션 리스크 대응",
       "bullets": [
-        "독일 스타트업, €2.9M 프리시드 펀딩 완료",
-        "72기 위성 데이터 중계·처리 네트워크 개발 목표",
-        "우주 고속 데이터 연결 및 컴퓨팅 인프라 지향"
+        "시드 펀딩 500만 달러로 론칭",
+        "AI 에이전트 실시간 런타임 감독 기술",
+        "자율 에이전트의 프로덕션 환경 위험 차단 목표"
       ]
     }
   ]
