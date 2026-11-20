@@ -1,82 +1,82 @@
 {
-  "updated": "2026-11-19 16:52",
+  "updated": "2026-11-20 16:52",
   "items": [
     {
-      "title": "Everpure beats expectations as AI accelerates revenue growth for ninth straight quarter",
-      "url": "https://siliconangle.com/2026/11/18/everpure-beats-expectations-as-ai-accelerates-revenue-growth-for-a-ninth-straight-quarter/",
+      "title": "Industrial monitoring startup BrightAI closes $97M investment",
+      "url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/",
+      "source": "SiliconANGLE",
+      "date": "11/20",
+      "insight": "산업용 설비 이상 감지 AI, 시리즈A서 970억원 조달",
+      "takeaway": "산업용 설비 이상 감지 AI, 시리즈A서 970억원 조달",
+      "bullets": [
+        "Smith Point Capital이 시리즈A 라운드 주도",
+        "산업 기업의 오작동 장비 탐지 솔루션 제공",
+        "97M달러 투자 유치로 성장 가속화"
+      ]
+    },
+    {
+      "title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+      "url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
       "source": "SiliconANGLE",
       "date": "11/19",
-      "insight": "AI 수요가 데이터센터 인프라 기업 실적을 9분기 연속 견인",
-      "takeaway": "AI 수요가 데이터센터 인프라 기업 실적을 9분기 연속 견인",
+      "insight": "소분자 신약 연구 가속화 AI 스타트업, 1,100억원 시리즈A 완료",
+      "takeaway": "소분자 신약 연구 가속화 AI 스타트업, 1,100억원 시리즈A 완료",
       "bullets": [
-        "Everpure, 3Q 실적이 애널리스트 예상 상회",
-        "연간 전망을 3분기 연속으로 상향 조정",
-        "AI가 매출 성장 가속화의 핵심 동인으로 작용"
+        "Bessemer가 시리즈A 투자 주도",
+        "제약 연구자 대상 AI 모델 개발 전문",
+        "소분자 연구 속도 향상이 핵심 목표"
       ]
     },
     {
-      "title": "Fintech startup Payhawk valued at $2B in $280M round",
-      "url": "https://siliconangle.com/2026/11/18/fintech-startup-payhawk-valued-at-2b-in-280m-round/",
+      "title": "Enterprise AI is pushing cloud infrastructure beyond the GPU",
+      "url": "https://siliconangle.com/2026/11/19/enterprise-ai-pushing-cloud-infrastructure-beyond-gpu-kubeconna/",
       "source": "SiliconANGLE",
       "date": "11/19",
-      "insight": "기업 경비관리 핀테크 Payhawk, 20억 달러 유니콘 등극",
-      "takeaway": "기업 경비관리 핀테크 Payhawk, 20억 달러 유니콘 등극",
+      "insight": "엔터프라이즈 AI 확산으로 GPU 넘어선 새 인프라 수요 부상",
+      "takeaway": "엔터프라이즈 AI 확산으로 GPU 넘어선 새 인프라 수요 부상",
       "bullets": [
-        "시리즈 C로 2억 8천만 달러 조달, 기업가치 20억 달러",
-        "골드만삭스 성장 에쿼티 부문이 라운드 주도",
-        "기업 비용 관리 솔루션 전문 스타트업"
+        "초기 AI 투자는 GPU 확보에 집중됐음",
+        "기업 AI 도입이 새로운 인프라 요구 창출",
+        "클라우드 인프라가 GPU 중심에서 다각화 중"
       ]
     },
     {
-      "title": "Anthropic’s record-breaking IPO priced at $83 per share, higher than expected",
-      "url": "https://siliconangle.com/2026/11/18/anthropics-record-breaking-ipo-priced-at-83-per-share-higher-than-expected/",
+      "title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+      "url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
       "source": "SiliconANGLE",
-      "date": "11/18",
-      "insight": "Anthropic IPO 주당 83달러, 역사적 대형 상장으로 시장 주목",
-      "takeaway": "Anthropic IPO 주당 83달러, 역사적 대형 상장으로 시장 주목",
+      "date": "11/19",
+      "insight": "젠슨 황 없는 엔비디아 실적 콜, 매출 전년비 2배 이상 성장",
+      "takeaway": "젠슨 황 없는 엔비디아 실적 콜, 매출 전년비 2배 이상 성장",
       "bullets": [
-        "공모가 83달러, 사전 예상보다 높게 책정",
-        "역대 최대 규모 주식시장 데뷔 중 하나로 평가",
-        "AI 대형 기업의 IPO로 업계 이정표 형성"
+        "분기 매출이 전년 대비 두 배 이상 증가",
+        "Vera Rubin 칩 플랫폼 관련 성과 언급",
+        "젠슨 황 불참 첫 실적 콜에도 호실적 기록"
       ]
     },
     {
-      "title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
-      "url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+      "title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+      "url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
       "source": "SiliconANGLE",
-      "date": "11/18",
-      "insight": "팔로알토, AI 모델 훈련 스타트업 45억 달러에 인수 베팅",
-      "takeaway": "팔로알토, AI 모델 훈련 스타트업 45억 달러에 인수 베팅",
+      "date": "11/19",
+      "insight": "중국 AI 로보틱스 바이오 기업 MegaRobo, 2,000억원 유치",
+      "takeaway": "중국 AI 로보틱스 바이오 기업 MegaRobo, 2,000억원 유치",
       "bullets": [
-        "Applied Compute를 전액 주식 거래로 45억 달러에 인수 합의",
-        "AI 모델 훈련·추론 역량 확보가 목적",
-        "분기 실적도 예상치를 상회하며 호조"
+        "생명과학 자동화 인프라 확장에 투자 집중",
+        "핵심 기술 고도화 및 과학적 발견 가속 목표",
+        "200M달러 신규 펀딩으로 성장 드라이브"
       ]
     },
     {
-      "title": "Three insights you may have missed from theCUBE’s coverage of monday.com’s Elevate event",
-      "url": "https://siliconangle.com/2026/11/18/three-insights-you-may-have-missed-from-thecubes-coverage-of-monday-coms-elevate-event-mondayelevate/",
+      "title": "Nodal Networks raises $11.3M to solve global shipping bottlenecks",
+      "url": "https://siliconangle.com/2026/11/19/nodal-networks-raises-11-3m-to-solve-global-shipping-bottlenecks/",
       "source": "SiliconANGLE",
-      "date": "11/18",
-      "insight": "AI 워크플로 자동화가 기존 소프트웨어 플랫폼의 역할을 재정의 중",
-      "takeaway": "AI 워크플로 자동화가 기존 소프트웨어 플랫폼의 역할을 재정의 중",
+      "date": "11/19",
+      "insight": "컨테이너 터미널 AI 의사결정 네트워크로 글로벌 물류 병목 해소",
+      "takeaway": "컨테이너 터미널 AI 의사결정 네트워크로 글로벌 물류 병목 해소",
       "bullets": [
-        "monday.com Elevate 행사 주요 인사이트 정리",
-        "AI로 앱 구축·일상 업무 관리 방식이 변화",
-        "기존 SW 플랫폼의 위상 변화에 대한 질문 제기"
-      ]
-    },
-    {
-      "title": "Unsiloed nabs $7.5M to turn scanned documents into structured data for AI agents",
-      "url": "https://siliconangle.com/2026/11/18/unsiloed-nabs-7-5m-to-turn-scanned-documents-into-structured-data-for-ai-agents/",
-      "source": "SiliconANGLE",
-      "date": "11/18",
-      "insight": "문서→구조화 데이터 변환 스타트업, AI 에이전트 시대 수혜 기대",
-      "takeaway": "문서→구조화 데이터 변환 스타트업, AI 에이전트 시대 수혜 기대",
-      "bullets": [
-        "Unsiloed, 시드 라운드로 750만 달러 조달",
-        "PDF 등 비정형 문서를 AI 에이전트용 구조화 데이터로 변환",
-        "AI 에이전트 확산에 따른 데이터 처리 수요 겨냥"
+        "11.3M달러 시드 펀딩 조달 완료",
+        "전 세계 해운 컨테이너 터미널 관리 대상",
+        "AI 기반 의사결정 네트워크가 핵심 솔루션"
       ]
     }
   ]
