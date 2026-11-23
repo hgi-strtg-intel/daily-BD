@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-16 11:40",
+  "updated": "2026-11-23 12:39",
   "articles": [
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Physical AI is breaking out of the box",
+      "category": "인슈어테크·AI",
+      "takeaway": "물리적 AI 확산이 보험업 리스크·기회 지형을 근본적으로 바꿀 수 있다.",
+      "bullets": [
+        "로봇·자율기기 등 물리적 AI는 기존 디지털 AI보다 광범위한 산업에 침투",
+        "현재 주목받는 기술 너머의 응용 분야에서 더 큰 기회 발생 예상",
+        "新리스크 등장으로 배상책임·재물보험 상품 재설계 필요성 증가"
+      ],
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
+      "date": "11/20",
+      "collected_at": "2026-11-23"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Advancing US economic mobility in the age of AI",
+      "category": "글로벌 동향",
+      "takeaway": "AI가 경제 불평등을 심화할지 완화할지는 지금의 정책 선택에 달렸다.",
+      "bullets": [
+        "AI 자동화는 저소득·중간 숙련 직군 일자리를 우선적으로 대체할 위험",
+        "의도적 설계 없이는 AI 수익이 소수 고소득층에 집중될 가능성",
+        "보험업도 고용 구조 변화에 따른 단체·개인 보험 수요 변동 주시 필요"
+      ],
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai",
+      "date": "11/20",
+      "collected_at": "2026-11-23"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "AI Is the New Search. Here’s How Retailers Win the Answer",
+      "category": "인슈어테크·AI",
+      "takeaway": "AI가 소비자 첫 접점으로 부상해 보험사 채널·브랜드 전략 재편이 시급하다.",
+      "bullets": [
+        "소비자가 AI에 질문하면 AI가 최적 옵션을 선별·추천하는 구조로 전환",
+        "대형사보다 차별화된 가치를 명확히 표현한 사업자가 AI 추천에서 유리",
+        "보험도 비교·추천 AI 확산 시 상품 설명력(언어화) 경쟁력이 핵심 변수"
+      ],
+      "url": "https://www.bain.com/insights/ai-is-the-new-search-heres-how-retailers-win-the-answer/",
+      "date": "11/21",
+      "collected_at": "2026-11-23"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Reality Check: Agentic Commerce in Retail",
+      "category": "인슈어테크·AI",
+      "takeaway": "에이전틱 AI(자율 실행 AI)의 커머스 도입 현황은 기대보다 초기 단계임을 확인.",
+      "bullets": [
+        "2026년 초 대형 기대에도 불구, 연말 기준 소비자 행동 변화는 제한적",
+        "자율 구매 대행 AI는 신뢰·보안·결제 연동 문제로 확산 속도 지연",
+        "보험업 에이전틱 AI 도입 시 유사 장벽(규제·개인정보)을 선제 검토 필요"
+      ],
+      "url": "https://www.bain.com/insights/reality-check-agentic-commerce-in-retail-interactive/",
+      "date": "11/20",
+      "collected_at": "2026-11-23"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "금리 상승기 금리위험과 자본의 질: ② 손해보험회사",
+      "category": "자본·재무",
+      "takeaway": "금리 상승기 손보사 금리위험 노출 수준과 자본의 질 저하 여부를 점검해야 한다.",
+      "bullets": [
+        "IFRS17·K-ICS 체계에서 금리 변동이 보험부채 현가와 지급여력에 직접 연동",
+        "손보사는 장기보험 비중 확대로 금리위험 익스포저(노출도) 증가 추세",
+        "자본의 질(가용자본 구성) 악화 시 배당·성장투자 여력 동시 제약 가능"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=907639",
+      "date": "",
+      "collected_at": "2026-11-23"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "주요국의 자산집약형 재보험 규제 동향과 시사점",
+      "category": "규제·정책",
+      "takeaway": "자산집약형 재보험(Funded Reinsurance) 규제 강화가 국내 재보험 전략에 영향을 미친다.",
+      "bullets": [
+        "미국·유럽·버뮤다 등 주요국이 자산집약형 재보험의 리스크 이전 실질성 심사 강화",
+        "규제 차익(arbitrage)을 노린 역외 재보험 거래에 대한 감독 당국 경계 고조",
+        "국내 손보사도 재보험 출재 구조 검토 및 규제 대응 시나리오 준비 필요"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=907189",
+      "date": "",
+      "collected_at": "2026-11-23"
+    },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
@@ -296,96 +386,6 @@
       "url": "https://www.bain.com/insights/global-auto-consumer-survey-regional-trends-in-a-changing-world/",
       "date": "10/21",
       "collected_at": "2026-10-26"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "투자자산과 노후자산의 조화를 위한 연금세제 개편",
-      "category": "고령화·헬스케어",
-      "takeaway": "연금세제 개편으로 투자·노후자산 간 균형 잡힌 설계가 필요해진다.",
-      "bullets": [
-        "투자자산과 노후자산의 과세 체계 조화가 핵심 논의 주제",
-        "세제 개편 방향에 따라 연금 상품 설계 및 수요 구조 변화 가능",
-        "생보·손보의 연금 포트폴리오 전략 재검토 필요성 시사"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881539",
-      "date": "",
-      "collected_at": "2026-10-19"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "생명보험회사의 장기물 중심 환헤지 전략 검토",
-      "category": "자본·재무",
-      "takeaway": "생명보험사의 장기물 환헤지 전략이 금리·환율 리스크 관리의 핵심으로 부각.",
-      "bullets": [
-        "장기 외화자산 증가에 따른 환헤지 비용 및 만기 구조 최적화 검토",
-        "단기 롤오버 위주 헤지의 한계를 장기물 중심으로 보완하는 전략 논의",
-        "손보사 해외투자 확대 시 유사한 환헤지 전략 적용 가능성 존재"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=881089",
-      "date": "",
-      "collected_at": "2026-10-19"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "2026 European Holiday Shopping Outlook",
-      "category": "글로벌 동향",
-      "takeaway": "2026년 유럽 연휴 소비는 완만한 회복세로 영국·프랑스·독일 모두 소폭 성장 전망.",
-      "bullets": [
-        "UK 3.5%, 프랑스 2.5%, 독일 2.0% 전년 대비 성장 예측",
-        "소비 심리 회복이 제한적이어서 고성장 기대는 어려운 상황",
-        "유럽 소비 동향은 글로벌 재보험·여행보험 수요 예측에 참고 가능"
-      ],
-      "url": "https://www.bain.com/insights/2026-european-holiday-shopping-outlook-infographic/",
-      "date": "10/15",
-      "collected_at": "2026-10-19"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
-      "category": "인슈어테크·AI",
-      "takeaway": "AI 에이전트가 소프트웨어 개발 경제학 자체를 재편하고 있다.",
-      "bullets": [
-        "코드 작성 속도 향상을 넘어 자율 에이전트의 상용화 단계 진입",
-        "Cognition 공동창업자가 에이전트 기반 개발의 수익 구조 변화 설명",
-        "보험사 IT조직의 AI 도입 방향 설정에 직접적 참고 가능"
-      ],
-      "url": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
-      "date": "10/16",
-      "collected_at": "2026-10-19"
-    },
-    {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "What is a forward-deployed engineer?",
-      "category": "인슈어테크·AI",
-      "takeaway": "FDE(현장 배치 엔지니어)가 기업의 AI 실질 성과 창출 핵심 역할로 부상.",
-      "bullets": [
-        "FDE는 고객사 내부 시스템에 직접 임베드되어 AI 구현을 지원",
-        "McKinsey 리더 3인이 FDE 모델의 실무 적용 방식 구체적으로 설명",
-        "보험사의 AI 내재화 시 외부 전문인력 활용 모델로 참고 가능"
-      ],
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
-      "date": "10/16",
-      "collected_at": "2026-10-19"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Inside Bain's 2026 Technology Report",
-      "category": "글로벌 동향",
-      "takeaway": "Bain 2026 기술 보고서는 기업 전략을 바꾸는 핵심 기술 트렌드를 총망라한다.",
-      "bullets": [
-        "AI·클라우드·자동화 등 기술 섹터를 형성하는 거시적 힘 분석",
-        "경영진이 즉시 활용 가능한 전략적 시사점 중심으로 구성",
-        "보험사 디지털 전환 로드맵 수립 시 벤치마크 자료로 활용 가능"
-      ],
-      "url": "https://www.bain.com/insights/inside-bains-2026-technology-report-webinar/",
-      "date": "10/14",
-      "collected_at": "2026-10-19"
     }
   ]
 }
